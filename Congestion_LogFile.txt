@@ -1,0 +1,4520 @@
+This message will be written to a file.
+Run Training...
+===> Loading datasets
+===> Loading datasets takes: 4(seconds)
+===> Building model
+===> Iters(100/200000): Loss: 0.3861
+Checkpoint saved to ././Congestion//model_iters_100.pth
+===> So far taining takes: 0(minutes) and 21(seconds)
+===> Expected Time: 715(minutes) and 28(seconds)
+===> Iters(200/200000): Loss: 0.2790
+===> Iters(300/200000): Loss: 0.2654
+===> Iters(400/200000): Loss: 0.2569
+===> Iters(500/200000): Loss: 0.2537
+===> Iters(600/200000): Loss: 0.2576
+===> Iters(700/200000): Loss: 0.2634
+===> Iters(800/200000): Loss: 0.2548
+===> Iters(900/200000): Loss: 0.2499
+===> Iters(1000/200000): Loss: 0.2510
+===> So far taining takes: 2(minutes) and 52(seconds)
+===> Expected Time: 573(minutes) and 21(seconds)
+===> Iters(1100/200000): Loss: 0.2531
+===> Average Loss: 0.2585
+===> Iters(1200/200000): Loss: 0.2464
+===> Average Loss: 0.2552
+===> Iters(1300/200000): Loss: 0.2456
+===> Average Loss: 0.2532
+===> Iters(1400/200000): Loss: 0.2506
+===> Average Loss: 0.2526
+===> Iters(1500/200000): Loss: 0.2442
+===> Average Loss: 0.2517
+===> Iters(1600/200000): Loss: 0.2489
+===> Average Loss: 0.2508
+===> Iters(1700/200000): Loss: 0.2430
+===> Average Loss: 0.2487
+===> Iters(1800/200000): Loss: 0.2510
+===> Average Loss: 0.2484
+===> Iters(1900/200000): Loss: 0.2415
+===> Average Loss: 0.2475
+===> Iters(2000/200000): Loss: 0.2544
+===> Average Loss: 0.2479
+===> So far taining takes: 5(minutes) and 32(seconds)
+===> Expected Time: 553(minutes) and 32(seconds)
+===> Iters(2100/200000): Loss: 0.2359
+===> Average Loss: 0.2461
+===> Iters(2200/200000): Loss: 0.2339
+===> Average Loss: 0.2449
+===> Iters(2300/200000): Loss: 0.2366
+===> Average Loss: 0.2440
+===> Iters(2400/200000): Loss: 0.2393
+===> Average Loss: 0.2429
+===> Iters(2500/200000): Loss: 0.2402
+===> Average Loss: 0.2425
+===> Iters(2600/200000): Loss: 0.2354
+===> Average Loss: 0.2411
+===> Iters(2700/200000): Loss: 0.2373
+===> Average Loss: 0.2406
+===> Iters(2800/200000): Loss: 0.2287
+===> Average Loss: 0.2383
+===> Iters(2900/200000): Loss: 0.2330
+===> Average Loss: 0.2375
+===> Iters(3000/200000): Loss: 0.2264
+===> Average Loss: 0.2347
+===> So far taining takes: 8(minutes) and 11(seconds)
+===> Expected Time: 545(minutes) and 33(seconds)
+===> Iters(3100/200000): Loss: 0.2454
+===> Average Loss: 0.2356
+===> Iters(3200/200000): Loss: 0.2229
+===> Average Loss: 0.2345
+===> Iters(3300/200000): Loss: 0.2297
+===> Average Loss: 0.2338
+===> Iters(3400/200000): Loss: 0.2289
+===> Average Loss: 0.2328
+===> Iters(3500/200000): Loss: 0.2380
+===> Average Loss: 0.2326
+===> Iters(3600/200000): Loss: 0.2255
+===> Average Loss: 0.2316
+===> Iters(3700/200000): Loss: 0.2231
+===> Average Loss: 0.2302
+===> Iters(3800/200000): Loss: 0.2319
+===> Average Loss: 0.2305
+===> Iters(3900/200000): Loss: 0.2304
+===> Average Loss: 0.2302
+===> Iters(4000/200000): Loss: 0.2217
+===> Average Loss: 0.2297
+===> So far taining takes: 10(minutes) and 55(seconds)
+===> Expected Time: 546(minutes) and 27(seconds)
+===> Iters(4100/200000): Loss: 0.2250
+===> Average Loss: 0.2277
+===> Iters(4200/200000): Loss: 0.2258
+===> Average Loss: 0.2280
+===> Iters(4300/200000): Loss: 0.2285
+===> Average Loss: 0.2279
+===> Iters(4400/200000): Loss: 0.2110
+===> Average Loss: 0.2261
+===> Iters(4500/200000): Loss: 0.2189
+===> Average Loss: 0.2242
+===> Iters(4600/200000): Loss: 0.2118
+===> Average Loss: 0.2228
+===> Iters(4700/200000): Loss: 0.2173
+===> Average Loss: 0.2222
+===> Iters(4800/200000): Loss: 0.2243
+===> Average Loss: 0.2215
+===> Iters(4900/200000): Loss: 0.2194
+===> Average Loss: 0.2204
+===> Iters(5000/200000): Loss: 0.2213
+===> Average Loss: 0.2203
+===> So far taining takes: 13(minutes) and 34(seconds)
+===> Expected Time: 543(minutes) and 10(seconds)
+===> Iters(5100/200000): Loss: 0.2138
+===> Average Loss: 0.2192
+===> Iters(5200/200000): Loss: 0.2130
+===> Average Loss: 0.2179
+===> Iters(5300/200000): Loss: 0.2233
+===> Average Loss: 0.2174
+===> Iters(5400/200000): Loss: 0.2041
+===> Average Loss: 0.2167
+===> Iters(5500/200000): Loss: 0.2132
+===> Average Loss: 0.2162
+===> Iters(5600/200000): Loss: 0.2172
+===> Average Loss: 0.2167
+===> Iters(5700/200000): Loss: 0.2175
+===> Average Loss: 0.2167
+===> Iters(5800/200000): Loss: 0.2046
+===> Average Loss: 0.2147
+===> Iters(5900/200000): Loss: 0.2160
+===> Average Loss: 0.2144
+===> Iters(6000/200000): Loss: 0.2140
+===> Average Loss: 0.2137
+===> So far taining takes: 16(minutes) and 13(seconds)
+===> Expected Time: 541(minutes) and 0(seconds)
+===> Iters(6100/200000): Loss: 0.2032
+===> Average Loss: 0.2126
+===> Iters(6200/200000): Loss: 0.2053
+===> Average Loss: 0.2118
+===> Iters(6300/200000): Loss: 0.2080
+===> Average Loss: 0.2103
+===> Iters(6400/200000): Loss: 0.1994
+===> Average Loss: 0.2098
+===> Iters(6500/200000): Loss: 0.2062
+===> Average Loss: 0.2091
+===> Iters(6600/200000): Loss: 0.2103
+===> Average Loss: 0.2084
+===> Iters(6700/200000): Loss: 0.2007
+===> Average Loss: 0.2068
+===> Iters(6800/200000): Loss: 0.2001
+===> Average Loss: 0.2063
+===> Iters(6900/200000): Loss: 0.2088
+===> Average Loss: 0.2056
+===> Iters(7000/200000): Loss: 0.1952
+===> Average Loss: 0.2037
+===> So far taining takes: 18(minutes) and 52(seconds)
+===> Expected Time: 539(minutes) and 29(seconds)
+===> Iters(7100/200000): Loss: 0.2050
+===> Average Loss: 0.2039
+===> Iters(7200/200000): Loss: 0.1936
+===> Average Loss: 0.2027
+===> Iters(7300/200000): Loss: 0.1993
+===> Average Loss: 0.2019
+===> Iters(7400/200000): Loss: 0.2003
+===> Average Loss: 0.2019
+===> Iters(7500/200000): Loss: 0.2060
+===> Average Loss: 0.2019
+===> Iters(7600/200000): Loss: 0.1948
+===> Average Loss: 0.2004
+===> Iters(7700/200000): Loss: 0.1967
+===> Average Loss: 0.2000
+===> Iters(7800/200000): Loss: 0.1853
+===> Average Loss: 0.1985
+===> Iters(7900/200000): Loss: 0.2053
+===> Average Loss: 0.1981
+===> Iters(8000/200000): Loss: 0.1933
+===> Average Loss: 0.1980
+===> So far taining takes: 21(minutes) and 37(seconds)
+===> Expected Time: 540(minutes) and 49(seconds)
+===> Iters(8100/200000): Loss: 0.1917
+===> Average Loss: 0.1966
+===> Iters(8200/200000): Loss: 0.1874
+===> Average Loss: 0.1960
+===> Iters(8300/200000): Loss: 0.1907
+===> Average Loss: 0.1951
+===> Iters(8400/200000): Loss: 0.1969
+===> Average Loss: 0.1948
+===> Iters(8500/200000): Loss: 0.1842
+===> Average Loss: 0.1926
+===> Iters(8600/200000): Loss: 0.1872
+===> Average Loss: 0.1919
+===> Iters(8700/200000): Loss: 0.1910
+===> Average Loss: 0.1913
+===> Iters(8800/200000): Loss: 0.1902
+===> Average Loss: 0.1918
+===> Iters(8900/200000): Loss: 0.1950
+===> Average Loss: 0.1908
+===> Iters(9000/200000): Loss: 0.1824
+===> Average Loss: 0.1897
+===> So far taining takes: 24(minutes) and 17(seconds)
+===> Expected Time: 539(minutes) and 41(seconds)
+===> Iters(9100/200000): Loss: 0.1793
+===> Average Loss: 0.1884
+===> Iters(9200/200000): Loss: 0.1759
+===> Average Loss: 0.1873
+===> Iters(9300/200000): Loss: 0.1859
+===> Average Loss: 0.1868
+===> Iters(9400/200000): Loss: 0.1795
+===> Average Loss: 0.1851
+===> Iters(9500/200000): Loss: 0.1811
+===> Average Loss: 0.1847
+===> Iters(9600/200000): Loss: 0.1844
+===> Average Loss: 0.1845
+===> Iters(9700/200000): Loss: 0.1815
+===> Average Loss: 0.1835
+===> Iters(9800/200000): Loss: 0.1810
+===> Average Loss: 0.1826
+===> Iters(9900/200000): Loss: 0.1824
+===> Average Loss: 0.1813
+===> Iters(10000/200000): Loss: 0.1769
+===> Average Loss: 0.1808
+Checkpoint saved to ././Congestion//model_iters_10000.pth
+===> So far taining takes: 26(minutes) and 56(seconds)
+===> Expected Time: 538(minutes) and 47(seconds)
+===> Iters(10100/200000): Loss: 0.1721
+===> Average Loss: 0.1801
+===> Iters(10200/200000): Loss: 0.1732
+===> Average Loss: 0.1798
+===> Iters(10300/200000): Loss: 0.1776
+===> Average Loss: 0.1789
+===> Iters(10400/200000): Loss: 0.1747
+===> Average Loss: 0.1785
+===> Iters(10500/200000): Loss: 0.1755
+===> Average Loss: 0.1779
+===> Iters(10600/200000): Loss: 0.1753
+===> Average Loss: 0.1770
+===> Iters(10700/200000): Loss: 0.1693
+===> Average Loss: 0.1758
+===> Iters(10800/200000): Loss: 0.1633
+===> Average Loss: 0.1740
+===> Iters(10900/200000): Loss: 0.1762
+===> Average Loss: 0.1734
+===> Iters(11000/200000): Loss: 0.1738
+===> Average Loss: 0.1731
+===> So far taining takes: 29(minutes) and 35(seconds)
+===> Expected Time: 538(minutes) and 4(seconds)
+===> Iters(11100/200000): Loss: 0.1633
+===> Average Loss: 0.1722
+===> Iters(11200/200000): Loss: 0.1671
+===> Average Loss: 0.1716
+===> Iters(11300/200000): Loss: 0.1647
+===> Average Loss: 0.1703
+===> Iters(11400/200000): Loss: 0.1684
+===> Average Loss: 0.1697
+===> Iters(11500/200000): Loss: 0.1747
+===> Average Loss: 0.1696
+===> Iters(11600/200000): Loss: 0.1618
+===> Average Loss: 0.1683
+===> Iters(11700/200000): Loss: 0.1635
+===> Average Loss: 0.1677
+===> Iters(11800/200000): Loss: 0.1644
+===> Average Loss: 0.1678
+===> Iters(11900/200000): Loss: 0.1636
+===> Average Loss: 0.1665
+===> Iters(12000/200000): Loss: 0.1592
+===> Average Loss: 0.1651
+===> So far taining takes: 32(minutes) and 22(seconds)
+===> Expected Time: 539(minutes) and 36(seconds)
+===> Iters(12100/200000): Loss: 0.1609
+===> Average Loss: 0.1648
+===> Iters(12200/200000): Loss: 0.1631
+===> Average Loss: 0.1644
+===> Iters(12300/200000): Loss: 0.1593
+===> Average Loss: 0.1639
+===> Iters(12400/200000): Loss: 0.1578
+===> Average Loss: 0.1628
+===> Iters(12500/200000): Loss: 0.1562
+===> Average Loss: 0.1610
+===> Iters(12600/200000): Loss: 0.1571
+===> Average Loss: 0.1605
+===> Iters(12700/200000): Loss: 0.1569
+===> Average Loss: 0.1599
+===> Iters(12800/200000): Loss: 0.1557
+===> Average Loss: 0.1590
+===> Iters(12900/200000): Loss: 0.1552
+===> Average Loss: 0.1581
+===> Iters(13000/200000): Loss: 0.1550
+===> Average Loss: 0.1577
+===> So far taining takes: 35(minutes) and 2(seconds)
+===> Expected Time: 539(minutes) and 13(seconds)
+===> Iters(13100/200000): Loss: 0.1604
+===> Average Loss: 0.1577
+===> Iters(13200/200000): Loss: 0.1516
+===> Average Loss: 0.1565
+===> Iters(13300/200000): Loss: 0.1563
+===> Average Loss: 0.1562
+===> Iters(13400/200000): Loss: 0.1551
+===> Average Loss: 0.1559
+===> Iters(13500/200000): Loss: 0.1510
+===> Average Loss: 0.1554
+===> Iters(13600/200000): Loss: 0.1567
+===> Average Loss: 0.1554
+===> Iters(13700/200000): Loss: 0.1557
+===> Average Loss: 0.1552
+===> Iters(13800/200000): Loss: 0.1526
+===> Average Loss: 0.1549
+===> Iters(13900/200000): Loss: 0.1494
+===> Average Loss: 0.1544
+===> Iters(14000/200000): Loss: 0.1492
+===> Average Loss: 0.1538
+===> So far taining takes: 37(minutes) and 42(seconds)
+===> Expected Time: 538(minutes) and 41(seconds)
+===> Iters(14100/200000): Loss: 0.1489
+===> Average Loss: 0.1526
+===> Iters(14200/200000): Loss: 0.1516
+===> Average Loss: 0.1526
+===> Iters(14300/200000): Loss: 0.1454
+===> Average Loss: 0.1516
+===> Iters(14400/200000): Loss: 0.1548
+===> Average Loss: 0.1515
+===> Iters(14500/200000): Loss: 0.1496
+===> Average Loss: 0.1514
+===> Iters(14600/200000): Loss: 0.1495
+===> Average Loss: 0.1507
+===> Iters(14700/200000): Loss: 0.1473
+===> Average Loss: 0.1498
+===> Iters(14800/200000): Loss: 0.1452
+===> Average Loss: 0.1491
+===> Iters(14900/200000): Loss: 0.1480
+===> Average Loss: 0.1490
+===> Iters(15000/200000): Loss: 0.1481
+===> Average Loss: 0.1488
+===> So far taining takes: 40(minutes) and 22(seconds)
+===> Expected Time: 538(minutes) and 14(seconds)
+===> Iters(15100/200000): Loss: 0.1444
+===> Average Loss: 0.1484
+===> Iters(15200/200000): Loss: 0.1430
+===> Average Loss: 0.1475
+===> Iters(15300/200000): Loss: 0.1483
+===> Average Loss: 0.1478
+===> Iters(15400/200000): Loss: 0.1446
+===> Average Loss: 0.1468
+===> Iters(15500/200000): Loss: 0.1488
+===> Average Loss: 0.1467
+===> Iters(15600/200000): Loss: 0.1468
+===> Average Loss: 0.1465
+===> Iters(15700/200000): Loss: 0.1427
+===> Average Loss: 0.1460
+===> Iters(15800/200000): Loss: 0.1462
+===> Average Loss: 0.1461
+===> Iters(15900/200000): Loss: 0.1423
+===> Average Loss: 0.1455
+===> Iters(16000/200000): Loss: 0.1431
+===> Average Loss: 0.1450
+===> So far taining takes: 43(minutes) and 7(seconds)
+===> Expected Time: 539(minutes) and 4(seconds)
+===> Iters(16100/200000): Loss: 0.1493
+===> Average Loss: 0.1455
+===> Iters(16200/200000): Loss: 0.1373
+===> Average Loss: 0.1449
+===> Iters(16300/200000): Loss: 0.1378
+===> Average Loss: 0.1439
+===> Iters(16400/200000): Loss: 0.1442
+===> Average Loss: 0.1438
+===> Iters(16500/200000): Loss: 0.1410
+===> Average Loss: 0.1431
+===> Iters(16600/200000): Loss: 0.1430
+===> Average Loss: 0.1427
+===> Iters(16700/200000): Loss: 0.1393
+===> Average Loss: 0.1423
+===> Iters(16800/200000): Loss: 0.1402
+===> Average Loss: 0.1417
+===> Iters(16900/200000): Loss: 0.1402
+===> Average Loss: 0.1415
+===> Iters(17000/200000): Loss: 0.1439
+===> Average Loss: 0.1416
+===> So far taining takes: 45(minutes) and 47(seconds)
+===> Expected Time: 538(minutes) and 37(seconds)
+===> Iters(17100/200000): Loss: 0.1397
+===> Average Loss: 0.1407
+===> Iters(17200/200000): Loss: 0.1398
+===> Average Loss: 0.1409
+===> Iters(17300/200000): Loss: 0.1402
+===> Average Loss: 0.1411
+===> Iters(17400/200000): Loss: 0.1402
+===> Average Loss: 0.1407
+===> Iters(17500/200000): Loss: 0.1346
+===> Average Loss: 0.1401
+===> Iters(17600/200000): Loss: 0.1394
+===> Average Loss: 0.1397
+===> Iters(17700/200000): Loss: 0.1330
+===> Average Loss: 0.1391
+===> Iters(17800/200000): Loss: 0.1387
+===> Average Loss: 0.1390
+===> Iters(17900/200000): Loss: 0.1329
+===> Average Loss: 0.1382
+===> Iters(18000/200000): Loss: 0.1410
+===> Average Loss: 0.1380
+===> So far taining takes: 48(minutes) and 26(seconds)
+===> Expected Time: 538(minutes) and 15(seconds)
+===> Iters(18100/200000): Loss: 0.1352
+===> Average Loss: 0.1375
+===> Iters(18200/200000): Loss: 0.1330
+===> Average Loss: 0.1368
+===> Iters(18300/200000): Loss: 0.1381
+===> Average Loss: 0.1366
+===> Iters(18400/200000): Loss: 0.1318
+===> Average Loss: 0.1358
+===> Iters(18500/200000): Loss: 0.1371
+===> Average Loss: 0.1360
+===> Iters(18600/200000): Loss: 0.1374
+===> Average Loss: 0.1358
+===> Iters(18700/200000): Loss: 0.1346
+===> Average Loss: 0.1360
+===> Iters(18800/200000): Loss: 0.1321
+===> Average Loss: 0.1353
+===> Iters(18900/200000): Loss: 0.1301
+===> Average Loss: 0.1350
+===> Iters(19000/200000): Loss: 0.1398
+===> Average Loss: 0.1349
+===> So far taining takes: 51(minutes) and 6(seconds)
+===> Expected Time: 537(minutes) and 55(seconds)
+===> Iters(19100/200000): Loss: 0.1344
+===> Average Loss: 0.1348
+===> Iters(19200/200000): Loss: 0.1328
+===> Average Loss: 0.1348
+===> Iters(19300/200000): Loss: 0.1307
+===> Average Loss: 0.1341
+===> Iters(19400/200000): Loss: 0.1421
+===> Average Loss: 0.1351
+===> Iters(19500/200000): Loss: 0.1301
+===> Average Loss: 0.1344
+===> Iters(19600/200000): Loss: 0.1357
+===> Average Loss: 0.1342
+===> Iters(19700/200000): Loss: 0.1309
+===> Average Loss: 0.1339
+===> Iters(19800/200000): Loss: 0.1316
+===> Average Loss: 0.1338
+===> Iters(19900/200000): Loss: 0.1329
+===> Average Loss: 0.1341
+===> Iters(20000/200000): Loss: 0.1395
+===> Average Loss: 0.1341
+Checkpoint saved to ././Congestion//model_iters_20000.pth
+===> So far taining takes: 53(minutes) and 51(seconds)
+===> Expected Time: 538(minutes) and 36(seconds)
+===> Iters(20100/200000): Loss: 0.1298
+===> Average Loss: 0.1336
+===> Iters(20200/200000): Loss: 0.1292
+===> Average Loss: 0.1333
+===> Iters(20300/200000): Loss: 0.1311
+===> Average Loss: 0.1333
+===> Iters(20400/200000): Loss: 0.1279
+===> Average Loss: 0.1319
+===> Iters(20500/200000): Loss: 0.1270
+===> Average Loss: 0.1316
+===> Iters(20600/200000): Loss: 0.1296
+===> Average Loss: 0.1310
+===> Iters(20700/200000): Loss: 0.1303
+===> Average Loss: 0.1309
+===> Iters(20800/200000): Loss: 0.1354
+===> Average Loss: 0.1313
+===> Iters(20900/200000): Loss: 0.1285
+===> Average Loss: 0.1308
+===> Iters(21000/200000): Loss: 0.1292
+===> Average Loss: 0.1298
+===> So far taining takes: 56(minutes) and 31(seconds)
+===> Expected Time: 538(minutes) and 19(seconds)
+===> Iters(21100/200000): Loss: 0.1310
+===> Average Loss: 0.1299
+===> Iters(21200/200000): Loss: 0.1265
+===> Average Loss: 0.1297
+===> Iters(21300/200000): Loss: 0.1264
+===> Average Loss: 0.1292
+===> Iters(21400/200000): Loss: 0.1304
+===> Average Loss: 0.1294
+===> Iters(21500/200000): Loss: 0.1252
+===> Average Loss: 0.1292
+===> Iters(21600/200000): Loss: 0.1291
+===> Average Loss: 0.1292
+===> Iters(21700/200000): Loss: 0.1295
+===> Average Loss: 0.1291
+===> Iters(21800/200000): Loss: 0.1312
+===> Average Loss: 0.1287
+===> Iters(21900/200000): Loss: 0.1251
+===> Average Loss: 0.1284
+===> Iters(22000/200000): Loss: 0.1265
+===> Average Loss: 0.1281
+===> So far taining takes: 59(minutes) and 11(seconds)
+===> Expected Time: 538(minutes) and 2(seconds)
+===> Iters(22100/200000): Loss: 0.1285
+===> Average Loss: 0.1278
+===> Iters(22200/200000): Loss: 0.1250
+===> Average Loss: 0.1277
+===> Iters(22300/200000): Loss: 0.1221
+===> Average Loss: 0.1273
+===> Iters(22400/200000): Loss: 0.1299
+===> Average Loss: 0.1272
+===> Iters(22500/200000): Loss: 0.1273
+===> Average Loss: 0.1274
+===> Iters(22600/200000): Loss: 0.1259
+===> Average Loss: 0.1271
+===> Iters(22700/200000): Loss: 0.1252
+===> Average Loss: 0.1267
+===> Iters(22800/200000): Loss: 0.1261
+===> Average Loss: 0.1262
+===> Iters(22900/200000): Loss: 0.1238
+===> Average Loss: 0.1260
+===> Iters(23000/200000): Loss: 0.1244
+===> Average Loss: 0.1258
+===> So far taining takes: 61(minutes) and 56(seconds)
+===> Expected Time: 538(minutes) and 39(seconds)
+===> Iters(23100/200000): Loss: 0.1246
+===> Average Loss: 0.1254
+===> Iters(23200/200000): Loss: 0.1275
+===> Average Loss: 0.1257
+===> Iters(23300/200000): Loss: 0.1209
+===> Average Loss: 0.1256
+===> Iters(23400/200000): Loss: 0.1247
+===> Average Loss: 0.1250
+===> Iters(23500/200000): Loss: 0.1236
+===> Average Loss: 0.1247
+===> Iters(23600/200000): Loss: 0.1221
+===> Average Loss: 0.1243
+===> Iters(23700/200000): Loss: 0.1266
+===> Average Loss: 0.1244
+===> Iters(23800/200000): Loss: 0.1266
+===> Average Loss: 0.1245
+===> Iters(23900/200000): Loss: 0.1237
+===> Average Loss: 0.1245
+===> Iters(24000/200000): Loss: 0.1217
+===> Average Loss: 0.1242
+===> So far taining takes: 64(minutes) and 36(seconds)
+===> Expected Time: 538(minutes) and 21(seconds)
+===> Iters(24100/200000): Loss: 0.1204
+===> Average Loss: 0.1238
+===> Iters(24200/200000): Loss: 0.1276
+===> Average Loss: 0.1238
+===> Iters(24300/200000): Loss: 0.1236
+===> Average Loss: 0.1241
+===> Iters(24400/200000): Loss: 0.1228
+===> Average Loss: 0.1239
+===> Iters(24500/200000): Loss: 0.1233
+===> Average Loss: 0.1238
+===> Iters(24600/200000): Loss: 0.1226
+===> Average Loss: 0.1239
+===> Iters(24700/200000): Loss: 0.1205
+===> Average Loss: 0.1233
+===> Iters(24800/200000): Loss: 0.1225
+===> Average Loss: 0.1229
+===> Iters(24900/200000): Loss: 0.1201
+===> Average Loss: 0.1225
+===> Iters(25000/200000): Loss: 0.1189
+===> Average Loss: 0.1222
+===> So far taining takes: 67(minutes) and 15(seconds)
+===> Expected Time: 538(minutes) and 5(seconds)
+===> Iters(25100/200000): Loss: 0.1259
+===> Average Loss: 0.1228
+===> Iters(25200/200000): Loss: 0.1270
+===> Average Loss: 0.1227
+===> Iters(25300/200000): Loss: 0.1224
+===> Average Loss: 0.1226
+===> Iters(25400/200000): Loss: 0.1197
+===> Average Loss: 0.1223
+===> Iters(25500/200000): Loss: 0.1184
+===> Average Loss: 0.1218
+===> Iters(25600/200000): Loss: 0.1224
+===> Average Loss: 0.1218
+===> Iters(25700/200000): Loss: 0.1250
+===> Average Loss: 0.1222
+===> Iters(25800/200000): Loss: 0.1169
+===> Average Loss: 0.1217
+===> Iters(25900/200000): Loss: 0.1215
+===> Average Loss: 0.1218
+===> Iters(26000/200000): Loss: 0.1185
+===> Average Loss: 0.1218
+===> So far taining takes: 69(minutes) and 58(seconds)
+===> Expected Time: 538(minutes) and 12(seconds)
+===> Iters(26100/200000): Loss: 0.1206
+===> Average Loss: 0.1212
+===> Iters(26200/200000): Loss: 0.1173
+===> Average Loss: 0.1203
+===> Iters(26300/200000): Loss: 0.1158
+===> Average Loss: 0.1196
+===> Iters(26400/200000): Loss: 0.1219
+===> Average Loss: 0.1198
+===> Iters(26500/200000): Loss: 0.1244
+===> Average Loss: 0.1204
+===> Iters(26600/200000): Loss: 0.1195
+===> Average Loss: 0.1201
+===> Iters(26700/200000): Loss: 0.1185
+===> Average Loss: 0.1195
+===> Iters(26800/200000): Loss: 0.1214
+===> Average Loss: 0.1199
+===> Iters(26900/200000): Loss: 0.1176
+===> Average Loss: 0.1196
+===> Iters(27000/200000): Loss: 0.1180
+===> Average Loss: 0.1195
+===> So far taining takes: 72(minutes) and 44(seconds)
+===> Expected Time: 538(minutes) and 51(seconds)
+===> Iters(27100/200000): Loss: 0.1155
+===> Average Loss: 0.1190
+===> Iters(27200/200000): Loss: 0.1201
+===> Average Loss: 0.1193
+===> Iters(27300/200000): Loss: 0.1207
+===> Average Loss: 0.1198
+===> Iters(27400/200000): Loss: 0.1184
+===> Average Loss: 0.1194
+===> Iters(27500/200000): Loss: 0.1219
+===> Average Loss: 0.1192
+===> Iters(27600/200000): Loss: 0.1150
+===> Average Loss: 0.1187
+===> Iters(27700/200000): Loss: 0.1161
+===> Average Loss: 0.1185
+===> Iters(27800/200000): Loss: 0.1181
+===> Average Loss: 0.1182
+===> Iters(27900/200000): Loss: 0.1200
+===> Average Loss: 0.1184
+===> Iters(28000/200000): Loss: 0.1203
+===> Average Loss: 0.1186
+===> So far taining takes: 75(minutes) and 24(seconds)
+===> Expected Time: 538(minutes) and 35(seconds)
+===> Iters(28100/200000): Loss: 0.1110
+===> Average Loss: 0.1182
+===> Iters(28200/200000): Loss: 0.1168
+===> Average Loss: 0.1178
+===> Iters(28300/200000): Loss: 0.1205
+===> Average Loss: 0.1178
+===> Iters(28400/200000): Loss: 0.1124
+===> Average Loss: 0.1172
+===> Iters(28500/200000): Loss: 0.1183
+===> Average Loss: 0.1168
+===> Iters(28600/200000): Loss: 0.1145
+===> Average Loss: 0.1168
+===> Iters(28700/200000): Loss: 0.1169
+===> Average Loss: 0.1169
+===> Iters(28800/200000): Loss: 0.1178
+===> Average Loss: 0.1168
+===> Iters(28900/200000): Loss: 0.1147
+===> Average Loss: 0.1163
+===> Iters(29000/200000): Loss: 0.1191
+===> Average Loss: 0.1162
+===> So far taining takes: 78(minutes) and 4(seconds)
+===> Expected Time: 538(minutes) and 24(seconds)
+===> Iters(29100/200000): Loss: 0.1153
+===> Average Loss: 0.1166
+===> Iters(29200/200000): Loss: 0.1130
+===> Average Loss: 0.1162
+===> Iters(29300/200000): Loss: 0.1145
+===> Average Loss: 0.1156
+===> Iters(29400/200000): Loss: 0.1149
+===> Average Loss: 0.1159
+===> Iters(29500/200000): Loss: 0.1125
+===> Average Loss: 0.1153
+===> Iters(29600/200000): Loss: 0.1170
+===> Average Loss: 0.1156
+===> Iters(29700/200000): Loss: 0.1124
+===> Average Loss: 0.1151
+===> Iters(29800/200000): Loss: 0.1161
+===> Average Loss: 0.1150
+===> Iters(29900/200000): Loss: 0.1202
+===> Average Loss: 0.1155
+===> Iters(30000/200000): Loss: 0.1117
+===> Average Loss: 0.1148
+Checkpoint saved to ././Congestion//model_iters_30000.pth
+===> So far taining takes: 80(minutes) and 44(seconds)
+===> Expected Time: 538(minutes) and 16(seconds)
+===> Iters(30100/200000): Loss: 0.1114
+===> Average Loss: 0.1144
+===> Iters(30200/200000): Loss: 0.1156
+===> Average Loss: 0.1146
+===> Iters(30300/200000): Loss: 0.1138
+===> Average Loss: 0.1146
+===> Iters(30400/200000): Loss: 0.1154
+===> Average Loss: 0.1146
+===> Iters(30500/200000): Loss: 0.1170
+===> Average Loss: 0.1151
+===> Iters(30600/200000): Loss: 0.1144
+===> Average Loss: 0.1148
+===> Iters(30700/200000): Loss: 0.1133
+===> Average Loss: 0.1149
+===> Iters(30800/200000): Loss: 0.1139
+===> Average Loss: 0.1147
+===> Iters(30900/200000): Loss: 0.1101
+===> Average Loss: 0.1137
+===> Iters(31000/200000): Loss: 0.1151
+===> Average Loss: 0.1140
+===> So far taining takes: 83(minutes) and 30(seconds)
+===> Expected Time: 538(minutes) and 43(seconds)
+===> Iters(31100/200000): Loss: 0.1109
+===> Average Loss: 0.1139
+===> Iters(31200/200000): Loss: 0.1168
+===> Average Loss: 0.1141
+===> Iters(31300/200000): Loss: 0.1117
+===> Average Loss: 0.1139
+===> Iters(31400/200000): Loss: 0.1116
+===> Average Loss: 0.1135
+===> Iters(31500/200000): Loss: 0.1089
+===> Average Loss: 0.1127
+===> Iters(31600/200000): Loss: 0.1159
+===> Average Loss: 0.1128
+===> Iters(31700/200000): Loss: 0.1127
+===> Average Loss: 0.1127
+===> Iters(31800/200000): Loss: 0.1181
+===> Average Loss: 0.1132
+===> Iters(31900/200000): Loss: 0.1133
+===> Average Loss: 0.1135
+===> Iters(32000/200000): Loss: 0.1113
+===> Average Loss: 0.1131
+===> So far taining takes: 86(minutes) and 9(seconds)
+===> Expected Time: 538(minutes) and 31(seconds)
+===> Iters(32100/200000): Loss: 0.1146
+===> Average Loss: 0.1135
+===> Iters(32200/200000): Loss: 0.1118
+===> Average Loss: 0.1130
+===> Iters(32300/200000): Loss: 0.1132
+===> Average Loss: 0.1131
+===> Iters(32400/200000): Loss: 0.1122
+===> Average Loss: 0.1132
+===> Iters(32500/200000): Loss: 0.1134
+===> Average Loss: 0.1136
+===> Iters(32600/200000): Loss: 0.1121
+===> Average Loss: 0.1133
+===> Iters(32700/200000): Loss: 0.1113
+===> Average Loss: 0.1131
+===> Iters(32800/200000): Loss: 0.1126
+===> Average Loss: 0.1126
+===> Iters(32900/200000): Loss: 0.1091
+===> Average Loss: 0.1122
+===> Iters(33000/200000): Loss: 0.1120
+===> Average Loss: 0.1122
+===> So far taining takes: 88(minutes) and 49(seconds)
+===> Expected Time: 538(minutes) and 20(seconds)
+===> Iters(33100/200000): Loss: 0.1143
+===> Average Loss: 0.1122
+===> Iters(33200/200000): Loss: 0.1123
+===> Average Loss: 0.1122
+===> Iters(33300/200000): Loss: 0.1081
+===> Average Loss: 0.1117
+===> Iters(33400/200000): Loss: 0.1138
+===> Average Loss: 0.1119
+===> Iters(33500/200000): Loss: 0.1124
+===> Average Loss: 0.1118
+===> Iters(33600/200000): Loss: 0.1112
+===> Average Loss: 0.1117
+===> Iters(33700/200000): Loss: 0.1092
+===> Average Loss: 0.1115
+===> Iters(33800/200000): Loss: 0.1109
+===> Average Loss: 0.1113
+===> Iters(33900/200000): Loss: 0.1076
+===> Average Loss: 0.1112
+===> Iters(34000/200000): Loss: 0.1146
+===> Average Loss: 0.1114
+===> So far taining takes: 91(minutes) and 29(seconds)
+===> Expected Time: 538(minutes) and 10(seconds)
+===> Iters(34100/200000): Loss: 0.1125
+===> Average Loss: 0.1113
+===> Iters(34200/200000): Loss: 0.1101
+===> Average Loss: 0.1110
+===> Iters(34300/200000): Loss: 0.1104
+===> Average Loss: 0.1113
+===> Iters(34400/200000): Loss: 0.1119
+===> Average Loss: 0.1111
+===> Iters(34500/200000): Loss: 0.1082
+===> Average Loss: 0.1107
+===> Iters(34600/200000): Loss: 0.1139
+===> Average Loss: 0.1109
+===> Iters(34700/200000): Loss: 0.1058
+===> Average Loss: 0.1106
+===> Iters(34800/200000): Loss: 0.1091
+===> Average Loss: 0.1104
+===> Iters(34900/200000): Loss: 0.1099
+===> Average Loss: 0.1107
+===> Iters(35000/200000): Loss: 0.1081
+===> Average Loss: 0.1100
+===> So far taining takes: 94(minutes) and 17(seconds)
+===> Expected Time: 538(minutes) and 46(seconds)
+===> Iters(35100/200000): Loss: 0.1091
+===> Average Loss: 0.1097
+===> Iters(35200/200000): Loss: 0.1113
+===> Average Loss: 0.1098
+===> Iters(35300/200000): Loss: 0.1108
+===> Average Loss: 0.1098
+===> Iters(35400/200000): Loss: 0.1089
+===> Average Loss: 0.1095
+===> Iters(35500/200000): Loss: 0.1101
+===> Average Loss: 0.1097
+===> Iters(35600/200000): Loss: 0.1052
+===> Average Loss: 0.1088
+===> Iters(35700/200000): Loss: 0.1096
+===> Average Loss: 0.1092
+===> Iters(35800/200000): Loss: 0.1077
+===> Average Loss: 0.1091
+===> Iters(35900/200000): Loss: 0.1071
+===> Average Loss: 0.1088
+===> Iters(36000/200000): Loss: 0.1116
+===> Average Loss: 0.1091
+===> So far taining takes: 96(minutes) and 56(seconds)
+===> Expected Time: 538(minutes) and 35(seconds)
+===> Iters(36100/200000): Loss: 0.1089
+===> Average Loss: 0.1091
+===> Iters(36200/200000): Loss: 0.1083
+===> Average Loss: 0.1088
+===> Iters(36300/200000): Loss: 0.1081
+===> Average Loss: 0.1086
+===> Iters(36400/200000): Loss: 0.1062
+===> Average Loss: 0.1083
+===> Iters(36500/200000): Loss: 0.1105
+===> Average Loss: 0.1083
+===> Iters(36600/200000): Loss: 0.1091
+===> Average Loss: 0.1087
+===> Iters(36700/200000): Loss: 0.1083
+===> Average Loss: 0.1086
+===> Iters(36800/200000): Loss: 0.1092
+===> Average Loss: 0.1087
+===> Iters(36900/200000): Loss: 0.1072
+===> Average Loss: 0.1087
+===> Iters(37000/200000): Loss: 0.1083
+===> Average Loss: 0.1084
+===> So far taining takes: 99(minutes) and 36(seconds)
+===> Expected Time: 538(minutes) and 25(seconds)
+===> Iters(37100/200000): Loss: 0.1071
+===> Average Loss: 0.1082
+===> Iters(37200/200000): Loss: 0.1050
+===> Average Loss: 0.1079
+===> Iters(37300/200000): Loss: 0.1087
+===> Average Loss: 0.1080
+===> Iters(37400/200000): Loss: 0.1090
+===> Average Loss: 0.1082
+===> Iters(37500/200000): Loss: 0.1088
+===> Average Loss: 0.1081
+===> Iters(37600/200000): Loss: 0.1054
+===> Average Loss: 0.1077
+===> Iters(37700/200000): Loss: 0.1077
+===> Average Loss: 0.1076
+===> Iters(37800/200000): Loss: 0.1084
+===> Average Loss: 0.1076
+===> Iters(37900/200000): Loss: 0.1067
+===> Average Loss: 0.1075
+===> Iters(38000/200000): Loss: 0.1077
+===> Average Loss: 0.1074
+===> So far taining takes: 102(minutes) and 16(seconds)
+===> Expected Time: 538(minutes) and 15(seconds)
+===> Iters(38100/200000): Loss: 0.1071
+===> Average Loss: 0.1074
+===> Iters(38200/200000): Loss: 0.1038
+===> Average Loss: 0.1073
+===> Iters(38300/200000): Loss: 0.1093
+===> Average Loss: 0.1074
+===> Iters(38400/200000): Loss: 0.1071
+===> Average Loss: 0.1072
+===> Iters(38500/200000): Loss: 0.1072
+===> Average Loss: 0.1070
+===> Iters(38600/200000): Loss: 0.1085
+===> Average Loss: 0.1073
+===> Iters(38700/200000): Loss: 0.1022
+===> Average Loss: 0.1068
+===> Iters(38800/200000): Loss: 0.1108
+===> Average Loss: 0.1070
+===> Iters(38900/200000): Loss: 0.1074
+===> Average Loss: 0.1071
+===> Iters(39000/200000): Loss: 0.1039
+===> Average Loss: 0.1067
+===> So far taining takes: 105(minutes) and 1(seconds)
+===> Expected Time: 538(minutes) and 34(seconds)
+===> Iters(39100/200000): Loss: 0.1009
+===> Average Loss: 0.1061
+===> Iters(39200/200000): Loss: 0.1134
+===> Average Loss: 0.1071
+===> Iters(39300/200000): Loss: 0.1081
+===> Average Loss: 0.1070
+===> Iters(39400/200000): Loss: 0.1053
+===> Average Loss: 0.1068
+===> Iters(39500/200000): Loss: 0.1060
+===> Average Loss: 0.1067
+===> Iters(39600/200000): Loss: 0.1077
+===> Average Loss: 0.1066
+===> Iters(39700/200000): Loss: 0.1034
+===> Average Loss: 0.1067
+===> Iters(39800/200000): Loss: 0.1061
+===> Average Loss: 0.1062
+===> Iters(39900/200000): Loss: 0.1044
+===> Average Loss: 0.1059
+===> Iters(40000/200000): Loss: 0.1076
+===> Average Loss: 0.1063
+Checkpoint saved to ././Congestion//model_iters_40000.pth
+===> So far taining takes: 107(minutes) and 41(seconds)
+===> Expected Time: 538(minutes) and 25(seconds)
+===> Iters(40100/200000): Loss: 0.1008
+===> Average Loss: 0.1063
+===> Iters(40200/200000): Loss: 0.1084
+===> Average Loss: 0.1058
+===> Iters(40300/200000): Loss: 0.1011
+===> Average Loss: 0.1051
+===> Iters(40400/200000): Loss: 0.1068
+===> Average Loss: 0.1052
+===> Iters(40500/200000): Loss: 0.1031
+===> Average Loss: 0.1050
+===> Iters(40600/200000): Loss: 0.1062
+===> Average Loss: 0.1048
+===> Iters(40700/200000): Loss: 0.1084
+===> Average Loss: 0.1053
+===> Iters(40800/200000): Loss: 0.1008
+===> Average Loss: 0.1048
+===> Iters(40900/200000): Loss: 0.1025
+===> Average Loss: 0.1046
+===> Iters(41000/200000): Loss: 0.1096
+===> Average Loss: 0.1048
+===> So far taining takes: 110(minutes) and 20(seconds)
+===> Expected Time: 538(minutes) and 15(seconds)
+===> Iters(41100/200000): Loss: 0.1045
+===> Average Loss: 0.1052
+===> Iters(41200/200000): Loss: 0.1043
+===> Average Loss: 0.1047
+===> Iters(41300/200000): Loss: 0.1035
+===> Average Loss: 0.1050
+===> Iters(41400/200000): Loss: 0.1057
+===> Average Loss: 0.1049
+===> Iters(41500/200000): Loss: 0.1037
+===> Average Loss: 0.1049
+===> Iters(41600/200000): Loss: 0.1053
+===> Average Loss: 0.1048
+===> Iters(41700/200000): Loss: 0.1035
+===> Average Loss: 0.1043
+===> Iters(41800/200000): Loss: 0.1061
+===> Average Loss: 0.1049
+===> Iters(41900/200000): Loss: 0.1043
+===> Average Loss: 0.1051
+===> Iters(42000/200000): Loss: 0.1036
+===> Average Loss: 0.1045
+===> So far taining takes: 113(minutes) and 6(seconds)
+===> Expected Time: 538(minutes) and 36(seconds)
+===> Iters(42100/200000): Loss: 0.1061
+===> Average Loss: 0.1046
+===> Iters(42200/200000): Loss: 0.1053
+===> Average Loss: 0.1047
+===> Iters(42300/200000): Loss: 0.1051
+===> Average Loss: 0.1049
+===> Iters(42400/200000): Loss: 0.1023
+===> Average Loss: 0.1045
+===> Iters(42500/200000): Loss: 0.0985
+===> Average Loss: 0.1040
+===> Iters(42600/200000): Loss: 0.1027
+===> Average Loss: 0.1038
+===> Iters(42700/200000): Loss: 0.1041
+===> Average Loss: 0.1038
+===> Iters(42800/200000): Loss: 0.1036
+===> Average Loss: 0.1036
+===> Iters(42900/200000): Loss: 0.1023
+===> Average Loss: 0.1034
+===> Iters(43000/200000): Loss: 0.1009
+===> Average Loss: 0.1031
+===> So far taining takes: 115(minutes) and 45(seconds)
+===> Expected Time: 538(minutes) and 26(seconds)
+===> Iters(43100/200000): Loss: 0.1051
+===> Average Loss: 0.1030
+===> Iters(43200/200000): Loss: 0.1057
+===> Average Loss: 0.1030
+===> Iters(43300/200000): Loss: 0.1053
+===> Average Loss: 0.1031
+===> Iters(43400/200000): Loss: 0.1043
+===> Average Loss: 0.1033
+===> Iters(43500/200000): Loss: 0.1056
+===> Average Loss: 0.1040
+===> Iters(43600/200000): Loss: 0.0968
+===> Average Loss: 0.1034
+===> Iters(43700/200000): Loss: 0.1043
+===> Average Loss: 0.1034
+===> Iters(43800/200000): Loss: 0.1012
+===> Average Loss: 0.1031
+===> Iters(43900/200000): Loss: 0.1056
+===> Average Loss: 0.1035
+===> Iters(44000/200000): Loss: 0.1031
+===> Average Loss: 0.1037
+===> So far taining takes: 118(minutes) and 25(seconds)
+===> Expected Time: 538(minutes) and 16(seconds)
+===> Iters(44100/200000): Loss: 0.1017
+===> Average Loss: 0.1034
+===> Iters(44200/200000): Loss: 0.1024
+===> Average Loss: 0.1030
+===> Iters(44300/200000): Loss: 0.1015
+===> Average Loss: 0.1026
+===> Iters(44400/200000): Loss: 0.0996
+===> Average Loss: 0.1022
+===> Iters(44500/200000): Loss: 0.1028
+===> Average Loss: 0.1019
+===> Iters(44600/200000): Loss: 0.1047
+===> Average Loss: 0.1027
+===> Iters(44700/200000): Loss: 0.1021
+===> Average Loss: 0.1025
+===> Iters(44800/200000): Loss: 0.1075
+===> Average Loss: 0.1031
+===> Iters(44900/200000): Loss: 0.1007
+===> Average Loss: 0.1026
+===> Iters(45000/200000): Loss: 0.1036
+===> Average Loss: 0.1027
+===> So far taining takes: 121(minutes) and 4(seconds)
+===> Expected Time: 538(minutes) and 8(seconds)
+===> Iters(45100/200000): Loss: 0.0982
+===> Average Loss: 0.1023
+===> Iters(45200/200000): Loss: 0.1051
+===> Average Loss: 0.1026
+===> Iters(45300/200000): Loss: 0.0994
+===> Average Loss: 0.1024
+===> Iters(45400/200000): Loss: 0.1034
+===> Average Loss: 0.1028
+===> Iters(45500/200000): Loss: 0.1006
+===> Average Loss: 0.1025
+===> Iters(45600/200000): Loss: 0.1045
+===> Average Loss: 0.1025
+===> Iters(45700/200000): Loss: 0.1048
+===> Average Loss: 0.1028
+===> Iters(45800/200000): Loss: 0.0993
+===> Average Loss: 0.1020
+===> Iters(45900/200000): Loss: 0.1024
+===> Average Loss: 0.1021
+===> Iters(46000/200000): Loss: 0.1006
+===> Average Loss: 0.1018
+===> So far taining takes: 123(minutes) and 50(seconds)
+===> Expected Time: 538(minutes) and 26(seconds)
+===> Iters(46100/200000): Loss: 0.0992
+===> Average Loss: 0.1019
+===> Iters(46200/200000): Loss: 0.1008
+===> Average Loss: 0.1015
+===> Iters(46300/200000): Loss: 0.1025
+===> Average Loss: 0.1018
+===> Iters(46400/200000): Loss: 0.1018
+===> Average Loss: 0.1017
+===> Iters(46500/200000): Loss: 0.1018
+===> Average Loss: 0.1018
+===> Iters(46600/200000): Loss: 0.1030
+===> Average Loss: 0.1016
+===> Iters(46700/200000): Loss: 0.0997
+===> Average Loss: 0.1011
+===> Iters(46800/200000): Loss: 0.1007
+===> Average Loss: 0.1012
+===> Iters(46900/200000): Loss: 0.0987
+===> Average Loss: 0.1009
+===> Iters(47000/200000): Loss: 0.1016
+===> Average Loss: 0.1010
+===> So far taining takes: 126(minutes) and 30(seconds)
+===> Expected Time: 538(minutes) and 17(seconds)
+===> Iters(47100/200000): Loss: 0.0996
+===> Average Loss: 0.1010
+===> Iters(47200/200000): Loss: 0.1013
+===> Average Loss: 0.1011
+===> Iters(47300/200000): Loss: 0.1058
+===> Average Loss: 0.1014
+===> Iters(47400/200000): Loss: 0.1006
+===> Average Loss: 0.1013
+===> Iters(47500/200000): Loss: 0.1040
+===> Average Loss: 0.1015
+===> Iters(47600/200000): Loss: 0.0972
+===> Average Loss: 0.1009
+===> Iters(47700/200000): Loss: 0.0985
+===> Average Loss: 0.1008
+===> Iters(47800/200000): Loss: 0.1005
+===> Average Loss: 0.1008
+===> Iters(47900/200000): Loss: 0.1006
+===> Average Loss: 0.1010
+===> Iters(48000/200000): Loss: 0.0992
+===> Average Loss: 0.1007
+===> So far taining takes: 129(minutes) and 9(seconds)
+===> Expected Time: 538(minutes) and 10(seconds)
+===> Iters(48100/200000): Loss: 0.1007
+===> Average Loss: 0.1008
+===> Iters(48200/200000): Loss: 0.1014
+===> Average Loss: 0.1008
+===> Iters(48300/200000): Loss: 0.0969
+===> Average Loss: 0.1000
+===> Iters(48400/200000): Loss: 0.0999
+===> Average Loss: 0.0999
+===> Iters(48500/200000): Loss: 0.1038
+===> Average Loss: 0.0999
+===> Iters(48600/200000): Loss: 0.0996
+===> Average Loss: 0.1001
+===> Iters(48700/200000): Loss: 0.1005
+===> Average Loss: 0.1003
+===> Iters(48800/200000): Loss: 0.0987
+===> Average Loss: 0.1001
+===> Iters(48900/200000): Loss: 0.0981
+===> Average Loss: 0.0999
+===> Iters(49000/200000): Loss: 0.1007
+===> Average Loss: 0.1000
+===> So far taining takes: 131(minutes) and 49(seconds)
+===> Expected Time: 538(minutes) and 2(seconds)
+===> Iters(49100/200000): Loss: 0.1006
+===> Average Loss: 0.1000
+===> Iters(49200/200000): Loss: 0.1010
+===> Average Loss: 0.1000
+===> Iters(49300/200000): Loss: 0.0968
+===> Average Loss: 0.1000
+===> Iters(49400/200000): Loss: 0.1009
+===> Average Loss: 0.1001
+===> Iters(49500/200000): Loss: 0.0978
+===> Average Loss: 0.0995
+===> Iters(49600/200000): Loss: 0.1002
+===> Average Loss: 0.0995
+===> Iters(49700/200000): Loss: 0.1006
+===> Average Loss: 0.0995
+===> Iters(49800/200000): Loss: 0.0967
+===> Average Loss: 0.0993
+===> Iters(49900/200000): Loss: 0.1011
+===> Average Loss: 0.0996
+===> Iters(50000/200000): Loss: 0.0966
+===> Average Loss: 0.0992
+Checkpoint saved to ././Congestion//model_iters_50000.pth
+===> So far taining takes: 134(minutes) and 34(seconds)
+===> Expected Time: 538(minutes) and 18(seconds)
+===> Iters(50100/200000): Loss: 0.0973
+===> Average Loss: 0.0989
+===> Iters(50200/200000): Loss: 0.0973
+===> Average Loss: 0.0985
+===> Iters(50300/200000): Loss: 0.0994
+===> Average Loss: 0.0988
+===> Iters(50400/200000): Loss: 0.1056
+===> Average Loss: 0.0993
+===> Iters(50500/200000): Loss: 0.0939
+===> Average Loss: 0.0989
+===> Iters(50600/200000): Loss: 0.1004
+===> Average Loss: 0.0989
+===> Iters(50700/200000): Loss: 0.1006
+===> Average Loss: 0.0989
+===> Iters(50800/200000): Loss: 0.0977
+===> Average Loss: 0.0990
+===> Iters(50900/200000): Loss: 0.1013
+===> Average Loss: 0.0990
+===> Iters(51000/200000): Loss: 0.1001
+===> Average Loss: 0.0994
+===> So far taining takes: 137(minutes) and 14(seconds)
+===> Expected Time: 538(minutes) and 10(seconds)
+===> Iters(51100/200000): Loss: 0.0944
+===> Average Loss: 0.0991
+===> Iters(51200/200000): Loss: 0.0990
+===> Average Loss: 0.0992
+===> Iters(51300/200000): Loss: 0.0999
+===> Average Loss: 0.0993
+===> Iters(51400/200000): Loss: 0.0974
+===> Average Loss: 0.0985
+===> Iters(51500/200000): Loss: 0.0967
+===> Average Loss: 0.0988
+===> Iters(51600/200000): Loss: 0.0991
+===> Average Loss: 0.0986
+===> Iters(51700/200000): Loss: 0.0997
+===> Average Loss: 0.0985
+===> Iters(51800/200000): Loss: 0.0997
+===> Average Loss: 0.0987
+===> Iters(51900/200000): Loss: 0.0977
+===> Average Loss: 0.0984
+===> Iters(52000/200000): Loss: 0.1002
+===> Average Loss: 0.0984
+===> So far taining takes: 139(minutes) and 53(seconds)
+===> Expected Time: 538(minutes) and 3(seconds)
+===> Iters(52100/200000): Loss: 0.0976
+===> Average Loss: 0.0987
+===> Iters(52200/200000): Loss: 0.0967
+===> Average Loss: 0.0985
+===> Iters(52300/200000): Loss: 0.0958
+===> Average Loss: 0.0981
+===> Iters(52400/200000): Loss: 0.0975
+===> Average Loss: 0.0981
+===> Iters(52500/200000): Loss: 0.0997
+===> Average Loss: 0.0984
+===> Iters(52600/200000): Loss: 0.0974
+===> Average Loss: 0.0982
+===> Iters(52700/200000): Loss: 0.0945
+===> Average Loss: 0.0977
+===> Iters(52800/200000): Loss: 0.1006
+===> Average Loss: 0.0978
+===> Iters(52900/200000): Loss: 0.0974
+===> Average Loss: 0.0977
+===> Iters(53000/200000): Loss: 0.1000
+===> Average Loss: 0.0977
+===> So far taining takes: 142(minutes) and 33(seconds)
+===> Expected Time: 537(minutes) and 57(seconds)
+===> Iters(53100/200000): Loss: 0.1001
+===> Average Loss: 0.0980
+===> Iters(53200/200000): Loss: 0.0994
+===> Average Loss: 0.0982
+===> Iters(53300/200000): Loss: 0.0978
+===> Average Loss: 0.0984
+===> Iters(53400/200000): Loss: 0.0961
+===> Average Loss: 0.0983
+===> Iters(53500/200000): Loss: 0.0986
+===> Average Loss: 0.0982
+===> Iters(53600/200000): Loss: 0.0959
+===> Average Loss: 0.0980
+===> Iters(53700/200000): Loss: 0.0980
+===> Average Loss: 0.0984
+===> Iters(53800/200000): Loss: 0.0972
+===> Average Loss: 0.0980
+===> Iters(53900/200000): Loss: 0.0983
+===> Average Loss: 0.0981
+===> Iters(54000/200000): Loss: 0.0967
+===> Average Loss: 0.0978
+===> So far taining takes: 145(minutes) and 20(seconds)
+===> Expected Time: 538(minutes) and 19(seconds)
+===> Iters(54100/200000): Loss: 0.0963
+===> Average Loss: 0.0974
+===> Iters(54200/200000): Loss: 0.0967
+===> Average Loss: 0.0972
+===> Iters(54300/200000): Loss: 0.0977
+===> Average Loss: 0.0972
+===> Iters(54400/200000): Loss: 0.0954
+===> Average Loss: 0.0971
+===> Iters(54500/200000): Loss: 0.0989
+===> Average Loss: 0.0971
+===> Iters(54600/200000): Loss: 0.0960
+===> Average Loss: 0.0971
+===> Iters(54700/200000): Loss: 0.0969
+===> Average Loss: 0.0970
+===> Iters(54800/200000): Loss: 0.0983
+===> Average Loss: 0.0971
+===> Iters(54900/200000): Loss: 0.0981
+===> Average Loss: 0.0971
+===> Iters(55000/200000): Loss: 0.0945
+===> Average Loss: 0.0969
+===> So far taining takes: 148(minutes) and 1(seconds)
+===> Expected Time: 538(minutes) and 14(seconds)
+===> Iters(55100/200000): Loss: 0.0969
+===> Average Loss: 0.0969
+===> Iters(55200/200000): Loss: 0.0973
+===> Average Loss: 0.0970
+===> Iters(55300/200000): Loss: 0.0959
+===> Average Loss: 0.0968
+===> Iters(55400/200000): Loss: 0.0934
+===> Average Loss: 0.0966
+===> Iters(55500/200000): Loss: 0.0977
+===> Average Loss: 0.0965
+===> Iters(55600/200000): Loss: 0.0936
+===> Average Loss: 0.0963
+===> Iters(55700/200000): Loss: 0.0991
+===> Average Loss: 0.0965
+===> Iters(55800/200000): Loss: 0.0938
+===> Average Loss: 0.0960
+===> Iters(55900/200000): Loss: 0.0965
+===> Average Loss: 0.0959
+===> Iters(56000/200000): Loss: 0.0927
+===> Average Loss: 0.0957
+===> So far taining takes: 150(minutes) and 40(seconds)
+===> Expected Time: 538(minutes) and 7(seconds)
+===> Iters(56100/200000): Loss: 0.1008
+===> Average Loss: 0.0961
+===> Iters(56200/200000): Loss: 0.0967
+===> Average Loss: 0.0960
+===> Iters(56300/200000): Loss: 0.0970
+===> Average Loss: 0.0961
+===> Iters(56400/200000): Loss: 0.0958
+===> Average Loss: 0.0964
+===> Iters(56500/200000): Loss: 0.0950
+===> Average Loss: 0.0961
+===> Iters(56600/200000): Loss: 0.0981
+===> Average Loss: 0.0965
+===> Iters(56700/200000): Loss: 0.0961
+===> Average Loss: 0.0962
+===> Iters(56800/200000): Loss: 0.0925
+===> Average Loss: 0.0961
+===> Iters(56900/200000): Loss: 0.0999
+===> Average Loss: 0.0964
+===> Iters(57000/200000): Loss: 0.0986
+===> Average Loss: 0.0970
+===> So far taining takes: 153(minutes) and 20(seconds)
+===> Expected Time: 538(minutes) and 2(seconds)
+===> Iters(57100/200000): Loss: 0.0940
+===> Average Loss: 0.0964
+===> Iters(57200/200000): Loss: 0.0932
+===> Average Loss: 0.0960
+===> Iters(57300/200000): Loss: 0.0974
+===> Average Loss: 0.0961
+===> Iters(57400/200000): Loss: 0.0970
+===> Average Loss: 0.0962
+===> Iters(57500/200000): Loss: 0.0933
+===> Average Loss: 0.0960
+===> Iters(57600/200000): Loss: 0.0924
+===> Average Loss: 0.0954
+===> Iters(57700/200000): Loss: 0.0975
+===> Average Loss: 0.0956
+===> Iters(57800/200000): Loss: 0.0954
+===> Average Loss: 0.0959
+===> Iters(57900/200000): Loss: 0.0975
+===> Average Loss: 0.0956
+===> Iters(58000/200000): Loss: 0.0935
+===> Average Loss: 0.0951
+===> So far taining takes: 156(minutes) and 5(seconds)
+===> Expected Time: 538(minutes) and 15(seconds)
+===> Iters(58100/200000): Loss: 0.0916
+===> Average Loss: 0.0949
+===> Iters(58200/200000): Loss: 0.0970
+===> Average Loss: 0.0953
+===> Iters(58300/200000): Loss: 0.0980
+===> Average Loss: 0.0953
+===> Iters(58400/200000): Loss: 0.0938
+===> Average Loss: 0.0950
+===> Iters(58500/200000): Loss: 0.0931
+===> Average Loss: 0.0950
+===> Iters(58600/200000): Loss: 0.0974
+===> Average Loss: 0.0955
+===> Iters(58700/200000): Loss: 0.0962
+===> Average Loss: 0.0953
+===> Iters(58800/200000): Loss: 0.0968
+===> Average Loss: 0.0955
+===> Iters(58900/200000): Loss: 0.0951
+===> Average Loss: 0.0952
+===> Iters(59000/200000): Loss: 0.0945
+===> Average Loss: 0.0953
+===> So far taining takes: 158(minutes) and 45(seconds)
+===> Expected Time: 538(minutes) and 9(seconds)
+===> Iters(59100/200000): Loss: 0.0970
+===> Average Loss: 0.0959
+===> Iters(59200/200000): Loss: 0.0946
+===> Average Loss: 0.0956
+===> Iters(59300/200000): Loss: 0.0911
+===> Average Loss: 0.0950
+===> Iters(59400/200000): Loss: 0.0967
+===> Average Loss: 0.0953
+===> Iters(59500/200000): Loss: 0.0936
+===> Average Loss: 0.0953
+===> Iters(59600/200000): Loss: 0.0936
+===> Average Loss: 0.0949
+===> Iters(59700/200000): Loss: 0.0935
+===> Average Loss: 0.0947
+===> Iters(59800/200000): Loss: 0.0960
+===> Average Loss: 0.0946
+===> Iters(59900/200000): Loss: 0.0967
+===> Average Loss: 0.0947
+===> Iters(60000/200000): Loss: 0.0914
+===> Average Loss: 0.0944
+Checkpoint saved to ././Congestion//model_iters_60000.pth
+===> So far taining takes: 161(minutes) and 24(seconds)
+===> Expected Time: 538(minutes) and 3(seconds)
+===> Iters(60100/200000): Loss: 0.0954
+===> Average Loss: 0.0943
+===> Iters(60200/200000): Loss: 0.0939
+===> Average Loss: 0.0942
+===> Iters(60300/200000): Loss: 0.0922
+===> Average Loss: 0.0943
+===> Iters(60400/200000): Loss: 0.0958
+===> Average Loss: 0.0942
+===> Iters(60500/200000): Loss: 0.0954
+===> Average Loss: 0.0944
+===> Iters(60600/200000): Loss: 0.0947
+===> Average Loss: 0.0945
+===> Iters(60700/200000): Loss: 0.0976
+===> Average Loss: 0.0949
+===> Iters(60800/200000): Loss: 0.0902
+===> Average Loss: 0.0943
+===> Iters(60900/200000): Loss: 0.0943
+===> Average Loss: 0.0941
+===> Iters(61000/200000): Loss: 0.0941
+===> Average Loss: 0.0944
+===> So far taining takes: 164(minutes) and 10(seconds)
+===> Expected Time: 538(minutes) and 15(seconds)
+===> Iters(61100/200000): Loss: 0.0936
+===> Average Loss: 0.0942
+===> Iters(61200/200000): Loss: 0.0943
+===> Average Loss: 0.0942
+===> Iters(61300/200000): Loss: 0.0916
+===> Average Loss: 0.0942
+===> Iters(61400/200000): Loss: 0.0950
+===> Average Loss: 0.0941
+===> Iters(61500/200000): Loss: 0.0946
+===> Average Loss: 0.0940
+===> Iters(61600/200000): Loss: 0.0938
+===> Average Loss: 0.0939
+===> Iters(61700/200000): Loss: 0.0933
+===> Average Loss: 0.0935
+===> Iters(61800/200000): Loss: 0.0937
+===> Average Loss: 0.0938
+===> Iters(61900/200000): Loss: 0.0942
+===> Average Loss: 0.0938
+===> Iters(62000/200000): Loss: 0.0951
+===> Average Loss: 0.0939
+===> So far taining takes: 166(minutes) and 49(seconds)
+===> Expected Time: 538(minutes) and 9(seconds)
+===> Iters(62100/200000): Loss: 0.0907
+===> Average Loss: 0.0936
+===> Iters(62200/200000): Loss: 0.0913
+===> Average Loss: 0.0933
+===> Iters(62300/200000): Loss: 0.0945
+===> Average Loss: 0.0936
+===> Iters(62400/200000): Loss: 0.0931
+===> Average Loss: 0.0934
+===> Iters(62500/200000): Loss: 0.0914
+===> Average Loss: 0.0931
+===> Iters(62600/200000): Loss: 0.0924
+===> Average Loss: 0.0930
+===> Iters(62700/200000): Loss: 0.0954
+===> Average Loss: 0.0932
+===> Iters(62800/200000): Loss: 0.0965
+===> Average Loss: 0.0935
+===> Iters(62900/200000): Loss: 0.0886
+===> Average Loss: 0.0929
+===> Iters(63000/200000): Loss: 0.0911
+===> Average Loss: 0.0925
+===> So far taining takes: 169(minutes) and 29(seconds)
+===> Expected Time: 538(minutes) and 3(seconds)
+===> Iters(63100/200000): Loss: 0.0932
+===> Average Loss: 0.0928
+===> Iters(63200/200000): Loss: 0.0980
+===> Average Loss: 0.0934
+===> Iters(63300/200000): Loss: 0.0949
+===> Average Loss: 0.0935
+===> Iters(63400/200000): Loss: 0.0952
+===> Average Loss: 0.0937
+===> Iters(63500/200000): Loss: 0.0937
+===> Average Loss: 0.0939
+===> Iters(63600/200000): Loss: 0.0900
+===> Average Loss: 0.0936
+===> Iters(63700/200000): Loss: 0.0906
+===> Average Loss: 0.0932
+===> Iters(63800/200000): Loss: 0.0926
+===> Average Loss: 0.0928
+===> Iters(63900/200000): Loss: 0.0949
+===> Average Loss: 0.0934
+===> Iters(64000/200000): Loss: 0.0925
+===> Average Loss: 0.0935
+===> So far taining takes: 172(minutes) and 8(seconds)
+===> Expected Time: 537(minutes) and 57(seconds)
+===> Iters(64100/200000): Loss: 0.0920
+===> Average Loss: 0.0934
+===> Iters(64200/200000): Loss: 0.0916
+===> Average Loss: 0.0928
+===> Iters(64300/200000): Loss: 0.0935
+===> Average Loss: 0.0927
+===> Iters(64400/200000): Loss: 0.0929
+===> Average Loss: 0.0924
+===> Iters(64500/200000): Loss: 0.0924
+===> Average Loss: 0.0923
+===> Iters(64600/200000): Loss: 0.0933
+===> Average Loss: 0.0926
+===> Iters(64700/200000): Loss: 0.0936
+===> Average Loss: 0.0929
+===> Iters(64800/200000): Loss: 0.0874
+===> Average Loss: 0.0924
+===> Iters(64900/200000): Loss: 0.0922
+===> Average Loss: 0.0921
+===> Iters(65000/200000): Loss: 0.0957
+===> Average Loss: 0.0925
+===> So far taining takes: 174(minutes) and 54(seconds)
+===> Expected Time: 538(minutes) and 9(seconds)
+===> Iters(65100/200000): Loss: 0.0886
+===> Average Loss: 0.0921
+===> Iters(65200/200000): Loss: 0.0902
+===> Average Loss: 0.0920
+===> Iters(65300/200000): Loss: 0.0918
+===> Average Loss: 0.0918
+===> Iters(65400/200000): Loss: 0.0977
+===> Average Loss: 0.0923
+===> Iters(65500/200000): Loss: 0.0914
+===> Average Loss: 0.0922
+===> Iters(65600/200000): Loss: 0.0877
+===> Average Loss: 0.0916
+===> Iters(65700/200000): Loss: 0.0970
+===> Average Loss: 0.0920
+===> Iters(65800/200000): Loss: 0.0952
+===> Average Loss: 0.0928
+===> Iters(65900/200000): Loss: 0.0904
+===> Average Loss: 0.0926
+===> Iters(66000/200000): Loss: 0.0929
+===> Average Loss: 0.0923
+===> So far taining takes: 177(minutes) and 33(seconds)
+===> Expected Time: 538(minutes) and 3(seconds)
+===> Iters(66100/200000): Loss: 0.0901
+===> Average Loss: 0.0924
+===> Iters(66200/200000): Loss: 0.0909
+===> Average Loss: 0.0925
+===> Iters(66300/200000): Loss: 0.0952
+===> Average Loss: 0.0929
+===> Iters(66400/200000): Loss: 0.0930
+===> Average Loss: 0.0924
+===> Iters(66500/200000): Loss: 0.0901
+===> Average Loss: 0.0923
+===> Iters(66600/200000): Loss: 0.0924
+===> Average Loss: 0.0927
+===> Iters(66700/200000): Loss: 0.0922
+===> Average Loss: 0.0922
+===> Iters(66800/200000): Loss: 0.0915
+===> Average Loss: 0.0919
+===> Iters(66900/200000): Loss: 0.0945
+===> Average Loss: 0.0923
+===> Iters(67000/200000): Loss: 0.0903
+===> Average Loss: 0.0920
+===> So far taining takes: 180(minutes) and 13(seconds)
+===> Expected Time: 537(minutes) and 57(seconds)
+===> Iters(67100/200000): Loss: 0.0889
+===> Average Loss: 0.0919
+===> Iters(67200/200000): Loss: 0.0900
+===> Average Loss: 0.0918
+===> Iters(67300/200000): Loss: 0.0912
+===> Average Loss: 0.0914
+===> Iters(67400/200000): Loss: 0.0919
+===> Average Loss: 0.0913
+===> Iters(67500/200000): Loss: 0.0924
+===> Average Loss: 0.0915
+===> Iters(67600/200000): Loss: 0.0915
+===> Average Loss: 0.0914
+===> Iters(67700/200000): Loss: 0.0898
+===> Average Loss: 0.0912
+===> Iters(67800/200000): Loss: 0.0879
+===> Average Loss: 0.0908
+===> Iters(67900/200000): Loss: 0.0917
+===> Average Loss: 0.0906
+===> Iters(68000/200000): Loss: 0.0938
+===> Average Loss: 0.0909
+===> So far taining takes: 182(minutes) and 52(seconds)
+===> Expected Time: 537(minutes) and 53(seconds)
+===> Iters(68100/200000): Loss: 0.0942
+===> Average Loss: 0.0914
+===> Iters(68200/200000): Loss: 0.0925
+===> Average Loss: 0.0917
+===> Iters(68300/200000): Loss: 0.0898
+===> Average Loss: 0.0915
+===> Iters(68400/200000): Loss: 0.0908
+===> Average Loss: 0.0914
+===> Iters(68500/200000): Loss: 0.0908
+===> Average Loss: 0.0913
+===> Iters(68600/200000): Loss: 0.0891
+===> Average Loss: 0.0910
+===> Iters(68700/200000): Loss: 0.0905
+===> Average Loss: 0.0911
+===> Iters(68800/200000): Loss: 0.0909
+===> Average Loss: 0.0914
+===> Iters(68900/200000): Loss: 0.0932
+===> Average Loss: 0.0916
+===> Iters(69000/200000): Loss: 0.0889
+===> Average Loss: 0.0911
+===> So far taining takes: 185(minutes) and 38(seconds)
+===> Expected Time: 538(minutes) and 6(seconds)
+===> Iters(69100/200000): Loss: 0.0904
+===> Average Loss: 0.0907
+===> Iters(69200/200000): Loss: 0.0892
+===> Average Loss: 0.0904
+===> Iters(69300/200000): Loss: 0.0942
+===> Average Loss: 0.0908
+===> Iters(69400/200000): Loss: 0.0903
+===> Average Loss: 0.0908
+===> Iters(69500/200000): Loss: 0.0915
+===> Average Loss: 0.0908
+===> Iters(69600/200000): Loss: 0.0895
+===> Average Loss: 0.0909
+===> Iters(69700/200000): Loss: 0.0907
+===> Average Loss: 0.0909
+===> Iters(69800/200000): Loss: 0.0897
+===> Average Loss: 0.0908
+===> Iters(69900/200000): Loss: 0.0945
+===> Average Loss: 0.0909
+===> Iters(70000/200000): Loss: 0.0879
+===> Average Loss: 0.0908
+Checkpoint saved to ././Congestion//model_iters_70000.pth
+===> So far taining takes: 188(minutes) and 18(seconds)
+===> Expected Time: 538(minutes) and 0(seconds)
+===> Iters(70100/200000): Loss: 0.0918
+===> Average Loss: 0.0909
+===> Iters(70200/200000): Loss: 0.0906
+===> Average Loss: 0.0911
+===> Iters(70300/200000): Loss: 0.0885
+===> Average Loss: 0.0905
+===> Iters(70400/200000): Loss: 0.0882
+===> Average Loss: 0.0903
+===> Iters(70500/200000): Loss: 0.0937
+===> Average Loss: 0.0905
+===> Iters(70600/200000): Loss: 0.0914
+===> Average Loss: 0.0907
+===> Iters(70700/200000): Loss: 0.0880
+===> Average Loss: 0.0904
+===> Iters(70800/200000): Loss: 0.0909
+===> Average Loss: 0.0905
+===> Iters(70900/200000): Loss: 0.0910
+===> Average Loss: 0.0902
+===> Iters(71000/200000): Loss: 0.0898
+===> Average Loss: 0.0904
+===> So far taining takes: 190(minutes) and 57(seconds)
+===> Expected Time: 537(minutes) and 55(seconds)
+===> Iters(71100/200000): Loss: 0.0880
+===> Average Loss: 0.0900
+===> Iters(71200/200000): Loss: 0.0920
+===> Average Loss: 0.0901
+===> Iters(71300/200000): Loss: 0.0892
+===> Average Loss: 0.0902
+===> Iters(71400/200000): Loss: 0.0882
+===> Average Loss: 0.0902
+===> Iters(71500/200000): Loss: 0.0877
+===> Average Loss: 0.0896
+===> Iters(71600/200000): Loss: 0.0929
+===> Average Loss: 0.0897
+===> Iters(71700/200000): Loss: 0.0922
+===> Average Loss: 0.0902
+===> Iters(71800/200000): Loss: 0.0895
+===> Average Loss: 0.0900
+===> Iters(71900/200000): Loss: 0.0893
+===> Average Loss: 0.0899
+===> Iters(72000/200000): Loss: 0.0902
+===> Average Loss: 0.0899
+===> So far taining takes: 193(minutes) and 37(seconds)
+===> Expected Time: 537(minutes) and 50(seconds)
+===> Iters(72100/200000): Loss: 0.0890
+===> Average Loss: 0.0900
+===> Iters(72200/200000): Loss: 0.0920
+===> Average Loss: 0.0900
+===> Iters(72300/200000): Loss: 0.0902
+===> Average Loss: 0.0901
+===> Iters(72400/200000): Loss: 0.0914
+===> Average Loss: 0.0904
+===> Iters(72500/200000): Loss: 0.0880
+===> Average Loss: 0.0905
+===> Iters(72600/200000): Loss: 0.0902
+===> Average Loss: 0.0902
+===> Iters(72700/200000): Loss: 0.0890
+===> Average Loss: 0.0899
+===> Iters(72800/200000): Loss: 0.0879
+===> Average Loss: 0.0897
+===> Iters(72900/200000): Loss: 0.0929
+===> Average Loss: 0.0901
+===> Iters(73000/200000): Loss: 0.0889
+===> Average Loss: 0.0899
+===> So far taining takes: 196(minutes) and 22(seconds)
+===> Expected Time: 538(minutes) and 1(seconds)
+===> Iters(73100/200000): Loss: 0.0893
+===> Average Loss: 0.0900
+===> Iters(73200/200000): Loss: 0.0900
+===> Average Loss: 0.0898
+===> Iters(73300/200000): Loss: 0.0894
+===> Average Loss: 0.0897
+===> Iters(73400/200000): Loss: 0.0917
+===> Average Loss: 0.0897
+===> Iters(73500/200000): Loss: 0.0900
+===> Average Loss: 0.0899
+===> Iters(73600/200000): Loss: 0.0885
+===> Average Loss: 0.0898
+===> Iters(73700/200000): Loss: 0.0910
+===> Average Loss: 0.0900
+===> Iters(73800/200000): Loss: 0.0870
+===> Average Loss: 0.0899
+===> Iters(73900/200000): Loss: 0.0883
+===> Average Loss: 0.0894
+===> Iters(74000/200000): Loss: 0.0867
+===> Average Loss: 0.0892
+===> So far taining takes: 199(minutes) and 2(seconds)
+===> Expected Time: 537(minutes) and 55(seconds)
+===> Iters(74100/200000): Loss: 0.0916
+===> Average Loss: 0.0894
+===> Iters(74200/200000): Loss: 0.0878
+===> Average Loss: 0.0892
+===> Iters(74300/200000): Loss: 0.0908
+===> Average Loss: 0.0893
+===> Iters(74400/200000): Loss: 0.0917
+===> Average Loss: 0.0893
+===> Iters(74500/200000): Loss: 0.0876
+===> Average Loss: 0.0891
+===> Iters(74600/200000): Loss: 0.0917
+===> Average Loss: 0.0894
+===> Iters(74700/200000): Loss: 0.0858
+===> Average Loss: 0.0889
+===> Iters(74800/200000): Loss: 0.0874
+===> Average Loss: 0.0889
+===> Iters(74900/200000): Loss: 0.0897
+===> Average Loss: 0.0891
+===> Iters(75000/200000): Loss: 0.0915
+===> Average Loss: 0.0895
+===> So far taining takes: 201(minutes) and 41(seconds)
+===> Expected Time: 537(minutes) and 51(seconds)
+===> Iters(75100/200000): Loss: 0.0885
+===> Average Loss: 0.0892
+===> Iters(75200/200000): Loss: 0.0877
+===> Average Loss: 0.0892
+===> Iters(75300/200000): Loss: 0.0873
+===> Average Loss: 0.0889
+===> Iters(75400/200000): Loss: 0.0904
+===> Average Loss: 0.0888
+===> Iters(75500/200000): Loss: 0.0897
+===> Average Loss: 0.0890
+===> Iters(75600/200000): Loss: 0.0876
+===> Average Loss: 0.0886
+===> Iters(75700/200000): Loss: 0.0899
+===> Average Loss: 0.0890
+===> Iters(75800/200000): Loss: 0.0880
+===> Average Loss: 0.0890
+===> Iters(75900/200000): Loss: 0.0894
+===> Average Loss: 0.0890
+===> Iters(76000/200000): Loss: 0.0899
+===> Average Loss: 0.0888
+===> So far taining takes: 204(minutes) and 21(seconds)
+===> Expected Time: 537(minutes) and 46(seconds)
+===> Iters(76100/200000): Loss: 0.0874
+===> Average Loss: 0.0887
+===> Iters(76200/200000): Loss: 0.0909
+===> Average Loss: 0.0890
+===> Iters(76300/200000): Loss: 0.0873
+===> Average Loss: 0.0890
+===> Iters(76400/200000): Loss: 0.0889
+===> Average Loss: 0.0889
+===> Iters(76500/200000): Loss: 0.0872
+===> Average Loss: 0.0886
+===> Iters(76600/200000): Loss: 0.0855
+===> Average Loss: 0.0884
+===> Iters(76700/200000): Loss: 0.0893
+===> Average Loss: 0.0884
+===> Iters(76800/200000): Loss: 0.0909
+===> Average Loss: 0.0887
+===> Iters(76900/200000): Loss: 0.0877
+===> Average Loss: 0.0885
+===> Iters(77000/200000): Loss: 0.0872
+===> Average Loss: 0.0882
+===> So far taining takes: 207(minutes) and 6(seconds)
+===> Expected Time: 537(minutes) and 56(seconds)
+===> Iters(77100/200000): Loss: 0.0907
+===> Average Loss: 0.0886
+===> Iters(77200/200000): Loss: 0.0841
+===> Average Loss: 0.0879
+===> Iters(77300/200000): Loss: 0.0900
+===> Average Loss: 0.0882
+===> Iters(77400/200000): Loss: 0.0890
+===> Average Loss: 0.0882
+===> Iters(77500/200000): Loss: 0.0878
+===> Average Loss: 0.0882
+===> Iters(77600/200000): Loss: 0.0887
+===> Average Loss: 0.0885
+===> Iters(77700/200000): Loss: 0.0867
+===> Average Loss: 0.0883
+===> Iters(77800/200000): Loss: 0.0892
+===> Average Loss: 0.0881
+===> Iters(77900/200000): Loss: 0.0873
+===> Average Loss: 0.0881
+===> Iters(78000/200000): Loss: 0.0877
+===> Average Loss: 0.0881
+===> So far taining takes: 209(minutes) and 47(seconds)
+===> Expected Time: 537(minutes) and 55(seconds)
+===> Iters(78100/200000): Loss: 0.0877
+===> Average Loss: 0.0878
+===> Iters(78200/200000): Loss: 0.0894
+===> Average Loss: 0.0884
+===> Iters(78300/200000): Loss: 0.0889
+===> Average Loss: 0.0883
+===> Iters(78400/200000): Loss: 0.0849
+===> Average Loss: 0.0878
+===> Iters(78500/200000): Loss: 0.0878
+===> Average Loss: 0.0878
+===> Iters(78600/200000): Loss: 0.0894
+===> Average Loss: 0.0879
+===> Iters(78700/200000): Loss: 0.0884
+===> Average Loss: 0.0881
+===> Iters(78800/200000): Loss: 0.0874
+===> Average Loss: 0.0879
+===> Iters(78900/200000): Loss: 0.0881
+===> Average Loss: 0.0880
+===> Iters(79000/200000): Loss: 0.0889
+===> Average Loss: 0.0881
+===> So far taining takes: 212(minutes) and 28(seconds)
+===> Expected Time: 537(minutes) and 54(seconds)
+===> Iters(79100/200000): Loss: 0.0894
+===> Average Loss: 0.0883
+===> Iters(79200/200000): Loss: 0.0873
+===> Average Loss: 0.0881
+===> Iters(79300/200000): Loss: 0.0874
+===> Average Loss: 0.0879
+===> Iters(79400/200000): Loss: 0.0861
+===> Average Loss: 0.0880
+===> Iters(79500/200000): Loss: 0.0884
+===> Average Loss: 0.0881
+===> Iters(79600/200000): Loss: 0.0873
+===> Average Loss: 0.0879
+===> Iters(79700/200000): Loss: 0.0869
+===> Average Loss: 0.0877
+===> Iters(79800/200000): Loss: 0.0919
+===> Average Loss: 0.0882
+===> Iters(79900/200000): Loss: 0.0886
+===> Average Loss: 0.0882
+===> Iters(80000/200000): Loss: 0.0847
+===> Average Loss: 0.0878
+Checkpoint saved to ././Congestion//model_iters_80000.pth
+===> So far taining takes: 215(minutes) and 8(seconds)
+===> Expected Time: 537(minutes) and 50(seconds)
+===> Iters(80100/200000): Loss: 0.0861
+===> Average Loss: 0.0875
+===> Iters(80200/200000): Loss: 0.0875
+===> Average Loss: 0.0875
+===> Iters(80300/200000): Loss: 0.0895
+===> Average Loss: 0.0877
+===> Iters(80400/200000): Loss: 0.0875
+===> Average Loss: 0.0878
+===> Iters(80500/200000): Loss: 0.0865
+===> Average Loss: 0.0876
+===> Iters(80600/200000): Loss: 0.0864
+===> Average Loss: 0.0876
+===> Iters(80700/200000): Loss: 0.0868
+===> Average Loss: 0.0875
+===> Iters(80800/200000): Loss: 0.0860
+===> Average Loss: 0.0870
+===> Iters(80900/200000): Loss: 0.0865
+===> Average Loss: 0.0867
+===> Iters(81000/200000): Loss: 0.0835
+===> Average Loss: 0.0866
+===> So far taining takes: 217(minutes) and 53(seconds)
+===> Expected Time: 537(minutes) and 59(seconds)
+===> Iters(81100/200000): Loss: 0.0902
+===> Average Loss: 0.0870
+===> Iters(81200/200000): Loss: 0.0856
+===> Average Loss: 0.0869
+===> Iters(81300/200000): Loss: 0.0908
+===> Average Loss: 0.0870
+===> Iters(81400/200000): Loss: 0.0876
+===> Average Loss: 0.0870
+===> Iters(81500/200000): Loss: 0.0861
+===> Average Loss: 0.0870
+===> Iters(81600/200000): Loss: 0.0859
+===> Average Loss: 0.0869
+===> Iters(81700/200000): Loss: 0.0904
+===> Average Loss: 0.0873
+===> Iters(81800/200000): Loss: 0.0850
+===> Average Loss: 0.0872
+===> Iters(81900/200000): Loss: 0.0864
+===> Average Loss: 0.0872
+===> Iters(82000/200000): Loss: 0.0880
+===> Average Loss: 0.0876
+===> So far taining takes: 220(minutes) and 32(seconds)
+===> Expected Time: 537(minutes) and 54(seconds)
+===> Iters(82100/200000): Loss: 0.0876
+===> Average Loss: 0.0874
+===> Iters(82200/200000): Loss: 0.0876
+===> Average Loss: 0.0875
+===> Iters(82300/200000): Loss: 0.0874
+===> Average Loss: 0.0872
+===> Iters(82400/200000): Loss: 0.0837
+===> Average Loss: 0.0868
+===> Iters(82500/200000): Loss: 0.0884
+===> Average Loss: 0.0870
+===> Iters(82600/200000): Loss: 0.0868
+===> Average Loss: 0.0871
+===> Iters(82700/200000): Loss: 0.0847
+===> Average Loss: 0.0866
+===> Iters(82800/200000): Loss: 0.0860
+===> Average Loss: 0.0867
+===> Iters(82900/200000): Loss: 0.0868
+===> Average Loss: 0.0867
+===> Iters(83000/200000): Loss: 0.0866
+===> Average Loss: 0.0865
+===> So far taining takes: 223(minutes) and 12(seconds)
+===> Expected Time: 537(minutes) and 50(seconds)
+===> Iters(83100/200000): Loss: 0.0895
+===> Average Loss: 0.0867
+===> Iters(83200/200000): Loss: 0.0868
+===> Average Loss: 0.0866
+===> Iters(83300/200000): Loss: 0.0841
+===> Average Loss: 0.0863
+===> Iters(83400/200000): Loss: 0.0877
+===> Average Loss: 0.0867
+===> Iters(83500/200000): Loss: 0.0860
+===> Average Loss: 0.0865
+===> Iters(83600/200000): Loss: 0.0843
+===> Average Loss: 0.0862
+===> Iters(83700/200000): Loss: 0.0857
+===> Average Loss: 0.0863
+===> Iters(83800/200000): Loss: 0.0888
+===> Average Loss: 0.0866
+===> Iters(83900/200000): Loss: 0.0874
+===> Average Loss: 0.0867
+===> Iters(84000/200000): Loss: 0.0858
+===> Average Loss: 0.0866
+===> So far taining takes: 225(minutes) and 57(seconds)
+===> Expected Time: 538(minutes) and 0(seconds)
+===> Iters(84100/200000): Loss: 0.0846
+===> Average Loss: 0.0861
+===> Iters(84200/200000): Loss: 0.0867
+===> Average Loss: 0.0861
+===> Iters(84300/200000): Loss: 0.0863
+===> Average Loss: 0.0863
+===> Iters(84400/200000): Loss: 0.0875
+===> Average Loss: 0.0863
+===> Iters(84500/200000): Loss: 0.0851
+===> Average Loss: 0.0862
+===> Iters(84600/200000): Loss: 0.0868
+===> Average Loss: 0.0865
+===> Iters(84700/200000): Loss: 0.0890
+===> Average Loss: 0.0868
+===> Iters(84800/200000): Loss: 0.0843
+===> Average Loss: 0.0863
+===> Iters(84900/200000): Loss: 0.0843
+===> Average Loss: 0.0860
+===> Iters(85000/200000): Loss: 0.0842
+===> Average Loss: 0.0859
+===> So far taining takes: 228(minutes) and 37(seconds)
+===> Expected Time: 537(minutes) and 55(seconds)
+===> Iters(85100/200000): Loss: 0.0867
+===> Average Loss: 0.0861
+===> Iters(85200/200000): Loss: 0.0850
+===> Average Loss: 0.0859
+===> Iters(85300/200000): Loss: 0.0891
+===> Average Loss: 0.0862
+===> Iters(85400/200000): Loss: 0.0848
+===> Average Loss: 0.0859
+===> Iters(85500/200000): Loss: 0.0875
+===> Average Loss: 0.0862
+===> Iters(85600/200000): Loss: 0.0860
+===> Average Loss: 0.0861
+===> Iters(85700/200000): Loss: 0.0864
+===> Average Loss: 0.0858
+===> Iters(85800/200000): Loss: 0.0849
+===> Average Loss: 0.0859
+===> Iters(85900/200000): Loss: 0.0860
+===> Average Loss: 0.0861
+===> Iters(86000/200000): Loss: 0.0839
+===> Average Loss: 0.0860
+===> So far taining takes: 231(minutes) and 16(seconds)
+===> Expected Time: 537(minutes) and 51(seconds)
+===> Iters(86100/200000): Loss: 0.0870
+===> Average Loss: 0.0861
+===> Iters(86200/200000): Loss: 0.0862
+===> Average Loss: 0.0862
+===> Iters(86300/200000): Loss: 0.0889
+===> Average Loss: 0.0862
+===> Iters(86400/200000): Loss: 0.0886
+===> Average Loss: 0.0866
+===> Iters(86500/200000): Loss: 0.0852
+===> Average Loss: 0.0863
+===> Iters(86600/200000): Loss: 0.0822
+===> Average Loss: 0.0859
+===> Iters(86700/200000): Loss: 0.0844
+===> Average Loss: 0.0857
+===> Iters(86800/200000): Loss: 0.0853
+===> Average Loss: 0.0858
+===> Iters(86900/200000): Loss: 0.0859
+===> Average Loss: 0.0858
+===> Iters(87000/200000): Loss: 0.0866
+===> Average Loss: 0.0860
+===> So far taining takes: 233(minutes) and 56(seconds)
+===> Expected Time: 537(minutes) and 47(seconds)
+===> Iters(87100/200000): Loss: 0.0834
+===> Average Loss: 0.0857
+===> Iters(87200/200000): Loss: 0.0849
+===> Average Loss: 0.0856
+===> Iters(87300/200000): Loss: 0.0858
+===> Average Loss: 0.0853
+===> Iters(87400/200000): Loss: 0.0875
+===> Average Loss: 0.0851
+===> Iters(87500/200000): Loss: 0.0848
+===> Average Loss: 0.0851
+===> Iters(87600/200000): Loss: 0.0870
+===> Average Loss: 0.0856
+===> Iters(87700/200000): Loss: 0.0843
+===> Average Loss: 0.0856
+===> Iters(87800/200000): Loss: 0.0851
+===> Average Loss: 0.0856
+===> Iters(87900/200000): Loss: 0.0853
+===> Average Loss: 0.0855
+===> Iters(88000/200000): Loss: 0.0862
+===> Average Loss: 0.0854
+===> So far taining takes: 236(minutes) and 41(seconds)
+===> Expected Time: 537(minutes) and 56(seconds)
+===> Iters(88100/200000): Loss: 0.0884
+===> Average Loss: 0.0859
+===> Iters(88200/200000): Loss: 0.0831
+===> Average Loss: 0.0858
+===> Iters(88300/200000): Loss: 0.0814
+===> Average Loss: 0.0853
+===> Iters(88400/200000): Loss: 0.0885
+===> Average Loss: 0.0854
+===> Iters(88500/200000): Loss: 0.0862
+===> Average Loss: 0.0856
+===> Iters(88600/200000): Loss: 0.0815
+===> Average Loss: 0.0850
+===> Iters(88700/200000): Loss: 0.0838
+===> Average Loss: 0.0850
+===> Iters(88800/200000): Loss: 0.0877
+===> Average Loss: 0.0852
+===> Iters(88900/200000): Loss: 0.0869
+===> Average Loss: 0.0854
+===> Iters(89000/200000): Loss: 0.0842
+===> Average Loss: 0.0852
+===> So far taining takes: 239(minutes) and 21(seconds)
+===> Expected Time: 537(minutes) and 51(seconds)
+===> Iters(89100/200000): Loss: 0.0858
+===> Average Loss: 0.0849
+===> Iters(89200/200000): Loss: 0.0846
+===> Average Loss: 0.0850
+===> Iters(89300/200000): Loss: 0.0869
+===> Average Loss: 0.0856
+===> Iters(89400/200000): Loss: 0.0832
+===> Average Loss: 0.0851
+===> Iters(89500/200000): Loss: 0.0814
+===> Average Loss: 0.0846
+===> Iters(89600/200000): Loss: 0.0875
+===> Average Loss: 0.0852
+===> Iters(89700/200000): Loss: 0.0849
+===> Average Loss: 0.0853
+===> Iters(89800/200000): Loss: 0.0850
+===> Average Loss: 0.0850
+===> Iters(89900/200000): Loss: 0.0848
+===> Average Loss: 0.0848
+===> Iters(90000/200000): Loss: 0.0855
+===> Average Loss: 0.0850
+Checkpoint saved to ././Congestion//model_iters_90000.pth
+===> So far taining takes: 242(minutes) and 0(seconds)
+===> Expected Time: 537(minutes) and 48(seconds)
+===> Iters(90100/200000): Loss: 0.0865
+===> Average Loss: 0.0850
+===> Iters(90200/200000): Loss: 0.0850
+===> Average Loss: 0.0851
+===> Iters(90300/200000): Loss: 0.0817
+===> Average Loss: 0.0845
+===> Iters(90400/200000): Loss: 0.0863
+===> Average Loss: 0.0849
+===> Iters(90500/200000): Loss: 0.0845
+===> Average Loss: 0.0852
+===> Iters(90600/200000): Loss: 0.0859
+===> Average Loss: 0.0850
+===> Iters(90700/200000): Loss: 0.0835
+===> Average Loss: 0.0849
+===> Iters(90800/200000): Loss: 0.0825
+===> Average Loss: 0.0846
+===> Iters(90900/200000): Loss: 0.0862
+===> Average Loss: 0.0848
+===> Iters(91000/200000): Loss: 0.0850
+===> Average Loss: 0.0847
+===> So far taining takes: 244(minutes) and 40(seconds)
+===> Expected Time: 537(minutes) and 44(seconds)
+===> Iters(91100/200000): Loss: 0.0859
+===> Average Loss: 0.0847
+===> Iters(91200/200000): Loss: 0.0821
+===> Average Loss: 0.0844
+===> Iters(91300/200000): Loss: 0.0871
+===> Average Loss: 0.0849
+===> Iters(91400/200000): Loss: 0.0819
+===> Average Loss: 0.0845
+===> Iters(91500/200000): Loss: 0.0866
+===> Average Loss: 0.0847
+===> Iters(91600/200000): Loss: 0.0840
+===> Average Loss: 0.0845
+===> Iters(91700/200000): Loss: 0.0814
+===> Average Loss: 0.0843
+===> Iters(91800/200000): Loss: 0.0857
+===> Average Loss: 0.0846
+===> Iters(91900/200000): Loss: 0.0866
+===> Average Loss: 0.0846
+===> Iters(92000/200000): Loss: 0.0851
+===> Average Loss: 0.0846
+===> So far taining takes: 247(minutes) and 25(seconds)
+===> Expected Time: 537(minutes) and 53(seconds)
+===> Iters(92100/200000): Loss: 0.0855
+===> Average Loss: 0.0846
+===> Iters(92200/200000): Loss: 0.0850
+===> Average Loss: 0.0849
+===> Iters(92300/200000): Loss: 0.0834
+===> Average Loss: 0.0845
+===> Iters(92400/200000): Loss: 0.0834
+===> Average Loss: 0.0847
+===> Iters(92500/200000): Loss: 0.0850
+===> Average Loss: 0.0845
+===> Iters(92600/200000): Loss: 0.0849
+===> Average Loss: 0.0846
+===> Iters(92700/200000): Loss: 0.0856
+===> Average Loss: 0.0850
+===> Iters(92800/200000): Loss: 0.0830
+===> Average Loss: 0.0848
+===> Iters(92900/200000): Loss: 0.0790
+===> Average Loss: 0.0840
+===> Iters(93000/200000): Loss: 0.0871
+===> Average Loss: 0.0842
+===> So far taining takes: 250(minutes) and 5(seconds)
+===> Expected Time: 537(minutes) and 48(seconds)
+===> Iters(93100/200000): Loss: 0.0848
+===> Average Loss: 0.0841
+===> Iters(93200/200000): Loss: 0.0860
+===> Average Loss: 0.0842
+===> Iters(93300/200000): Loss: 0.0844
+===> Average Loss: 0.0843
+===> Iters(93400/200000): Loss: 0.0856
+===> Average Loss: 0.0845
+===> Iters(93500/200000): Loss: 0.0823
+===> Average Loss: 0.0843
+===> Iters(93600/200000): Loss: 0.0834
+===> Average Loss: 0.0841
+===> Iters(93700/200000): Loss: 0.0839
+===> Average Loss: 0.0840
+===> Iters(93800/200000): Loss: 0.0846
+===> Average Loss: 0.0841
+===> Iters(93900/200000): Loss: 0.0801
+===> Average Loss: 0.0842
+===> Iters(94000/200000): Loss: 0.0867
+===> Average Loss: 0.0842
+===> So far taining takes: 252(minutes) and 44(seconds)
+===> Expected Time: 537(minutes) and 45(seconds)
+===> Iters(94100/200000): Loss: 0.0846
+===> Average Loss: 0.0842
+===> Iters(94200/200000): Loss: 0.0832
+===> Average Loss: 0.0839
+===> Iters(94300/200000): Loss: 0.0847
+===> Average Loss: 0.0839
+===> Iters(94400/200000): Loss: 0.0824
+===> Average Loss: 0.0836
+===> Iters(94500/200000): Loss: 0.0820
+===> Average Loss: 0.0836
+===> Iters(94600/200000): Loss: 0.0877
+===> Average Loss: 0.0840
+===> Iters(94700/200000): Loss: 0.0819
+===> Average Loss: 0.0838
+===> Iters(94800/200000): Loss: 0.0832
+===> Average Loss: 0.0837
+===> Iters(94900/200000): Loss: 0.0859
+===> Average Loss: 0.0842
+===> Iters(95000/200000): Loss: 0.0844
+===> Average Loss: 0.0840
+===> So far taining takes: 255(minutes) and 24(seconds)
+===> Expected Time: 537(minutes) and 41(seconds)
+===> Iters(95100/200000): Loss: 0.0825
+===> Average Loss: 0.0838
+===> Iters(95200/200000): Loss: 0.0833
+===> Average Loss: 0.0838
+===> Iters(95300/200000): Loss: 0.0857
+===> Average Loss: 0.0839
+===> Iters(95400/200000): Loss: 0.0835
+===> Average Loss: 0.0840
+===> Iters(95500/200000): Loss: 0.0811
+===> Average Loss: 0.0839
+===> Iters(95600/200000): Loss: 0.0835
+===> Average Loss: 0.0835
+===> Iters(95700/200000): Loss: 0.0821
+===> Average Loss: 0.0835
+===> Iters(95800/200000): Loss: 0.0849
+===> Average Loss: 0.0837
+===> Iters(95900/200000): Loss: 0.0865
+===> Average Loss: 0.0837
+===> Iters(96000/200000): Loss: 0.0831
+===> Average Loss: 0.0836
+===> So far taining takes: 258(minutes) and 9(seconds)
+===> Expected Time: 537(minutes) and 49(seconds)
+===> Iters(96100/200000): Loss: 0.0823
+===> Average Loss: 0.0836
+===> Iters(96200/200000): Loss: 0.0843
+===> Average Loss: 0.0837
+===> Iters(96300/200000): Loss: 0.0835
+===> Average Loss: 0.0835
+===> Iters(96400/200000): Loss: 0.0836
+===> Average Loss: 0.0835
+===> Iters(96500/200000): Loss: 0.0829
+===> Average Loss: 0.0837
+===> Iters(96600/200000): Loss: 0.0840
+===> Average Loss: 0.0837
+===> Iters(96700/200000): Loss: 0.0831
+===> Average Loss: 0.0838
+===> Iters(96800/200000): Loss: 0.0845
+===> Average Loss: 0.0838
+===> Iters(96900/200000): Loss: 0.0827
+===> Average Loss: 0.0834
+===> Iters(97000/200000): Loss: 0.0850
+===> Average Loss: 0.0836
+===> So far taining takes: 260(minutes) and 48(seconds)
+===> Expected Time: 537(minutes) and 45(seconds)
+===> Iters(97100/200000): Loss: 0.0808
+===> Average Loss: 0.0834
+===> Iters(97200/200000): Loss: 0.0850
+===> Average Loss: 0.0835
+===> Iters(97300/200000): Loss: 0.0808
+===> Average Loss: 0.0832
+===> Iters(97400/200000): Loss: 0.0832
+===> Average Loss: 0.0832
+===> Iters(97500/200000): Loss: 0.0830
+===> Average Loss: 0.0832
+===> Iters(97600/200000): Loss: 0.0846
+===> Average Loss: 0.0833
+===> Iters(97700/200000): Loss: 0.0828
+===> Average Loss: 0.0832
+===> Iters(97800/200000): Loss: 0.0822
+===> Average Loss: 0.0830
+===> Iters(97900/200000): Loss: 0.0846
+===> Average Loss: 0.0832
+===> Iters(98000/200000): Loss: 0.0812
+===> Average Loss: 0.0828
+===> So far taining takes: 263(minutes) and 28(seconds)
+===> Expected Time: 537(minutes) and 42(seconds)
+===> Iters(98100/200000): Loss: 0.0835
+===> Average Loss: 0.0831
+===> Iters(98200/200000): Loss: 0.0849
+===> Average Loss: 0.0831
+===> Iters(98300/200000): Loss: 0.0848
+===> Average Loss: 0.0835
+===> Iters(98400/200000): Loss: 0.0838
+===> Average Loss: 0.0835
+===> Iters(98500/200000): Loss: 0.0803
+===> Average Loss: 0.0833
+===> Iters(98600/200000): Loss: 0.0833
+===> Average Loss: 0.0831
+===> Iters(98700/200000): Loss: 0.0837
+===> Average Loss: 0.0832
+===> Iters(98800/200000): Loss: 0.0821
+===> Average Loss: 0.0832
+===> Iters(98900/200000): Loss: 0.0834
+===> Average Loss: 0.0831
+===> Iters(99000/200000): Loss: 0.0814
+===> Average Loss: 0.0831
+===> So far taining takes: 266(minutes) and 8(seconds)
+===> Expected Time: 537(minutes) and 38(seconds)
+===> Iters(99100/200000): Loss: 0.0803
+===> Average Loss: 0.0828
+===> Iters(99200/200000): Loss: 0.0812
+===> Average Loss: 0.0824
+===> Iters(99300/200000): Loss: 0.0825
+===> Average Loss: 0.0822
+===> Iters(99400/200000): Loss: 0.0860
+===> Average Loss: 0.0824
+===> Iters(99500/200000): Loss: 0.0866
+===> Average Loss: 0.0830
+===> Iters(99600/200000): Loss: 0.0799
+===> Average Loss: 0.0827
+===> Iters(99700/200000): Loss: 0.0798
+===> Average Loss: 0.0823
+===> Iters(99800/200000): Loss: 0.0844
+===> Average Loss: 0.0825
+===> Iters(99900/200000): Loss: 0.0863
+===> Average Loss: 0.0828
+===> Iters(100000/200000): Loss: 0.0816
+===> Average Loss: 0.0828
+Checkpoint saved to ././Congestion//model_iters_100000.pth
+===> So far taining takes: 268(minutes) and 53(seconds)
+===> Expected Time: 537(minutes) and 47(seconds)
+===> Iters(100100/200000): Loss: 0.0828
+===> Average Loss: 0.0831
+===> Iters(100200/200000): Loss: 0.0842
+===> Average Loss: 0.0834
+===> Iters(100300/200000): Loss: 0.0823
+===> Average Loss: 0.0834
+===> Iters(100400/200000): Loss: 0.0837
+===> Average Loss: 0.0831
+===> Iters(100500/200000): Loss: 0.0801
+===> Average Loss: 0.0825
+===> Iters(100600/200000): Loss: 0.0812
+===> Average Loss: 0.0826
+===> Iters(100700/200000): Loss: 0.0865
+===> Average Loss: 0.0833
+===> Iters(100800/200000): Loss: 0.0803
+===> Average Loss: 0.0829
+===> Iters(100900/200000): Loss: 0.0808
+===> Average Loss: 0.0823
+===> Iters(101000/200000): Loss: 0.0826
+===> Average Loss: 0.0824
+===> So far taining takes: 271(minutes) and 32(seconds)
+===> Expected Time: 537(minutes) and 43(seconds)
+===> Iters(101100/200000): Loss: 0.0812
+===> Average Loss: 0.0823
+===> Iters(101200/200000): Loss: 0.0865
+===> Average Loss: 0.0825
+===> Iters(101300/200000): Loss: 0.0864
+===> Average Loss: 0.0829
+===> Iters(101400/200000): Loss: 0.0829
+===> Average Loss: 0.0828
+===> Iters(101500/200000): Loss: 0.0809
+===> Average Loss: 0.0829
+===> Iters(101600/200000): Loss: 0.0812
+===> Average Loss: 0.0829
+===> Iters(101700/200000): Loss: 0.0833
+===> Average Loss: 0.0826
+===> Iters(101800/200000): Loss: 0.0829
+===> Average Loss: 0.0829
+===> Iters(101900/200000): Loss: 0.0812
+===> Average Loss: 0.0829
+===> Iters(102000/200000): Loss: 0.0828
+===> Average Loss: 0.0829
+===> So far taining takes: 274(minutes) and 12(seconds)
+===> Expected Time: 537(minutes) and 39(seconds)
+===> Iters(102100/200000): Loss: 0.0820
+===> Average Loss: 0.0830
+===> Iters(102200/200000): Loss: 0.0798
+===> Average Loss: 0.0823
+===> Iters(102300/200000): Loss: 0.0822
+===> Average Loss: 0.0819
+===> Iters(102400/200000): Loss: 0.0843
+===> Average Loss: 0.0821
+===> Iters(102500/200000): Loss: 0.0834
+===> Average Loss: 0.0823
+===> Iters(102600/200000): Loss: 0.0805
+===> Average Loss: 0.0822
+===> Iters(102700/200000): Loss: 0.0822
+===> Average Loss: 0.0821
+===> Iters(102800/200000): Loss: 0.0839
+===> Average Loss: 0.0822
+===> Iters(102900/200000): Loss: 0.0815
+===> Average Loss: 0.0823
+===> Iters(103000/200000): Loss: 0.0826
+===> Average Loss: 0.0822
+===> So far taining takes: 276(minutes) and 57(seconds)
+===> Expected Time: 537(minutes) and 47(seconds)
+===> Iters(103100/200000): Loss: 0.0814
+===> Average Loss: 0.0822
+===> Iters(103200/200000): Loss: 0.0808
+===> Average Loss: 0.0823
+===> Iters(103300/200000): Loss: 0.0813
+===> Average Loss: 0.0822
+===> Iters(103400/200000): Loss: 0.0857
+===> Average Loss: 0.0823
+===> Iters(103500/200000): Loss: 0.0823
+===> Average Loss: 0.0822
+===> Iters(103600/200000): Loss: 0.0848
+===> Average Loss: 0.0827
+===> Iters(103700/200000): Loss: 0.0804
+===> Average Loss: 0.0825
+===> Iters(103800/200000): Loss: 0.0810
+===> Average Loss: 0.0822
+===> Iters(103900/200000): Loss: 0.0817
+===> Average Loss: 0.0822
+===> Iters(104000/200000): Loss: 0.0806
+===> Average Loss: 0.0820
+===> So far taining takes: 279(minutes) and 37(seconds)
+===> Expected Time: 537(minutes) and 43(seconds)
+===> Iters(104100/200000): Loss: 0.0823
+===> Average Loss: 0.0821
+===> Iters(104200/200000): Loss: 0.0833
+===> Average Loss: 0.0823
+===> Iters(104300/200000): Loss: 0.0825
+===> Average Loss: 0.0825
+===> Iters(104400/200000): Loss: 0.0810
+===> Average Loss: 0.0820
+===> Iters(104500/200000): Loss: 0.0811
+===> Average Loss: 0.0819
+===> Iters(104600/200000): Loss: 0.0808
+===> Average Loss: 0.0815
+===> Iters(104700/200000): Loss: 0.0832
+===> Average Loss: 0.0817
+===> Iters(104800/200000): Loss: 0.0817
+===> Average Loss: 0.0818
+===> Iters(104900/200000): Loss: 0.0814
+===> Average Loss: 0.0818
+===> Iters(105000/200000): Loss: 0.0772
+===> Average Loss: 0.0815
+===> So far taining takes: 282(minutes) and 18(seconds)
+===> Expected Time: 537(minutes) and 43(seconds)
+===> Iters(105100/200000): Loss: 0.0849
+===> Average Loss: 0.0817
+===> Iters(105200/200000): Loss: 0.0843
+===> Average Loss: 0.0818
+===> Iters(105300/200000): Loss: 0.0796
+===> Average Loss: 0.0815
+===> Iters(105400/200000): Loss: 0.0805
+===> Average Loss: 0.0815
+===> Iters(105500/200000): Loss: 0.0827
+===> Average Loss: 0.0816
+===> Iters(105600/200000): Loss: 0.0835
+===> Average Loss: 0.0819
+===> Iters(105700/200000): Loss: 0.0816
+===> Average Loss: 0.0817
+===> Iters(105800/200000): Loss: 0.0817
+===> Average Loss: 0.0817
+===> Iters(105900/200000): Loss: 0.0827
+===> Average Loss: 0.0819
+===> Iters(106000/200000): Loss: 0.0802
+===> Average Loss: 0.0822
+===> So far taining takes: 284(minutes) and 59(seconds)
+===> Expected Time: 537(minutes) and 42(seconds)
+===> Iters(106100/200000): Loss: 0.0819
+===> Average Loss: 0.0819
+===> Iters(106200/200000): Loss: 0.0813
+===> Average Loss: 0.0816
+===> Iters(106300/200000): Loss: 0.0816
+===> Average Loss: 0.0818
+===> Iters(106400/200000): Loss: 0.0814
+===> Average Loss: 0.0819
+===> Iters(106500/200000): Loss: 0.0819
+===> Average Loss: 0.0818
+===> Iters(106600/200000): Loss: 0.0813
+===> Average Loss: 0.0816
+===> Iters(106700/200000): Loss: 0.0814
+===> Average Loss: 0.0815
+===> Iters(106800/200000): Loss: 0.0821
+===> Average Loss: 0.0816
+===> Iters(106900/200000): Loss: 0.0818
+===> Average Loss: 0.0815
+===> Iters(107000/200000): Loss: 0.0828
+===> Average Loss: 0.0818
+===> So far taining takes: 287(minutes) and 44(seconds)
+===> Expected Time: 537(minutes) and 50(seconds)
+===> Iters(107100/200000): Loss: 0.0804
+===> Average Loss: 0.0816
+===> Iters(107200/200000): Loss: 0.0794
+===> Average Loss: 0.0814
+===> Iters(107300/200000): Loss: 0.0820
+===> Average Loss: 0.0815
+===> Iters(107400/200000): Loss: 0.0829
+===> Average Loss: 0.0816
+===> Iters(107500/200000): Loss: 0.0823
+===> Average Loss: 0.0817
+===> Iters(107600/200000): Loss: 0.0805
+===> Average Loss: 0.0816
+===> Iters(107700/200000): Loss: 0.0793
+===> Average Loss: 0.0814
+===> Iters(107800/200000): Loss: 0.0809
+===> Average Loss: 0.0812
+===> Iters(107900/200000): Loss: 0.0836
+===> Average Loss: 0.0814
+===> Iters(108000/200000): Loss: 0.0829
+===> Average Loss: 0.0814
+===> So far taining takes: 290(minutes) and 24(seconds)
+===> Expected Time: 537(minutes) and 46(seconds)
+===> Iters(108100/200000): Loss: 0.0819
+===> Average Loss: 0.0816
+===> Iters(108200/200000): Loss: 0.0793
+===> Average Loss: 0.0816
+===> Iters(108300/200000): Loss: 0.0822
+===> Average Loss: 0.0816
+===> Iters(108400/200000): Loss: 0.0800
+===> Average Loss: 0.0813
+===> Iters(108500/200000): Loss: 0.0783
+===> Average Loss: 0.0809
+===> Iters(108600/200000): Loss: 0.0837
+===> Average Loss: 0.0812
+===> Iters(108700/200000): Loss: 0.0819
+===> Average Loss: 0.0815
+===> Iters(108800/200000): Loss: 0.0807
+===> Average Loss: 0.0814
+===> Iters(108900/200000): Loss: 0.0825
+===> Average Loss: 0.0813
+===> Iters(109000/200000): Loss: 0.0826
+===> Average Loss: 0.0813
+===> So far taining takes: 293(minutes) and 3(seconds)
+===> Expected Time: 537(minutes) and 43(seconds)
+===> Iters(109100/200000): Loss: 0.0783
+===> Average Loss: 0.0809
+===> Iters(109200/200000): Loss: 0.0807
+===> Average Loss: 0.0811
+===> Iters(109300/200000): Loss: 0.0816
+===> Average Loss: 0.0810
+===> Iters(109400/200000): Loss: 0.0808
+===> Average Loss: 0.0811
+===> Iters(109500/200000): Loss: 0.0820
+===> Average Loss: 0.0815
+===> Iters(109600/200000): Loss: 0.0807
+===> Average Loss: 0.0812
+===> Iters(109700/200000): Loss: 0.0818
+===> Average Loss: 0.0812
+===> Iters(109800/200000): Loss: 0.0792
+===> Average Loss: 0.0810
+===> Iters(109900/200000): Loss: 0.0802
+===> Average Loss: 0.0808
+===> Iters(110000/200000): Loss: 0.0799
+===> Average Loss: 0.0805
+Checkpoint saved to ././Congestion//model_iters_110000.pth
+===> So far taining takes: 295(minutes) and 43(seconds)
+===> Expected Time: 537(minutes) and 40(seconds)
+===> Iters(110100/200000): Loss: 0.0825
+===> Average Loss: 0.0810
+===> Iters(110200/200000): Loss: 0.0811
+===> Average Loss: 0.0810
+===> Iters(110300/200000): Loss: 0.0828
+===> Average Loss: 0.0811
+===> Iters(110400/200000): Loss: 0.0791
+===> Average Loss: 0.0809
+===> Iters(110500/200000): Loss: 0.0805
+===> Average Loss: 0.0808
+===> Iters(110600/200000): Loss: 0.0799
+===> Average Loss: 0.0807
+===> Iters(110700/200000): Loss: 0.0803
+===> Average Loss: 0.0805
+===> Iters(110800/200000): Loss: 0.0791
+===> Average Loss: 0.0805
+===> Iters(110900/200000): Loss: 0.0825
+===> Average Loss: 0.0808
+===> Iters(111000/200000): Loss: 0.0816
+===> Average Loss: 0.0809
+===> So far taining takes: 298(minutes) and 28(seconds)
+===> Expected Time: 537(minutes) and 47(seconds)
+===> Iters(111100/200000): Loss: 0.0843
+===> Average Loss: 0.0811
+===> Iters(111200/200000): Loss: 0.0807
+===> Average Loss: 0.0811
+===> Iters(111300/200000): Loss: 0.0804
+===> Average Loss: 0.0808
+===> Iters(111400/200000): Loss: 0.0778
+===> Average Loss: 0.0807
+===> Iters(111500/200000): Loss: 0.0807
+===> Average Loss: 0.0807
+===> Iters(111600/200000): Loss: 0.0779
+===> Average Loss: 0.0805
+===> Iters(111700/200000): Loss: 0.0834
+===> Average Loss: 0.0808
+===> Iters(111800/200000): Loss: 0.0811
+===> Average Loss: 0.0810
+===> Iters(111900/200000): Loss: 0.0778
+===> Average Loss: 0.0806
+===> Iters(112000/200000): Loss: 0.0807
+===> Average Loss: 0.0805
+===> So far taining takes: 301(minutes) and 7(seconds)
+===> Expected Time: 537(minutes) and 44(seconds)
+===> Iters(112100/200000): Loss: 0.0784
+===> Average Loss: 0.0799
+===> Iters(112200/200000): Loss: 0.0842
+===> Average Loss: 0.0802
+===> Iters(112300/200000): Loss: 0.0822
+===> Average Loss: 0.0804
+===> Iters(112400/200000): Loss: 0.0806
+===> Average Loss: 0.0807
+===> Iters(112500/200000): Loss: 0.0824
+===> Average Loss: 0.0809
+===> Iters(112600/200000): Loss: 0.0817
+===> Average Loss: 0.0812
+===> Iters(112700/200000): Loss: 0.0765
+===> Average Loss: 0.0806
+===> Iters(112800/200000): Loss: 0.0828
+===> Average Loss: 0.0807
+===> Iters(112900/200000): Loss: 0.0774
+===> Average Loss: 0.0807
+===> Iters(113000/200000): Loss: 0.0810
+===> Average Loss: 0.0807
+===> So far taining takes: 303(minutes) and 47(seconds)
+===> Expected Time: 537(minutes) and 40(seconds)
+===> Iters(113100/200000): Loss: 0.0807
+===> Average Loss: 0.0809
+===> Iters(113200/200000): Loss: 0.0776
+===> Average Loss: 0.0803
+===> Iters(113300/200000): Loss: 0.0804
+===> Average Loss: 0.0801
+===> Iters(113400/200000): Loss: 0.0823
+===> Average Loss: 0.0803
+===> Iters(113500/200000): Loss: 0.0796
+===> Average Loss: 0.0800
+===> Iters(113600/200000): Loss: 0.0827
+===> Average Loss: 0.0801
+===> Iters(113700/200000): Loss: 0.0800
+===> Average Loss: 0.0804
+===> Iters(113800/200000): Loss: 0.0818
+===> Average Loss: 0.0803
+===> Iters(113900/200000): Loss: 0.0806
+===> Average Loss: 0.0807
+===> Iters(114000/200000): Loss: 0.0804
+===> Average Loss: 0.0806
+===> So far taining takes: 306(minutes) and 26(seconds)
+===> Expected Time: 537(minutes) and 37(seconds)
+===> Iters(114100/200000): Loss: 0.0765
+===> Average Loss: 0.0802
+===> Iters(114200/200000): Loss: 0.0796
+===> Average Loss: 0.0804
+===> Iters(114300/200000): Loss: 0.0823
+===> Average Loss: 0.0806
+===> Iters(114400/200000): Loss: 0.0796
+===> Average Loss: 0.0803
+===> Iters(114500/200000): Loss: 0.0821
+===> Average Loss: 0.0806
+===> Iters(114600/200000): Loss: 0.0799
+===> Average Loss: 0.0803
+===> Iters(114700/200000): Loss: 0.0796
+===> Average Loss: 0.0802
+===> Iters(114800/200000): Loss: 0.0809
+===> Average Loss: 0.0802
+===> Iters(114900/200000): Loss: 0.0800
+===> Average Loss: 0.0801
+===> Iters(115000/200000): Loss: 0.0813
+===> Average Loss: 0.0802
+===> So far taining takes: 309(minutes) and 12(seconds)
+===> Expected Time: 537(minutes) and 44(seconds)
+===> Iters(115100/200000): Loss: 0.0779
+===> Average Loss: 0.0803
+===> Iters(115200/200000): Loss: 0.0784
+===> Average Loss: 0.0802
+===> Iters(115300/200000): Loss: 0.0815
+===> Average Loss: 0.0801
+===> Iters(115400/200000): Loss: 0.0807
+===> Average Loss: 0.0802
+===> Iters(115500/200000): Loss: 0.0784
+===> Average Loss: 0.0799
+===> Iters(115600/200000): Loss: 0.0796
+===> Average Loss: 0.0799
+===> Iters(115700/200000): Loss: 0.0817
+===> Average Loss: 0.0801
+===> Iters(115800/200000): Loss: 0.0806
+===> Average Loss: 0.0800
+===> Iters(115900/200000): Loss: 0.0814
+===> Average Loss: 0.0802
+===> Iters(116000/200000): Loss: 0.0822
+===> Average Loss: 0.0803
+===> So far taining takes: 311(minutes) and 51(seconds)
+===> Expected Time: 537(minutes) and 41(seconds)
+===> Iters(116100/200000): Loss: 0.0786
+===> Average Loss: 0.0803
+===> Iters(116200/200000): Loss: 0.0785
+===> Average Loss: 0.0803
+===> Iters(116300/200000): Loss: 0.0775
+===> Average Loss: 0.0799
+===> Iters(116400/200000): Loss: 0.0787
+===> Average Loss: 0.0797
+===> Iters(116500/200000): Loss: 0.0781
+===> Average Loss: 0.0797
+===> Iters(116600/200000): Loss: 0.0844
+===> Average Loss: 0.0802
+===> Iters(116700/200000): Loss: 0.0787
+===> Average Loss: 0.0799
+===> Iters(116800/200000): Loss: 0.0782
+===> Average Loss: 0.0797
+===> Iters(116900/200000): Loss: 0.0856
+===> Average Loss: 0.0801
+===> Iters(117000/200000): Loss: 0.0782
+===> Average Loss: 0.0797
+===> So far taining takes: 314(minutes) and 30(seconds)
+===> Expected Time: 537(minutes) and 38(seconds)
+===> Iters(117100/200000): Loss: 0.0792
+===> Average Loss: 0.0797
+===> Iters(117200/200000): Loss: 0.0775
+===> Average Loss: 0.0796
+===> Iters(117300/200000): Loss: 0.0792
+===> Average Loss: 0.0798
+===> Iters(117400/200000): Loss: 0.0824
+===> Average Loss: 0.0802
+===> Iters(117500/200000): Loss: 0.0803
+===> Average Loss: 0.0804
+===> Iters(117600/200000): Loss: 0.0812
+===> Average Loss: 0.0801
+===> Iters(117700/200000): Loss: 0.0804
+===> Average Loss: 0.0802
+===> Iters(117800/200000): Loss: 0.0805
+===> Average Loss: 0.0805
+===> Iters(117900/200000): Loss: 0.0786
+===> Average Loss: 0.0798
+===> Iters(118000/200000): Loss: 0.0787
+===> Average Loss: 0.0798
+===> So far taining takes: 317(minutes) and 10(seconds)
+===> Expected Time: 537(minutes) and 35(seconds)
+===> Iters(118100/200000): Loss: 0.0779
+===> Average Loss: 0.0797
+===> Iters(118200/200000): Loss: 0.0808
+===> Average Loss: 0.0800
+===> Iters(118300/200000): Loss: 0.0809
+===> Average Loss: 0.0802
+===> Iters(118400/200000): Loss: 0.0792
+===> Average Loss: 0.0799
+===> Iters(118500/200000): Loss: 0.0791
+===> Average Loss: 0.0798
+===> Iters(118600/200000): Loss: 0.0794
+===> Average Loss: 0.0796
+===> Iters(118700/200000): Loss: 0.0799
+===> Average Loss: 0.0795
+===> Iters(118800/200000): Loss: 0.0774
+===> Average Loss: 0.0792
+===> Iters(118900/200000): Loss: 0.0823
+===> Average Loss: 0.0796
+===> Iters(119000/200000): Loss: 0.0790
+===> Average Loss: 0.0796
+===> So far taining takes: 319(minutes) and 56(seconds)
+===> Expected Time: 537(minutes) and 43(seconds)
+===> Iters(119100/200000): Loss: 0.0797
+===> Average Loss: 0.0798
+===> Iters(119200/200000): Loss: 0.0843
+===> Average Loss: 0.0801
+===> Iters(119300/200000): Loss: 0.0772
+===> Average Loss: 0.0798
+===> Iters(119400/200000): Loss: 0.0802
+===> Average Loss: 0.0799
+===> Iters(119500/200000): Loss: 0.0793
+===> Average Loss: 0.0799
+===> Iters(119600/200000): Loss: 0.0783
+===> Average Loss: 0.0798
+===> Iters(119700/200000): Loss: 0.0791
+===> Average Loss: 0.0797
+===> Iters(119800/200000): Loss: 0.0801
+===> Average Loss: 0.0800
+===> Iters(119900/200000): Loss: 0.0816
+===> Average Loss: 0.0799
+===> Iters(120000/200000): Loss: 0.0780
+===> Average Loss: 0.0798
+Checkpoint saved to ././Congestion//model_iters_120000.pth
+===> So far taining takes: 322(minutes) and 36(seconds)
+===> Expected Time: 537(minutes) and 40(seconds)
+===> Iters(120100/200000): Loss: 0.0791
+===> Average Loss: 0.0797
+===> Iters(120200/200000): Loss: 0.0781
+===> Average Loss: 0.0791
+===> Iters(120300/200000): Loss: 0.0799
+===> Average Loss: 0.0794
+===> Iters(120400/200000): Loss: 0.0800
+===> Average Loss: 0.0794
+===> Iters(120500/200000): Loss: 0.0805
+===> Average Loss: 0.0795
+===> Iters(120600/200000): Loss: 0.0783
+===> Average Loss: 0.0795
+===> Iters(120700/200000): Loss: 0.0764
+===> Average Loss: 0.0792
+===> Iters(120800/200000): Loss: 0.0770
+===> Average Loss: 0.0789
+===> Iters(120900/200000): Loss: 0.0778
+===> Average Loss: 0.0785
+===> Iters(121000/200000): Loss: 0.0830
+===> Average Loss: 0.0790
+===> So far taining takes: 325(minutes) and 15(seconds)
+===> Expected Time: 537(minutes) and 37(seconds)
+===> Iters(121100/200000): Loss: 0.0808
+===> Average Loss: 0.0792
+===> Iters(121200/200000): Loss: 0.0790
+===> Average Loss: 0.0793
+===> Iters(121300/200000): Loss: 0.0799
+===> Average Loss: 0.0793
+===> Iters(121400/200000): Loss: 0.0763
+===> Average Loss: 0.0789
+===> Iters(121500/200000): Loss: 0.0812
+===> Average Loss: 0.0790
+===> Iters(121600/200000): Loss: 0.0787
+===> Average Loss: 0.0790
+===> Iters(121700/200000): Loss: 0.0803
+===> Average Loss: 0.0794
+===> Iters(121800/200000): Loss: 0.0768
+===> Average Loss: 0.0794
+===> Iters(121900/200000): Loss: 0.0806
+===> Average Loss: 0.0797
+===> Iters(122000/200000): Loss: 0.0796
+===> Average Loss: 0.0793
+===> So far taining takes: 328(minutes) and 1(seconds)
+===> Expected Time: 537(minutes) and 44(seconds)
+===> Iters(122100/200000): Loss: 0.0798
+===> Average Loss: 0.0792
+===> Iters(122200/200000): Loss: 0.0775
+===> Average Loss: 0.0791
+===> Iters(122300/200000): Loss: 0.0787
+===> Average Loss: 0.0789
+===> Iters(122400/200000): Loss: 0.0808
+===> Average Loss: 0.0794
+===> Iters(122500/200000): Loss: 0.0788
+===> Average Loss: 0.0792
+===> Iters(122600/200000): Loss: 0.0788
+===> Average Loss: 0.0792
+===> Iters(122700/200000): Loss: 0.0807
+===> Average Loss: 0.0792
+===> Iters(122800/200000): Loss: 0.0776
+===> Average Loss: 0.0793
+===> Iters(122900/200000): Loss: 0.0796
+===> Average Loss: 0.0792
+===> Iters(123000/200000): Loss: 0.0791
+===> Average Loss: 0.0791
+===> So far taining takes: 330(minutes) and 41(seconds)
+===> Expected Time: 537(minutes) and 41(seconds)
+===> Iters(123100/200000): Loss: 0.0779
+===> Average Loss: 0.0790
+===> Iters(123200/200000): Loss: 0.0784
+===> Average Loss: 0.0790
+===> Iters(123300/200000): Loss: 0.0795
+===> Average Loss: 0.0791
+===> Iters(123400/200000): Loss: 0.0795
+===> Average Loss: 0.0790
+===> Iters(123500/200000): Loss: 0.0805
+===> Average Loss: 0.0792
+===> Iters(123600/200000): Loss: 0.0795
+===> Average Loss: 0.0792
+===> Iters(123700/200000): Loss: 0.0791
+===> Average Loss: 0.0791
+===> Iters(123800/200000): Loss: 0.0784
+===> Average Loss: 0.0791
+===> Iters(123900/200000): Loss: 0.0771
+===> Average Loss: 0.0789
+===> Iters(124000/200000): Loss: 0.0793
+===> Average Loss: 0.0789
+===> So far taining takes: 333(minutes) and 20(seconds)
+===> Expected Time: 537(minutes) and 39(seconds)
+===> Iters(124100/200000): Loss: 0.0762
+===> Average Loss: 0.0787
+===> Iters(124200/200000): Loss: 0.0827
+===> Average Loss: 0.0792
+===> Iters(124300/200000): Loss: 0.0800
+===> Average Loss: 0.0792
+===> Iters(124400/200000): Loss: 0.0780
+===> Average Loss: 0.0791
+===> Iters(124500/200000): Loss: 0.0791
+===> Average Loss: 0.0789
+===> Iters(124600/200000): Loss: 0.0796
+===> Average Loss: 0.0789
+===> Iters(124700/200000): Loss: 0.0757
+===> Average Loss: 0.0786
+===> Iters(124800/200000): Loss: 0.0784
+===> Average Loss: 0.0786
+===> Iters(124900/200000): Loss: 0.0782
+===> Average Loss: 0.0787
+===> Iters(125000/200000): Loss: 0.0806
+===> Average Loss: 0.0788
+===> So far taining takes: 336(minutes) and 0(seconds)
+===> Expected Time: 537(minutes) and 36(seconds)
+===> Iters(125100/200000): Loss: 0.0793
+===> Average Loss: 0.0792
+===> Iters(125200/200000): Loss: 0.0790
+===> Average Loss: 0.0788
+===> Iters(125300/200000): Loss: 0.0771
+===> Average Loss: 0.0785
+===> Iters(125400/200000): Loss: 0.0790
+===> Average Loss: 0.0786
+===> Iters(125500/200000): Loss: 0.0798
+===> Average Loss: 0.0787
+===> Iters(125600/200000): Loss: 0.0769
+===> Average Loss: 0.0784
+===> Iters(125700/200000): Loss: 0.0780
+===> Average Loss: 0.0786
+===> Iters(125800/200000): Loss: 0.0788
+===> Average Loss: 0.0787
+===> Iters(125900/200000): Loss: 0.0794
+===> Average Loss: 0.0788
+===> Iters(126000/200000): Loss: 0.0813
+===> Average Loss: 0.0789
+===> So far taining takes: 338(minutes) and 45(seconds)
+===> Expected Time: 537(minutes) and 42(seconds)
+===> Iters(126100/200000): Loss: 0.0773
+===> Average Loss: 0.0787
+===> Iters(126200/200000): Loss: 0.0773
+===> Average Loss: 0.0785
+===> Iters(126300/200000): Loss: 0.0785
+===> Average Loss: 0.0786
+===> Iters(126400/200000): Loss: 0.0803
+===> Average Loss: 0.0788
+===> Iters(126500/200000): Loss: 0.0791
+===> Average Loss: 0.0787
+===> Iters(126600/200000): Loss: 0.0797
+===> Average Loss: 0.0790
+===> Iters(126700/200000): Loss: 0.0782
+===> Average Loss: 0.0790
+===> Iters(126800/200000): Loss: 0.0785
+===> Average Loss: 0.0790
+===> Iters(126900/200000): Loss: 0.0781
+===> Average Loss: 0.0788
+===> Iters(127000/200000): Loss: 0.0761
+===> Average Loss: 0.0783
+===> So far taining takes: 341(minutes) and 24(seconds)
+===> Expected Time: 537(minutes) and 39(seconds)
+===> Iters(127100/200000): Loss: 0.0800
+===> Average Loss: 0.0786
+===> Iters(127200/200000): Loss: 0.0783
+===> Average Loss: 0.0787
+===> Iters(127300/200000): Loss: 0.0800
+===> Average Loss: 0.0788
+===> Iters(127400/200000): Loss: 0.0791
+===> Average Loss: 0.0787
+===> Iters(127500/200000): Loss: 0.0782
+===> Average Loss: 0.0786
+===> Iters(127600/200000): Loss: 0.0782
+===> Average Loss: 0.0785
+===> Iters(127700/200000): Loss: 0.0800
+===> Average Loss: 0.0787
+===> Iters(127800/200000): Loss: 0.0759
+===> Average Loss: 0.0784
+===> Iters(127900/200000): Loss: 0.0769
+===> Average Loss: 0.0783
+===> Iters(128000/200000): Loss: 0.0797
+===> Average Loss: 0.0787
+===> So far taining takes: 344(minutes) and 4(seconds)
+===> Expected Time: 537(minutes) and 36(seconds)
+===> Iters(128100/200000): Loss: 0.0800
+===> Average Loss: 0.0787
+===> Iters(128200/200000): Loss: 0.0772
+===> Average Loss: 0.0785
+===> Iters(128300/200000): Loss: 0.0754
+===> Average Loss: 0.0781
+===> Iters(128400/200000): Loss: 0.0780
+===> Average Loss: 0.0780
+===> Iters(128500/200000): Loss: 0.0796
+===> Average Loss: 0.0781
+===> Iters(128600/200000): Loss: 0.0803
+===> Average Loss: 0.0783
+===> Iters(128700/200000): Loss: 0.0790
+===> Average Loss: 0.0782
+===> Iters(128800/200000): Loss: 0.0807
+===> Average Loss: 0.0787
+===> Iters(128900/200000): Loss: 0.0772
+===> Average Loss: 0.0787
+===> Iters(129000/200000): Loss: 0.0763
+===> Average Loss: 0.0784
+===> So far taining takes: 346(minutes) and 43(seconds)
+===> Expected Time: 537(minutes) and 33(seconds)
+===> Iters(129100/200000): Loss: 0.0789
+===> Average Loss: 0.0783
+===> Iters(129200/200000): Loss: 0.0760
+===> Average Loss: 0.0781
+===> Iters(129300/200000): Loss: 0.0815
+===> Average Loss: 0.0787
+===> Iters(129400/200000): Loss: 0.0790
+===> Average Loss: 0.0789
+===> Iters(129500/200000): Loss: 0.0775
+===> Average Loss: 0.0786
+===> Iters(129600/200000): Loss: 0.0787
+===> Average Loss: 0.0785
+===> Iters(129700/200000): Loss: 0.0778
+===> Average Loss: 0.0784
+===> Iters(129800/200000): Loss: 0.0797
+===> Average Loss: 0.0783
+===> Iters(129900/200000): Loss: 0.0777
+===> Average Loss: 0.0783
+===> Iters(130000/200000): Loss: 0.0767
+===> Average Loss: 0.0784
+Checkpoint saved to ././Congestion//model_iters_130000.pth
+===> So far taining takes: 349(minutes) and 29(seconds)
+===> Expected Time: 537(minutes) and 40(seconds)
+===> Iters(130100/200000): Loss: 0.0785
+===> Average Loss: 0.0783
+===> Iters(130200/200000): Loss: 0.0774
+===> Average Loss: 0.0785
+===> Iters(130300/200000): Loss: 0.0784
+===> Average Loss: 0.0781
+===> Iters(130400/200000): Loss: 0.0785
+===> Average Loss: 0.0781
+===> Iters(130500/200000): Loss: 0.0772
+===> Average Loss: 0.0781
+===> Iters(130600/200000): Loss: 0.0778
+===> Average Loss: 0.0780
+===> Iters(130700/200000): Loss: 0.0789
+===> Average Loss: 0.0781
+===> Iters(130800/200000): Loss: 0.0781
+===> Average Loss: 0.0779
+===> Iters(130900/200000): Loss: 0.0774
+===> Average Loss: 0.0779
+===> Iters(131000/200000): Loss: 0.0784
+===> Average Loss: 0.0781
+===> So far taining takes: 352(minutes) and 10(seconds)
+===> Expected Time: 537(minutes) and 40(seconds)
+===> Iters(131100/200000): Loss: 0.0801
+===> Average Loss: 0.0782
+===> Iters(131200/200000): Loss: 0.0759
+===> Average Loss: 0.0781
+===> Iters(131300/200000): Loss: 0.0794
+===> Average Loss: 0.0782
+===> Iters(131400/200000): Loss: 0.0792
+===> Average Loss: 0.0783
+===> Iters(131500/200000): Loss: 0.0782
+===> Average Loss: 0.0783
+===> Iters(131600/200000): Loss: 0.0788
+===> Average Loss: 0.0784
+===> Iters(131700/200000): Loss: 0.0758
+===> Average Loss: 0.0781
+===> Iters(131800/200000): Loss: 0.0731
+===> Average Loss: 0.0776
+===> Iters(131900/200000): Loss: 0.0797
+===> Average Loss: 0.0779
+===> Iters(132000/200000): Loss: 0.0760
+===> Average Loss: 0.0776
+===> So far taining takes: 354(minutes) and 51(seconds)
+===> Expected Time: 537(minutes) and 39(seconds)
+===> Iters(132100/200000): Loss: 0.0797
+===> Average Loss: 0.0776
+===> Iters(132200/200000): Loss: 0.0792
+===> Average Loss: 0.0779
+===> Iters(132300/200000): Loss: 0.0790
+===> Average Loss: 0.0779
+===> Iters(132400/200000): Loss: 0.0769
+===> Average Loss: 0.0776
+===> Iters(132500/200000): Loss: 0.0807
+===> Average Loss: 0.0779
+===> Iters(132600/200000): Loss: 0.0769
+===> Average Loss: 0.0777
+===> Iters(132700/200000): Loss: 0.0765
+===> Average Loss: 0.0778
+===> Iters(132800/200000): Loss: 0.0758
+===> Average Loss: 0.0781
+===> Iters(132900/200000): Loss: 0.0784
+===> Average Loss: 0.0779
+===> Iters(133000/200000): Loss: 0.0799
+===> Average Loss: 0.0783
+===> So far taining takes: 357(minutes) and 31(seconds)
+===> Expected Time: 537(minutes) and 37(seconds)
+===> Iters(133100/200000): Loss: 0.0801
+===> Average Loss: 0.0784
+===> Iters(133200/200000): Loss: 0.0776
+===> Average Loss: 0.0782
+===> Iters(133300/200000): Loss: 0.0769
+===> Average Loss: 0.0780
+===> Iters(133400/200000): Loss: 0.0778
+===> Average Loss: 0.0781
+===> Iters(133500/200000): Loss: 0.0759
+===> Average Loss: 0.0776
+===> Iters(133600/200000): Loss: 0.0783
+===> Average Loss: 0.0777
+===> Iters(133700/200000): Loss: 0.0802
+===> Average Loss: 0.0781
+===> Iters(133800/200000): Loss: 0.0778
+===> Average Loss: 0.0783
+===> Iters(133900/200000): Loss: 0.0769
+===> Average Loss: 0.0781
+===> Iters(134000/200000): Loss: 0.0775
+===> Average Loss: 0.0779
+===> So far taining takes: 360(minutes) and 16(seconds)
+===> Expected Time: 537(minutes) and 43(seconds)
+===> Iters(134100/200000): Loss: 0.0768
+===> Average Loss: 0.0776
+===> Iters(134200/200000): Loss: 0.0812
+===> Average Loss: 0.0779
+===> Iters(134300/200000): Loss: 0.0748
+===> Average Loss: 0.0777
+===> Iters(134400/200000): Loss: 0.0770
+===> Average Loss: 0.0776
+===> Iters(134500/200000): Loss: 0.0773
+===> Average Loss: 0.0778
+===> Iters(134600/200000): Loss: 0.0784
+===> Average Loss: 0.0778
+===> Iters(134700/200000): Loss: 0.0774
+===> Average Loss: 0.0775
+===> Iters(134800/200000): Loss: 0.0765
+===> Average Loss: 0.0774
+===> Iters(134900/200000): Loss: 0.0792
+===> Average Loss: 0.0776
+===> Iters(135000/200000): Loss: 0.0795
+===> Average Loss: 0.0778
+===> So far taining takes: 362(minutes) and 55(seconds)
+===> Expected Time: 537(minutes) and 40(seconds)
+===> Iters(135100/200000): Loss: 0.0770
+===> Average Loss: 0.0778
+===> Iters(135200/200000): Loss: 0.0775
+===> Average Loss: 0.0775
+===> Iters(135300/200000): Loss: 0.0749
+===> Average Loss: 0.0775
+===> Iters(135400/200000): Loss: 0.0758
+===> Average Loss: 0.0774
+===> Iters(135500/200000): Loss: 0.0782
+===> Average Loss: 0.0774
+===> Iters(135600/200000): Loss: 0.0801
+===> Average Loss: 0.0776
+===> Iters(135700/200000): Loss: 0.0771
+===> Average Loss: 0.0776
+===> Iters(135800/200000): Loss: 0.0768
+===> Average Loss: 0.0776
+===> Iters(135900/200000): Loss: 0.0741
+===> Average Loss: 0.0771
+===> Iters(136000/200000): Loss: 0.0789
+===> Average Loss: 0.0770
+===> So far taining takes: 365(minutes) and 35(seconds)
+===> Expected Time: 537(minutes) and 37(seconds)
+===> Iters(136100/200000): Loss: 0.0792
+===> Average Loss: 0.0773
+===> Iters(136200/200000): Loss: 0.0790
+===> Average Loss: 0.0774
+===> Iters(136300/200000): Loss: 0.0777
+===> Average Loss: 0.0777
+===> Iters(136400/200000): Loss: 0.0762
+===> Average Loss: 0.0777
+===> Iters(136500/200000): Loss: 0.0770
+===> Average Loss: 0.0776
+===> Iters(136600/200000): Loss: 0.0784
+===> Average Loss: 0.0774
+===> Iters(136700/200000): Loss: 0.0742
+===> Average Loss: 0.0771
+===> Iters(136800/200000): Loss: 0.0792
+===> Average Loss: 0.0774
+===> Iters(136900/200000): Loss: 0.0794
+===> Average Loss: 0.0779
+===> Iters(137000/200000): Loss: 0.0769
+===> Average Loss: 0.0777
+===> So far taining takes: 368(minutes) and 14(seconds)
+===> Expected Time: 537(minutes) and 35(seconds)
+===> Iters(137100/200000): Loss: 0.0784
+===> Average Loss: 0.0776
+===> Iters(137200/200000): Loss: 0.0768
+===> Average Loss: 0.0774
+===> Iters(137300/200000): Loss: 0.0770
+===> Average Loss: 0.0773
+===> Iters(137400/200000): Loss: 0.0772
+===> Average Loss: 0.0774
+===> Iters(137500/200000): Loss: 0.0758
+===> Average Loss: 0.0773
+===> Iters(137600/200000): Loss: 0.0775
+===> Average Loss: 0.0772
+===> Iters(137700/200000): Loss: 0.0796
+===> Average Loss: 0.0778
+===> Iters(137800/200000): Loss: 0.0764
+===> Average Loss: 0.0775
+===> Iters(137900/200000): Loss: 0.0783
+===> Average Loss: 0.0774
+===> Iters(138000/200000): Loss: 0.0769
+===> Average Loss: 0.0774
+===> So far taining takes: 371(minutes) and 0(seconds)
+===> Expected Time: 537(minutes) and 41(seconds)
+===> Iters(138100/200000): Loss: 0.0765
+===> Average Loss: 0.0772
+===> Iters(138200/200000): Loss: 0.0780
+===> Average Loss: 0.0773
+===> Iters(138300/200000): Loss: 0.0775
+===> Average Loss: 0.0774
+===> Iters(138400/200000): Loss: 0.0781
+===> Average Loss: 0.0775
+===> Iters(138500/200000): Loss: 0.0778
+===> Average Loss: 0.0777
+===> Iters(138600/200000): Loss: 0.0787
+===> Average Loss: 0.0778
+===> Iters(138700/200000): Loss: 0.0747
+===> Average Loss: 0.0773
+===> Iters(138800/200000): Loss: 0.0768
+===> Average Loss: 0.0773
+===> Iters(138900/200000): Loss: 0.0795
+===> Average Loss: 0.0774
+===> Iters(139000/200000): Loss: 0.0769
+===> Average Loss: 0.0774
+===> So far taining takes: 373(minutes) and 39(seconds)
+===> Expected Time: 537(minutes) and 38(seconds)
+===> Iters(139100/200000): Loss: 0.0752
+===> Average Loss: 0.0773
+===> Iters(139200/200000): Loss: 0.0783
+===> Average Loss: 0.0773
+===> Iters(139300/200000): Loss: 0.0777
+===> Average Loss: 0.0774
+===> Iters(139400/200000): Loss: 0.0770
+===> Average Loss: 0.0773
+===> Iters(139500/200000): Loss: 0.0729
+===> Average Loss: 0.0768
+===> Iters(139600/200000): Loss: 0.0792
+===> Average Loss: 0.0768
+===> Iters(139700/200000): Loss: 0.0772
+===> Average Loss: 0.0771
+===> Iters(139800/200000): Loss: 0.0767
+===> Average Loss: 0.0771
+===> Iters(139900/200000): Loss: 0.0766
+===> Average Loss: 0.0768
+===> Iters(140000/200000): Loss: 0.0795
+===> Average Loss: 0.0770
+Checkpoint saved to ././Congestion//model_iters_140000.pth
+===> So far taining takes: 376(minutes) and 19(seconds)
+===> Expected Time: 537(minutes) and 36(seconds)
+===> Iters(140100/200000): Loss: 0.0769
+===> Average Loss: 0.0772
+===> Iters(140200/200000): Loss: 0.0767
+===> Average Loss: 0.0771
+===> Iters(140300/200000): Loss: 0.0776
+===> Average Loss: 0.0770
+===> Iters(140400/200000): Loss: 0.0783
+===> Average Loss: 0.0772
+===> Iters(140500/200000): Loss: 0.0777
+===> Average Loss: 0.0776
+===> Iters(140600/200000): Loss: 0.0768
+===> Average Loss: 0.0774
+===> Iters(140700/200000): Loss: 0.0772
+===> Average Loss: 0.0774
+===> Iters(140800/200000): Loss: 0.0775
+===> Average Loss: 0.0775
+===> Iters(140900/200000): Loss: 0.0747
+===> Average Loss: 0.0773
+===> Iters(141000/200000): Loss: 0.0772
+===> Average Loss: 0.0771
+===> So far taining takes: 379(minutes) and 5(seconds)
+===> Expected Time: 537(minutes) and 42(seconds)
+===> Iters(141100/200000): Loss: 0.0793
+===> Average Loss: 0.0773
+===> Iters(141200/200000): Loss: 0.0755
+===> Average Loss: 0.0772
+===> Iters(141300/200000): Loss: 0.0773
+===> Average Loss: 0.0771
+===> Iters(141400/200000): Loss: 0.0758
+===> Average Loss: 0.0769
+===> Iters(141500/200000): Loss: 0.0779
+===> Average Loss: 0.0769
+===> Iters(141600/200000): Loss: 0.0773
+===> Average Loss: 0.0770
+===> Iters(141700/200000): Loss: 0.0750
+===> Average Loss: 0.0767
+===> Iters(141800/200000): Loss: 0.0770
+===> Average Loss: 0.0767
+===> Iters(141900/200000): Loss: 0.0779
+===> Average Loss: 0.0770
+===> Iters(142000/200000): Loss: 0.0766
+===> Average Loss: 0.0770
+===> So far taining takes: 381(minutes) and 45(seconds)
+===> Expected Time: 537(minutes) and 40(seconds)
+===> Iters(142100/200000): Loss: 0.0743
+===> Average Loss: 0.0765
+===> Iters(142200/200000): Loss: 0.0788
+===> Average Loss: 0.0768
+===> Iters(142300/200000): Loss: 0.0780
+===> Average Loss: 0.0769
+===> Iters(142400/200000): Loss: 0.0775
+===> Average Loss: 0.0770
+===> Iters(142500/200000): Loss: 0.0785
+===> Average Loss: 0.0771
+===> Iters(142600/200000): Loss: 0.0772
+===> Average Loss: 0.0771
+===> Iters(142700/200000): Loss: 0.0766
+===> Average Loss: 0.0772
+===> Iters(142800/200000): Loss: 0.0732
+===> Average Loss: 0.0769
+===> Iters(142900/200000): Loss: 0.0771
+===> Average Loss: 0.0768
+===> Iters(143000/200000): Loss: 0.0764
+===> Average Loss: 0.0768
+===> So far taining takes: 384(minutes) and 24(seconds)
+===> Expected Time: 537(minutes) and 38(seconds)
+===> Iters(143100/200000): Loss: 0.0785
+===> Average Loss: 0.0772
+===> Iters(143200/200000): Loss: 0.0766
+===> Average Loss: 0.0770
+===> Iters(143300/200000): Loss: 0.0757
+===> Average Loss: 0.0767
+===> Iters(143400/200000): Loss: 0.0771
+===> Average Loss: 0.0767
+===> Iters(143500/200000): Loss: 0.0772
+===> Average Loss: 0.0766
+===> Iters(143600/200000): Loss: 0.0771
+===> Average Loss: 0.0766
+===> Iters(143700/200000): Loss: 0.0774
+===> Average Loss: 0.0766
+===> Iters(143800/200000): Loss: 0.0761
+===> Average Loss: 0.0769
+===> Iters(143900/200000): Loss: 0.0764
+===> Average Loss: 0.0769
+===> Iters(144000/200000): Loss: 0.0798
+===> Average Loss: 0.0772
+===> So far taining takes: 387(minutes) and 4(seconds)
+===> Expected Time: 537(minutes) and 36(seconds)
+===> Iters(144100/200000): Loss: 0.0741
+===> Average Loss: 0.0768
+===> Iters(144200/200000): Loss: 0.0769
+===> Average Loss: 0.0768
+===> Iters(144300/200000): Loss: 0.0786
+===> Average Loss: 0.0771
+===> Iters(144400/200000): Loss: 0.0744
+===> Average Loss: 0.0768
+===> Iters(144500/200000): Loss: 0.0779
+===> Average Loss: 0.0769
+===> Iters(144600/200000): Loss: 0.0755
+===> Average Loss: 0.0767
+===> Iters(144700/200000): Loss: 0.0762
+===> Average Loss: 0.0766
+===> Iters(144800/200000): Loss: 0.0774
+===> Average Loss: 0.0767
+===> Iters(144900/200000): Loss: 0.0773
+===> Average Loss: 0.0768
+===> Iters(145000/200000): Loss: 0.0761
+===> Average Loss: 0.0764
+===> So far taining takes: 389(minutes) and 49(seconds)
+===> Expected Time: 537(minutes) and 41(seconds)
+===> Iters(145100/200000): Loss: 0.0763
+===> Average Loss: 0.0767
+===> Iters(145200/200000): Loss: 0.0743
+===> Average Loss: 0.0764
+===> Iters(145300/200000): Loss: 0.0783
+===> Average Loss: 0.0764
+===> Iters(145400/200000): Loss: 0.0792
+===> Average Loss: 0.0769
+===> Iters(145500/200000): Loss: 0.0769
+===> Average Loss: 0.0768
+===> Iters(145600/200000): Loss: 0.0771
+===> Average Loss: 0.0769
+===> Iters(145700/200000): Loss: 0.0781
+===> Average Loss: 0.0771
+===> Iters(145800/200000): Loss: 0.0756
+===> Average Loss: 0.0769
+===> Iters(145900/200000): Loss: 0.0750
+===> Average Loss: 0.0767
+===> Iters(146000/200000): Loss: 0.0772
+===> Average Loss: 0.0768
+===> So far taining takes: 392(minutes) and 29(seconds)
+===> Expected Time: 537(minutes) and 38(seconds)
+===> Iters(146100/200000): Loss: 0.0755
+===> Average Loss: 0.0767
+===> Iters(146200/200000): Loss: 0.0771
+===> Average Loss: 0.0770
+===> Iters(146300/200000): Loss: 0.0771
+===> Average Loss: 0.0769
+===> Iters(146400/200000): Loss: 0.0760
+===> Average Loss: 0.0766
+===> Iters(146500/200000): Loss: 0.0778
+===> Average Loss: 0.0767
+===> Iters(146600/200000): Loss: 0.0768
+===> Average Loss: 0.0766
+===> Iters(146700/200000): Loss: 0.0737
+===> Average Loss: 0.0762
+===> Iters(146800/200000): Loss: 0.0791
+===> Average Loss: 0.0765
+===> Iters(146900/200000): Loss: 0.0751
+===> Average Loss: 0.0765
+===> Iters(147000/200000): Loss: 0.0757
+===> Average Loss: 0.0764
+===> So far taining takes: 395(minutes) and 8(seconds)
+===> Expected Time: 537(minutes) and 36(seconds)
+===> Iters(147100/200000): Loss: 0.0772
+===> Average Loss: 0.0766
+===> Iters(147200/200000): Loss: 0.0772
+===> Average Loss: 0.0766
+===> Iters(147300/200000): Loss: 0.0768
+===> Average Loss: 0.0765
+===> Iters(147400/200000): Loss: 0.0763
+===> Average Loss: 0.0766
+===> Iters(147500/200000): Loss: 0.0766
+===> Average Loss: 0.0765
+===> Iters(147600/200000): Loss: 0.0756
+===> Average Loss: 0.0763
+===> Iters(147700/200000): Loss: 0.0784
+===> Average Loss: 0.0768
+===> Iters(147800/200000): Loss: 0.0791
+===> Average Loss: 0.0768
+===> Iters(147900/200000): Loss: 0.0761
+===> Average Loss: 0.0769
+===> Iters(148000/200000): Loss: 0.0767
+===> Average Loss: 0.0770
+===> So far taining takes: 397(minutes) and 48(seconds)
+===> Expected Time: 537(minutes) and 34(seconds)
+===> Iters(148100/200000): Loss: 0.0734
+===> Average Loss: 0.0766
+===> Iters(148200/200000): Loss: 0.0771
+===> Average Loss: 0.0766
+===> Iters(148300/200000): Loss: 0.0789
+===> Average Loss: 0.0768
+===> Iters(148400/200000): Loss: 0.0754
+===> Average Loss: 0.0767
+===> Iters(148500/200000): Loss: 0.0754
+===> Average Loss: 0.0766
+===> Iters(148600/200000): Loss: 0.0770
+===> Average Loss: 0.0768
+===> Iters(148700/200000): Loss: 0.0745
+===> Average Loss: 0.0764
+===> Iters(148800/200000): Loss: 0.0776
+===> Average Loss: 0.0762
+===> Iters(148900/200000): Loss: 0.0760
+===> Average Loss: 0.0762
+===> Iters(149000/200000): Loss: 0.0763
+===> Average Loss: 0.0762
+===> So far taining takes: 400(minutes) and 33(seconds)
+===> Expected Time: 537(minutes) and 39(seconds)
+===> Iters(149100/200000): Loss: 0.0760
+===> Average Loss: 0.0764
+===> Iters(149200/200000): Loss: 0.0775
+===> Average Loss: 0.0765
+===> Iters(149300/200000): Loss: 0.0766
+===> Average Loss: 0.0762
+===> Iters(149400/200000): Loss: 0.0744
+===> Average Loss: 0.0761
+===> Iters(149500/200000): Loss: 0.0762
+===> Average Loss: 0.0762
+===> Iters(149600/200000): Loss: 0.0758
+===> Average Loss: 0.0761
+===> Iters(149700/200000): Loss: 0.0770
+===> Average Loss: 0.0763
+===> Iters(149800/200000): Loss: 0.0762
+===> Average Loss: 0.0762
+===> Iters(149900/200000): Loss: 0.0769
+===> Average Loss: 0.0763
+===> Iters(150000/200000): Loss: 0.0764
+===> Average Loss: 0.0763
+Checkpoint saved to ././Congestion//model_iters_150000.pth
+===> So far taining takes: 403(minutes) and 12(seconds)
+===> Expected Time: 537(minutes) and 36(seconds)
+===> Iters(150100/200000): Loss: 0.0792
+===> Average Loss: 0.0766
+===> Iters(150200/200000): Loss: 0.0756
+===> Average Loss: 0.0764
+===> Iters(150300/200000): Loss: 0.0746
+===> Average Loss: 0.0762
+===> Iters(150400/200000): Loss: 0.0752
+===> Average Loss: 0.0763
+===> Iters(150500/200000): Loss: 0.0776
+===> Average Loss: 0.0764
+===> Iters(150600/200000): Loss: 0.0775
+===> Average Loss: 0.0766
+===> Iters(150700/200000): Loss: 0.0755
+===> Average Loss: 0.0765
+===> Iters(150800/200000): Loss: 0.0763
+===> Average Loss: 0.0765
+===> Iters(150900/200000): Loss: 0.0762
+===> Average Loss: 0.0764
+===> Iters(151000/200000): Loss: 0.0759
+===> Average Loss: 0.0763
+===> So far taining takes: 405(minutes) and 51(seconds)
+===> Expected Time: 537(minutes) and 34(seconds)
+===> Iters(151100/200000): Loss: 0.0743
+===> Average Loss: 0.0759
+===> Iters(151200/200000): Loss: 0.0793
+===> Average Loss: 0.0762
+===> Iters(151300/200000): Loss: 0.0747
+===> Average Loss: 0.0762
+===> Iters(151400/200000): Loss: 0.0798
+===> Average Loss: 0.0767
+===> Iters(151500/200000): Loss: 0.0751
+===> Average Loss: 0.0765
+===> Iters(151600/200000): Loss: 0.0753
+===> Average Loss: 0.0762
+===> Iters(151700/200000): Loss: 0.0745
+===> Average Loss: 0.0761
+===> Iters(151800/200000): Loss: 0.0768
+===> Average Loss: 0.0762
+===> Iters(151900/200000): Loss: 0.0769
+===> Average Loss: 0.0763
+===> Iters(152000/200000): Loss: 0.0756
+===> Average Loss: 0.0762
+===> So far taining takes: 408(minutes) and 31(seconds)
+===> Expected Time: 537(minutes) and 32(seconds)
+===> Iters(152100/200000): Loss: 0.0760
+===> Average Loss: 0.0764
+===> Iters(152200/200000): Loss: 0.0800
+===> Average Loss: 0.0765
+===> Iters(152300/200000): Loss: 0.0763
+===> Average Loss: 0.0766
+===> Iters(152400/200000): Loss: 0.0733
+===> Average Loss: 0.0760
+===> Iters(152500/200000): Loss: 0.0745
+===> Average Loss: 0.0759
+===> Iters(152600/200000): Loss: 0.0777
+===> Average Loss: 0.0762
+===> Iters(152700/200000): Loss: 0.0791
+===> Average Loss: 0.0766
+===> Iters(152800/200000): Loss: 0.0730
+===> Average Loss: 0.0762
+===> Iters(152900/200000): Loss: 0.0755
+===> Average Loss: 0.0761
+===> Iters(153000/200000): Loss: 0.0781
+===> Average Loss: 0.0763
+===> So far taining takes: 411(minutes) and 17(seconds)
+===> Expected Time: 537(minutes) and 37(seconds)
+===> Iters(153100/200000): Loss: 0.0740
+===> Average Loss: 0.0761
+===> Iters(153200/200000): Loss: 0.0755
+===> Average Loss: 0.0757
+===> Iters(153300/200000): Loss: 0.0769
+===> Average Loss: 0.0758
+===> Iters(153400/200000): Loss: 0.0758
+===> Average Loss: 0.0760
+===> Iters(153500/200000): Loss: 0.0756
+===> Average Loss: 0.0761
+===> Iters(153600/200000): Loss: 0.0775
+===> Average Loss: 0.0761
+===> Iters(153700/200000): Loss: 0.0753
+===> Average Loss: 0.0757
+===> Iters(153800/200000): Loss: 0.0747
+===> Average Loss: 0.0759
+===> Iters(153900/200000): Loss: 0.0784
+===> Average Loss: 0.0762
+===> Iters(154000/200000): Loss: 0.0753
+===> Average Loss: 0.0759
+===> So far taining takes: 413(minutes) and 56(seconds)
+===> Expected Time: 537(minutes) and 35(seconds)
+===> Iters(154100/200000): Loss: 0.0761
+===> Average Loss: 0.0761
+===> Iters(154200/200000): Loss: 0.0744
+===> Average Loss: 0.0760
+===> Iters(154300/200000): Loss: 0.0753
+===> Average Loss: 0.0758
+===> Iters(154400/200000): Loss: 0.0766
+===> Average Loss: 0.0759
+===> Iters(154500/200000): Loss: 0.0747
+===> Average Loss: 0.0758
+===> Iters(154600/200000): Loss: 0.0794
+===> Average Loss: 0.0760
+===> Iters(154700/200000): Loss: 0.0745
+===> Average Loss: 0.0759
+===> Iters(154800/200000): Loss: 0.0734
+===> Average Loss: 0.0758
+===> Iters(154900/200000): Loss: 0.0772
+===> Average Loss: 0.0757
+===> Iters(155000/200000): Loss: 0.0763
+===> Average Loss: 0.0758
+===> So far taining takes: 416(minutes) and 35(seconds)
+===> Expected Time: 537(minutes) and 32(seconds)
+===> Iters(155100/200000): Loss: 0.0758
+===> Average Loss: 0.0757
+===> Iters(155200/200000): Loss: 0.0759
+===> Average Loss: 0.0759
+===> Iters(155300/200000): Loss: 0.0750
+===> Average Loss: 0.0759
+===> Iters(155400/200000): Loss: 0.0770
+===> Average Loss: 0.0759
+===> Iters(155500/200000): Loss: 0.0759
+===> Average Loss: 0.0760
+===> Iters(155600/200000): Loss: 0.0763
+===> Average Loss: 0.0757
+===> Iters(155700/200000): Loss: 0.0761
+===> Average Loss: 0.0759
+===> Iters(155800/200000): Loss: 0.0749
+===> Average Loss: 0.0760
+===> Iters(155900/200000): Loss: 0.0782
+===> Average Loss: 0.0761
+===> Iters(156000/200000): Loss: 0.0755
+===> Average Loss: 0.0761
+===> So far taining takes: 419(minutes) and 17(seconds)
+===> Expected Time: 537(minutes) and 32(seconds)
+===> Iters(156100/200000): Loss: 0.0741
+===> Average Loss: 0.0759
+===> Iters(156200/200000): Loss: 0.0762
+===> Average Loss: 0.0759
+===> Iters(156300/200000): Loss: 0.0766
+===> Average Loss: 0.0761
+===> Iters(156400/200000): Loss: 0.0739
+===> Average Loss: 0.0758
+===> Iters(156500/200000): Loss: 0.0776
+===> Average Loss: 0.0760
+===> Iters(156600/200000): Loss: 0.0786
+===> Average Loss: 0.0762
+===> Iters(156700/200000): Loss: 0.0742
+===> Average Loss: 0.0760
+===> Iters(156800/200000): Loss: 0.0752
+===> Average Loss: 0.0760
+===> Iters(156900/200000): Loss: 0.0756
+===> Average Loss: 0.0758
+===> Iters(157000/200000): Loss: 0.0756
+===> Average Loss: 0.0758
+===> So far taining takes: 422(minutes) and 4(seconds)
+===> Expected Time: 537(minutes) and 40(seconds)
+===> Iters(157100/200000): Loss: 0.0738
+===> Average Loss: 0.0757
+===> Iters(157200/200000): Loss: 0.0785
+===> Average Loss: 0.0760
+===> Iters(157300/200000): Loss: 0.0755
+===> Average Loss: 0.0759
+===> Iters(157400/200000): Loss: 0.0751
+===> Average Loss: 0.0760
+===> Iters(157500/200000): Loss: 0.0738
+===> Average Loss: 0.0756
+===> Iters(157600/200000): Loss: 0.0752
+===> Average Loss: 0.0752
+===> Iters(157700/200000): Loss: 0.0783
+===> Average Loss: 0.0757
+===> Iters(157800/200000): Loss: 0.0758
+===> Average Loss: 0.0757
+===> Iters(157900/200000): Loss: 0.0747
+===> Average Loss: 0.0756
+===> Iters(158000/200000): Loss: 0.0754
+===> Average Loss: 0.0756
+===> So far taining takes: 424(minutes) and 44(seconds)
+===> Expected Time: 537(minutes) and 38(seconds)
+===> Iters(158100/200000): Loss: 0.0765
+===> Average Loss: 0.0759
+===> Iters(158200/200000): Loss: 0.0752
+===> Average Loss: 0.0755
+===> Iters(158300/200000): Loss: 0.0768
+===> Average Loss: 0.0757
+===> Iters(158400/200000): Loss: 0.0758
+===> Average Loss: 0.0757
+===> Iters(158500/200000): Loss: 0.0733
+===> Average Loss: 0.0757
+===> Iters(158600/200000): Loss: 0.0785
+===> Average Loss: 0.0760
+===> Iters(158700/200000): Loss: 0.0768
+===> Average Loss: 0.0759
+===> Iters(158800/200000): Loss: 0.0758
+===> Average Loss: 0.0759
+===> Iters(158900/200000): Loss: 0.0769
+===> Average Loss: 0.0761
+===> Iters(159000/200000): Loss: 0.0763
+===> Average Loss: 0.0762
+===> So far taining takes: 427(minutes) and 23(seconds)
+===> Expected Time: 537(minutes) and 36(seconds)
+===> Iters(159100/200000): Loss: 0.0732
+===> Average Loss: 0.0759
+===> Iters(159200/200000): Loss: 0.0738
+===> Average Loss: 0.0757
+===> Iters(159300/200000): Loss: 0.0769
+===> Average Loss: 0.0757
+===> Iters(159400/200000): Loss: 0.0747
+===> Average Loss: 0.0756
+===> Iters(159500/200000): Loss: 0.0757
+===> Average Loss: 0.0759
+===> Iters(159600/200000): Loss: 0.0784
+===> Average Loss: 0.0759
+===> Iters(159700/200000): Loss: 0.0749
+===> Average Loss: 0.0757
+===> Iters(159800/200000): Loss: 0.0768
+===> Average Loss: 0.0758
+===> Iters(159900/200000): Loss: 0.0753
+===> Average Loss: 0.0756
+===> Iters(160000/200000): Loss: 0.0749
+===> Average Loss: 0.0755
+Checkpoint saved to ././Congestion//model_iters_160000.pth
+===> So far taining takes: 430(minutes) and 3(seconds)
+===> Expected Time: 537(minutes) and 34(seconds)
+===> Iters(160100/200000): Loss: 0.0746
+===> Average Loss: 0.0756
+===> Iters(160200/200000): Loss: 0.0740
+===> Average Loss: 0.0756
+===> Iters(160300/200000): Loss: 0.0752
+===> Average Loss: 0.0754
+===> Iters(160400/200000): Loss: 0.0780
+===> Average Loss: 0.0758
+===> Iters(160500/200000): Loss: 0.0730
+===> Average Loss: 0.0755
+===> Iters(160600/200000): Loss: 0.0777
+===> Average Loss: 0.0754
+===> Iters(160700/200000): Loss: 0.0744
+===> Average Loss: 0.0754
+===> Iters(160800/200000): Loss: 0.0797
+===> Average Loss: 0.0757
+===> Iters(160900/200000): Loss: 0.0746
+===> Average Loss: 0.0756
+===> Iters(161000/200000): Loss: 0.0758
+===> Average Loss: 0.0757
+===> So far taining takes: 432(minutes) and 48(seconds)
+===> Expected Time: 537(minutes) and 39(seconds)
+===> Iters(161100/200000): Loss: 0.0753
+===> Average Loss: 0.0758
+===> Iters(161200/200000): Loss: 0.0767
+===> Average Loss: 0.0760
+===> Iters(161300/200000): Loss: 0.0754
+===> Average Loss: 0.0761
+===> Iters(161400/200000): Loss: 0.0762
+===> Average Loss: 0.0759
+===> Iters(161500/200000): Loss: 0.0737
+===> Average Loss: 0.0759
+===> Iters(161600/200000): Loss: 0.0734
+===> Average Loss: 0.0755
+===> Iters(161700/200000): Loss: 0.0750
+===> Average Loss: 0.0756
+===> Iters(161800/200000): Loss: 0.0801
+===> Average Loss: 0.0756
+===> Iters(161900/200000): Loss: 0.0755
+===> Average Loss: 0.0757
+===> Iters(162000/200000): Loss: 0.0740
+===> Average Loss: 0.0755
+===> So far taining takes: 435(minutes) and 28(seconds)
+===> Expected Time: 537(minutes) and 36(seconds)
+===> Iters(162100/200000): Loss: 0.0772
+===> Average Loss: 0.0757
+===> Iters(162200/200000): Loss: 0.0748
+===> Average Loss: 0.0755
+===> Iters(162300/200000): Loss: 0.0753
+===> Average Loss: 0.0755
+===> Iters(162400/200000): Loss: 0.0747
+===> Average Loss: 0.0754
+===> Iters(162500/200000): Loss: 0.0740
+===> Average Loss: 0.0754
+===> Iters(162600/200000): Loss: 0.0780
+===> Average Loss: 0.0759
+===> Iters(162700/200000): Loss: 0.0738
+===> Average Loss: 0.0757
+===> Iters(162800/200000): Loss: 0.0752
+===> Average Loss: 0.0752
+===> Iters(162900/200000): Loss: 0.0740
+===> Average Loss: 0.0751
+===> Iters(163000/200000): Loss: 0.0768
+===> Average Loss: 0.0754
+===> So far taining takes: 438(minutes) and 7(seconds)
+===> Expected Time: 537(minutes) and 34(seconds)
+===> Iters(163100/200000): Loss: 0.0768
+===> Average Loss: 0.0753
+===> Iters(163200/200000): Loss: 0.0777
+===> Average Loss: 0.0756
+===> Iters(163300/200000): Loss: 0.0774
+===> Average Loss: 0.0758
+===> Iters(163400/200000): Loss: 0.0736
+===> Average Loss: 0.0757
+===> Iters(163500/200000): Loss: 0.0761
+===> Average Loss: 0.0759
+===> Iters(163600/200000): Loss: 0.0708
+===> Average Loss: 0.0752
+===> Iters(163700/200000): Loss: 0.0756
+===> Average Loss: 0.0754
+===> Iters(163800/200000): Loss: 0.0744
+===> Average Loss: 0.0753
+===> Iters(163900/200000): Loss: 0.0753
+===> Average Loss: 0.0754
+===> Iters(164000/200000): Loss: 0.0798
+===> Average Loss: 0.0757
+===> So far taining takes: 440(minutes) and 53(seconds)
+===> Expected Time: 537(minutes) and 39(seconds)
+===> Iters(164100/200000): Loss: 0.0755
+===> Average Loss: 0.0756
+===> Iters(164200/200000): Loss: 0.0757
+===> Average Loss: 0.0754
+===> Iters(164300/200000): Loss: 0.0744
+===> Average Loss: 0.0751
+===> Iters(164400/200000): Loss: 0.0749
+===> Average Loss: 0.0752
+===> Iters(164500/200000): Loss: 0.0737
+===> Average Loss: 0.0750
+===> Iters(164600/200000): Loss: 0.0782
+===> Average Loss: 0.0757
+===> Iters(164700/200000): Loss: 0.0760
+===> Average Loss: 0.0758
+===> Iters(164800/200000): Loss: 0.0742
+===> Average Loss: 0.0758
+===> Iters(164900/200000): Loss: 0.0756
+===> Average Loss: 0.0758
+===> Iters(165000/200000): Loss: 0.0753
+===> Average Loss: 0.0754
+===> So far taining takes: 443(minutes) and 32(seconds)
+===> Expected Time: 537(minutes) and 37(seconds)
+===> Iters(165100/200000): Loss: 0.0777
+===> Average Loss: 0.0756
+===> Iters(165200/200000): Loss: 0.0734
+===> Average Loss: 0.0753
+===> Iters(165300/200000): Loss: 0.0749
+===> Average Loss: 0.0754
+===> Iters(165400/200000): Loss: 0.0758
+===> Average Loss: 0.0755
+===> Iters(165500/200000): Loss: 0.0755
+===> Average Loss: 0.0757
+===> Iters(165600/200000): Loss: 0.0759
+===> Average Loss: 0.0754
+===> Iters(165700/200000): Loss: 0.0735
+===> Average Loss: 0.0752
+===> Iters(165800/200000): Loss: 0.0771
+===> Average Loss: 0.0755
+===> Iters(165900/200000): Loss: 0.0746
+===> Average Loss: 0.0754
+===> Iters(166000/200000): Loss: 0.0753
+===> Average Loss: 0.0754
+===> So far taining takes: 446(minutes) and 11(seconds)
+===> Expected Time: 537(minutes) and 34(seconds)
+===> Iters(166100/200000): Loss: 0.0755
+===> Average Loss: 0.0752
+===> Iters(166200/200000): Loss: 0.0751
+===> Average Loss: 0.0753
+===> Iters(166300/200000): Loss: 0.0748
+===> Average Loss: 0.0753
+===> Iters(166400/200000): Loss: 0.0748
+===> Average Loss: 0.0752
+===> Iters(166500/200000): Loss: 0.0769
+===> Average Loss: 0.0754
+===> Iters(166600/200000): Loss: 0.0754
+===> Average Loss: 0.0753
+===> Iters(166700/200000): Loss: 0.0746
+===> Average Loss: 0.0754
+===> Iters(166800/200000): Loss: 0.0774
+===> Average Loss: 0.0754
+===> Iters(166900/200000): Loss: 0.0754
+===> Average Loss: 0.0755
+===> Iters(167000/200000): Loss: 0.0751
+===> Average Loss: 0.0755
+===> So far taining takes: 448(minutes) and 50(seconds)
+===> Expected Time: 537(minutes) and 32(seconds)
+===> Iters(167100/200000): Loss: 0.0729
+===> Average Loss: 0.0752
+===> Iters(167200/200000): Loss: 0.0749
+===> Average Loss: 0.0752
+===> Iters(167300/200000): Loss: 0.0751
+===> Average Loss: 0.0752
+===> Iters(167400/200000): Loss: 0.0759
+===> Average Loss: 0.0754
+===> Iters(167500/200000): Loss: 0.0764
+===> Average Loss: 0.0753
+===> Iters(167600/200000): Loss: 0.0770
+===> Average Loss: 0.0755
+===> Iters(167700/200000): Loss: 0.0740
+===> Average Loss: 0.0754
+===> Iters(167800/200000): Loss: 0.0770
+===> Average Loss: 0.0754
+===> Iters(167900/200000): Loss: 0.0725
+===> Average Loss: 0.0751
+===> Iters(168000/200000): Loss: 0.0757
+===> Average Loss: 0.0751
+===> So far taining takes: 451(minutes) and 36(seconds)
+===> Expected Time: 537(minutes) and 37(seconds)
+===> Iters(168100/200000): Loss: 0.0739
+===> Average Loss: 0.0752
+===> Iters(168200/200000): Loss: 0.0737
+===> Average Loss: 0.0751
+===> Iters(168300/200000): Loss: 0.0761
+===> Average Loss: 0.0752
+===> Iters(168400/200000): Loss: 0.0772
+===> Average Loss: 0.0754
+===> Iters(168500/200000): Loss: 0.0739
+===> Average Loss: 0.0751
+===> Iters(168600/200000): Loss: 0.0779
+===> Average Loss: 0.0752
+===> Iters(168700/200000): Loss: 0.0781
+===> Average Loss: 0.0756
+===> Iters(168800/200000): Loss: 0.0730
+===> Average Loss: 0.0752
+===> Iters(168900/200000): Loss: 0.0729
+===> Average Loss: 0.0752
+===> Iters(169000/200000): Loss: 0.0747
+===> Average Loss: 0.0751
+===> So far taining takes: 454(minutes) and 16(seconds)
+===> Expected Time: 537(minutes) and 36(seconds)
+===> Iters(169100/200000): Loss: 0.0738
+===> Average Loss: 0.0751
+===> Iters(169200/200000): Loss: 0.0772
+===> Average Loss: 0.0755
+===> Iters(169300/200000): Loss: 0.0761
+===> Average Loss: 0.0755
+===> Iters(169400/200000): Loss: 0.0730
+===> Average Loss: 0.0751
+===> Iters(169500/200000): Loss: 0.0766
+===> Average Loss: 0.0753
+===> Iters(169600/200000): Loss: 0.0765
+===> Average Loss: 0.0752
+===> Iters(169700/200000): Loss: 0.0752
+===> Average Loss: 0.0749
+===> Iters(169800/200000): Loss: 0.0732
+===> Average Loss: 0.0749
+===> Iters(169900/200000): Loss: 0.0734
+===> Average Loss: 0.0750
+===> Iters(170000/200000): Loss: 0.0755
+===> Average Loss: 0.0750
+Checkpoint saved to ././Congestion//model_iters_170000.pth
+===> So far taining takes: 456(minutes) and 56(seconds)
+===> Expected Time: 537(minutes) and 34(seconds)
+===> Iters(170100/200000): Loss: 0.0737
+===> Average Loss: 0.0750
+===> Iters(170200/200000): Loss: 0.0796
+===> Average Loss: 0.0753
+===> Iters(170300/200000): Loss: 0.0738
+===> Average Loss: 0.0750
+===> Iters(170400/200000): Loss: 0.0749
+===> Average Loss: 0.0752
+===> Iters(170500/200000): Loss: 0.0772
+===> Average Loss: 0.0753
+===> Iters(170600/200000): Loss: 0.0767
+===> Average Loss: 0.0753
+===> Iters(170700/200000): Loss: 0.0741
+===> Average Loss: 0.0752
+===> Iters(170800/200000): Loss: 0.0745
+===> Average Loss: 0.0753
+===> Iters(170900/200000): Loss: 0.0759
+===> Average Loss: 0.0756
+===> Iters(171000/200000): Loss: 0.0741
+===> Average Loss: 0.0755
+===> So far taining takes: 459(minutes) and 35(seconds)
+===> Expected Time: 537(minutes) and 32(seconds)
+===> Iters(171100/200000): Loss: 0.0745
+===> Average Loss: 0.0755
+===> Iters(171200/200000): Loss: 0.0765
+===> Average Loss: 0.0752
+===> Iters(171300/200000): Loss: 0.0735
+===> Average Loss: 0.0752
+===> Iters(171400/200000): Loss: 0.0773
+===> Average Loss: 0.0754
+===> Iters(171500/200000): Loss: 0.0753
+===> Average Loss: 0.0752
+===> Iters(171600/200000): Loss: 0.0734
+===> Average Loss: 0.0749
+===> Iters(171700/200000): Loss: 0.0758
+===> Average Loss: 0.0751
+===> Iters(171800/200000): Loss: 0.0738
+===> Average Loss: 0.0750
+===> Iters(171900/200000): Loss: 0.0779
+===> Average Loss: 0.0752
+===> Iters(172000/200000): Loss: 0.0743
+===> Average Loss: 0.0752
+===> So far taining takes: 462(minutes) and 20(seconds)
+===> Expected Time: 537(minutes) and 36(seconds)
+===> Iters(172100/200000): Loss: 0.0747
+===> Average Loss: 0.0753
+===> Iters(172200/200000): Loss: 0.0724
+===> Average Loss: 0.0748
+===> Iters(172300/200000): Loss: 0.0771
+===> Average Loss: 0.0752
+===> Iters(172400/200000): Loss: 0.0748
+===> Average Loss: 0.0749
+===> Iters(172500/200000): Loss: 0.0736
+===> Average Loss: 0.0748
+===> Iters(172600/200000): Loss: 0.0765
+===> Average Loss: 0.0751
+===> Iters(172700/200000): Loss: 0.0768
+===> Average Loss: 0.0752
+===> Iters(172800/200000): Loss: 0.0740
+===> Average Loss: 0.0752
+===> Iters(172900/200000): Loss: 0.0738
+===> Average Loss: 0.0748
+===> Iters(173000/200000): Loss: 0.0728
+===> Average Loss: 0.0746
+===> So far taining takes: 464(minutes) and 59(seconds)
+===> Expected Time: 537(minutes) and 34(seconds)
+===> Iters(173100/200000): Loss: 0.0752
+===> Average Loss: 0.0747
+===> Iters(173200/200000): Loss: 0.0783
+===> Average Loss: 0.0753
+===> Iters(173300/200000): Loss: 0.0776
+===> Average Loss: 0.0753
+===> Iters(173400/200000): Loss: 0.0712
+===> Average Loss: 0.0750
+===> Iters(173500/200000): Loss: 0.0772
+===> Average Loss: 0.0753
+===> Iters(173600/200000): Loss: 0.0772
+===> Average Loss: 0.0754
+===> Iters(173700/200000): Loss: 0.0750
+===> Average Loss: 0.0752
+===> Iters(173800/200000): Loss: 0.0752
+===> Average Loss: 0.0753
+===> Iters(173900/200000): Loss: 0.0755
+===> Average Loss: 0.0755
+===> Iters(174000/200000): Loss: 0.0758
+===> Average Loss: 0.0758
+===> So far taining takes: 467(minutes) and 39(seconds)
+===> Expected Time: 537(minutes) and 32(seconds)
+===> Iters(174100/200000): Loss: 0.0738
+===> Average Loss: 0.0757
+===> Iters(174200/200000): Loss: 0.0753
+===> Average Loss: 0.0754
+===> Iters(174300/200000): Loss: 0.0764
+===> Average Loss: 0.0752
+===> Iters(174400/200000): Loss: 0.0755
+===> Average Loss: 0.0757
+===> Iters(174500/200000): Loss: 0.0728
+===> Average Loss: 0.0752
+===> Iters(174600/200000): Loss: 0.0747
+===> Average Loss: 0.0750
+===> Iters(174700/200000): Loss: 0.0754
+===> Average Loss: 0.0750
+===> Iters(174800/200000): Loss: 0.0742
+===> Average Loss: 0.0749
+===> Iters(174900/200000): Loss: 0.0760
+===> Average Loss: 0.0750
+===> Iters(175000/200000): Loss: 0.0745
+===> Average Loss: 0.0748
+===> So far taining takes: 470(minutes) and 18(seconds)
+===> Expected Time: 537(minutes) and 30(seconds)
+===> Iters(175100/200000): Loss: 0.0746
+===> Average Loss: 0.0749
+===> Iters(175200/200000): Loss: 0.0782
+===> Average Loss: 0.0752
+===> Iters(175300/200000): Loss: 0.0729
+===> Average Loss: 0.0749
+===> Iters(175400/200000): Loss: 0.0758
+===> Average Loss: 0.0749
+===> Iters(175500/200000): Loss: 0.0733
+===> Average Loss: 0.0749
+===> Iters(175600/200000): Loss: 0.0759
+===> Average Loss: 0.0751
+===> Iters(175700/200000): Loss: 0.0767
+===> Average Loss: 0.0752
+===> Iters(175800/200000): Loss: 0.0748
+===> Average Loss: 0.0753
+===> Iters(175900/200000): Loss: 0.0732
+===> Average Loss: 0.0750
+===> Iters(176000/200000): Loss: 0.0741
+===> Average Loss: 0.0749
+===> So far taining takes: 473(minutes) and 4(seconds)
+===> Expected Time: 537(minutes) and 35(seconds)
+===> Iters(176100/200000): Loss: 0.0739
+===> Average Loss: 0.0749
+===> Iters(176200/200000): Loss: 0.0759
+===> Average Loss: 0.0746
+===> Iters(176300/200000): Loss: 0.0764
+===> Average Loss: 0.0750
+===> Iters(176400/200000): Loss: 0.0768
+===> Average Loss: 0.0751
+===> Iters(176500/200000): Loss: 0.0761
+===> Average Loss: 0.0754
+===> Iters(176600/200000): Loss: 0.0720
+===> Average Loss: 0.0750
+===> Iters(176700/200000): Loss: 0.0752
+===> Average Loss: 0.0748
+===> Iters(176800/200000): Loss: 0.0749
+===> Average Loss: 0.0748
+===> Iters(176900/200000): Loss: 0.0746
+===> Average Loss: 0.0750
+===> Iters(177000/200000): Loss: 0.0761
+===> Average Loss: 0.0752
+===> So far taining takes: 475(minutes) and 44(seconds)
+===> Expected Time: 537(minutes) and 33(seconds)
+===> Iters(177100/200000): Loss: 0.0724
+===> Average Loss: 0.0750
+===> Iters(177200/200000): Loss: 0.0774
+===> Average Loss: 0.0752
+===> Iters(177300/200000): Loss: 0.0769
+===> Average Loss: 0.0752
+===> Iters(177400/200000): Loss: 0.0745
+===> Average Loss: 0.0750
+===> Iters(177500/200000): Loss: 0.0724
+===> Average Loss: 0.0746
+===> Iters(177600/200000): Loss: 0.0749
+===> Average Loss: 0.0749
+===> Iters(177700/200000): Loss: 0.0756
+===> Average Loss: 0.0750
+===> Iters(177800/200000): Loss: 0.0751
+===> Average Loss: 0.0750
+===> Iters(177900/200000): Loss: 0.0763
+===> Average Loss: 0.0752
+===> Iters(178000/200000): Loss: 0.0750
+===> Average Loss: 0.0751
+===> So far taining takes: 478(minutes) and 24(seconds)
+===> Expected Time: 537(minutes) and 31(seconds)
+===> Iters(178100/200000): Loss: 0.0728
+===> Average Loss: 0.0751
+===> Iters(178200/200000): Loss: 0.0770
+===> Average Loss: 0.0750
+===> Iters(178300/200000): Loss: 0.0755
+===> Average Loss: 0.0749
+===> Iters(178400/200000): Loss: 0.0739
+===> Average Loss: 0.0748
+===> Iters(178500/200000): Loss: 0.0760
+===> Average Loss: 0.0752
+===> Iters(178600/200000): Loss: 0.0712
+===> Average Loss: 0.0748
+===> Iters(178700/200000): Loss: 0.0744
+===> Average Loss: 0.0747
+===> Iters(178800/200000): Loss: 0.0742
+===> Average Loss: 0.0746
+===> Iters(178900/200000): Loss: 0.0761
+===> Average Loss: 0.0746
+===> Iters(179000/200000): Loss: 0.0761
+===> Average Loss: 0.0747
+===> So far taining takes: 481(minutes) and 3(seconds)
+===> Expected Time: 537(minutes) and 29(seconds)
+===> Iters(179100/200000): Loss: 0.0751
+===> Average Loss: 0.0749
+===> Iters(179200/200000): Loss: 0.0730
+===> Average Loss: 0.0745
+===> Iters(179300/200000): Loss: 0.0763
+===> Average Loss: 0.0746
+===> Iters(179400/200000): Loss: 0.0767
+===> Average Loss: 0.0749
+===> Iters(179500/200000): Loss: 0.0734
+===> Average Loss: 0.0746
+===> Iters(179600/200000): Loss: 0.0762
+===> Average Loss: 0.0751
+===> Iters(179700/200000): Loss: 0.0744
+===> Average Loss: 0.0751
+===> Iters(179800/200000): Loss: 0.0760
+===> Average Loss: 0.0753
+===> Iters(179900/200000): Loss: 0.0744
+===> Average Loss: 0.0752
+===> Iters(180000/200000): Loss: 0.0776
+===> Average Loss: 0.0753
+Checkpoint saved to ././Congestion//model_iters_180000.pth
+===> So far taining takes: 483(minutes) and 50(seconds)
+===> Expected Time: 537(minutes) and 35(seconds)
+===> Iters(180100/200000): Loss: 0.0748
+===> Average Loss: 0.0753
+===> Iters(180200/200000): Loss: 0.0747
+===> Average Loss: 0.0755
+===> Iters(180300/200000): Loss: 0.0736
+===> Average Loss: 0.0752
+===> Iters(180400/200000): Loss: 0.0721
+===> Average Loss: 0.0747
+===> Iters(180500/200000): Loss: 0.0766
+===> Average Loss: 0.0751
+===> Iters(180600/200000): Loss: 0.0727
+===> Average Loss: 0.0747
+===> Iters(180700/200000): Loss: 0.0737
+===> Average Loss: 0.0746
+===> Iters(180800/200000): Loss: 0.0782
+===> Average Loss: 0.0748
+===> Iters(180900/200000): Loss: 0.0765
+===> Average Loss: 0.0751
+===> Iters(181000/200000): Loss: 0.0759
+===> Average Loss: 0.0749
+===> So far taining takes: 486(minutes) and 29(seconds)
+===> Expected Time: 537(minutes) and 33(seconds)
+===> Iters(181100/200000): Loss: 0.0734
+===> Average Loss: 0.0748
+===> Iters(181200/200000): Loss: 0.0742
+===> Average Loss: 0.0747
+===> Iters(181300/200000): Loss: 0.0743
+===> Average Loss: 0.0748
+===> Iters(181400/200000): Loss: 0.0760
+===> Average Loss: 0.0752
+===> Iters(181500/200000): Loss: 0.0717
+===> Average Loss: 0.0747
+===> Iters(181600/200000): Loss: 0.0761
+===> Average Loss: 0.0750
+===> Iters(181700/200000): Loss: 0.0751
+===> Average Loss: 0.0751
+===> Iters(181800/200000): Loss: 0.0761
+===> Average Loss: 0.0749
+===> Iters(181900/200000): Loss: 0.0744
+===> Average Loss: 0.0747
+===> Iters(182000/200000): Loss: 0.0728
+===> Average Loss: 0.0744
+===> So far taining takes: 489(minutes) and 9(seconds)
+===> Expected Time: 537(minutes) and 31(seconds)
+===> Iters(182100/200000): Loss: 0.0766
+===> Average Loss: 0.0747
+===> Iters(182200/200000): Loss: 0.0763
+===> Average Loss: 0.0749
+===> Iters(182300/200000): Loss: 0.0748
+===> Average Loss: 0.0750
+===> Iters(182400/200000): Loss: 0.0755
+===> Average Loss: 0.0749
+===> Iters(182500/200000): Loss: 0.0740
+===> Average Loss: 0.0752
+===> Iters(182600/200000): Loss: 0.0759
+===> Average Loss: 0.0752
+===> Iters(182700/200000): Loss: 0.0756
+===> Average Loss: 0.0752
+===> Iters(182800/200000): Loss: 0.0722
+===> Average Loss: 0.0748
+===> Iters(182900/200000): Loss: 0.0746
+===> Average Loss: 0.0748
+===> Iters(183000/200000): Loss: 0.0758
+===> Average Loss: 0.0751
+===> So far taining takes: 491(minutes) and 54(seconds)
+===> Expected Time: 537(minutes) and 36(seconds)
+===> Iters(183100/200000): Loss: 0.0743
+===> Average Loss: 0.0749
+===> Iters(183200/200000): Loss: 0.0720
+===> Average Loss: 0.0745
+===> Iters(183300/200000): Loss: 0.0750
+===> Average Loss: 0.0745
+===> Iters(183400/200000): Loss: 0.0769
+===> Average Loss: 0.0746
+===> Iters(183500/200000): Loss: 0.0757
+===> Average Loss: 0.0748
+===> Iters(183600/200000): Loss: 0.0768
+===> Average Loss: 0.0749
+===> Iters(183700/200000): Loss: 0.0747
+===> Average Loss: 0.0748
+===> Iters(183800/200000): Loss: 0.0718
+===> Average Loss: 0.0748
+===> Iters(183900/200000): Loss: 0.0747
+===> Average Loss: 0.0748
+===> Iters(184000/200000): Loss: 0.0731
+===> Average Loss: 0.0745
+===> So far taining takes: 494(minutes) and 34(seconds)
+===> Expected Time: 537(minutes) and 34(seconds)
+===> Iters(184100/200000): Loss: 0.0773
+===> Average Loss: 0.0748
+===> Iters(184200/200000): Loss: 0.0759
+===> Average Loss: 0.0752
+===> Iters(184300/200000): Loss: 0.0744
+===> Average Loss: 0.0751
+===> Iters(184400/200000): Loss: 0.0724
+===> Average Loss: 0.0747
+===> Iters(184500/200000): Loss: 0.0730
+===> Average Loss: 0.0744
+===> Iters(184600/200000): Loss: 0.0765
+===> Average Loss: 0.0744
+===> Iters(184700/200000): Loss: 0.0758
+===> Average Loss: 0.0745
+===> Iters(184800/200000): Loss: 0.0745
+===> Average Loss: 0.0748
+===> Iters(184900/200000): Loss: 0.0747
+===> Average Loss: 0.0748
+===> Iters(185000/200000): Loss: 0.0744
+===> Average Loss: 0.0749
+===> So far taining takes: 497(minutes) and 13(seconds)
+===> Expected Time: 537(minutes) and 32(seconds)
+===> Iters(185100/200000): Loss: 0.0746
+===> Average Loss: 0.0746
+===> Iters(185200/200000): Loss: 0.0778
+===> Average Loss: 0.0748
+===> Iters(185300/200000): Loss: 0.0739
+===> Average Loss: 0.0748
+===> Iters(185400/200000): Loss: 0.0755
+===> Average Loss: 0.0751
+===> Iters(185500/200000): Loss: 0.0754
+===> Average Loss: 0.0753
+===> Iters(185600/200000): Loss: 0.0756
+===> Average Loss: 0.0752
+===> Iters(185700/200000): Loss: 0.0717
+===> Average Loss: 0.0748
+===> Iters(185800/200000): Loss: 0.0748
+===> Average Loss: 0.0748
+===> Iters(185900/200000): Loss: 0.0789
+===> Average Loss: 0.0753
+===> Iters(186000/200000): Loss: 0.0728
+===> Average Loss: 0.0751
+===> So far taining takes: 499(minutes) and 52(seconds)
+===> Expected Time: 537(minutes) and 30(seconds)
+===> Iters(186100/200000): Loss: 0.0738
+===> Average Loss: 0.0750
+===> Iters(186200/200000): Loss: 0.0749
+===> Average Loss: 0.0747
+===> Iters(186300/200000): Loss: 0.0752
+===> Average Loss: 0.0749
+===> Iters(186400/200000): Loss: 0.0751
+===> Average Loss: 0.0748
+===> Iters(186500/200000): Loss: 0.0741
+===> Average Loss: 0.0747
+===> Iters(186600/200000): Loss: 0.0762
+===> Average Loss: 0.0748
+===> Iters(186700/200000): Loss: 0.0767
+===> Average Loss: 0.0753
+===> Iters(186800/200000): Loss: 0.0748
+===> Average Loss: 0.0753
+===> Iters(186900/200000): Loss: 0.0731
+===> Average Loss: 0.0747
+===> Iters(187000/200000): Loss: 0.0759
+===> Average Loss: 0.0750
+===> So far taining takes: 502(minutes) and 38(seconds)
+===> Expected Time: 537(minutes) and 34(seconds)
+===> Iters(187100/200000): Loss: 0.0756
+===> Average Loss: 0.0752
+===> Iters(187200/200000): Loss: 0.0738
+===> Average Loss: 0.0751
+===> Iters(187300/200000): Loss: 0.0733
+===> Average Loss: 0.0749
+===> Iters(187400/200000): Loss: 0.0745
+===> Average Loss: 0.0748
+===> Iters(187500/200000): Loss: 0.0744
+===> Average Loss: 0.0748
+===> Iters(187600/200000): Loss: 0.0747
+===> Average Loss: 0.0747
+===> Iters(187700/200000): Loss: 0.0749
+===> Average Loss: 0.0745
+===> Iters(187800/200000): Loss: 0.0760
+===> Average Loss: 0.0746
+===> Iters(187900/200000): Loss: 0.0751
+===> Average Loss: 0.0748
+===> Iters(188000/200000): Loss: 0.0789
+===> Average Loss: 0.0751
+===> So far taining takes: 505(minutes) and 17(seconds)
+===> Expected Time: 537(minutes) and 32(seconds)
+===> Iters(188100/200000): Loss: 0.0706
+===> Average Loss: 0.0746
+===> Iters(188200/200000): Loss: 0.0733
+===> Average Loss: 0.0746
+===> Iters(188300/200000): Loss: 0.0748
+===> Average Loss: 0.0747
+===> Iters(188400/200000): Loss: 0.0741
+===> Average Loss: 0.0747
+===> Iters(188500/200000): Loss: 0.0776
+===> Average Loss: 0.0750
+===> Iters(188600/200000): Loss: 0.0753
+===> Average Loss: 0.0751
+===> Iters(188700/200000): Loss: 0.0722
+===> Average Loss: 0.0748
+===> Iters(188800/200000): Loss: 0.0746
+===> Average Loss: 0.0746
+===> Iters(188900/200000): Loss: 0.0743
+===> Average Loss: 0.0746
+===> Iters(189000/200000): Loss: 0.0734
+===> Average Loss: 0.0740
+===> So far taining takes: 507(minutes) and 56(seconds)
+===> Expected Time: 537(minutes) and 30(seconds)
+===> Iters(189100/200000): Loss: 0.0757
+===> Average Loss: 0.0745
+===> Iters(189200/200000): Loss: 0.0770
+===> Average Loss: 0.0749
+===> Iters(189300/200000): Loss: 0.0740
+===> Average Loss: 0.0748
+===> Iters(189400/200000): Loss: 0.0769
+===> Average Loss: 0.0751
+===> Iters(189500/200000): Loss: 0.0739
+===> Average Loss: 0.0747
+===> Iters(189600/200000): Loss: 0.0735
+===> Average Loss: 0.0746
+===> Iters(189700/200000): Loss: 0.0756
+===> Average Loss: 0.0749
+===> Iters(189800/200000): Loss: 0.0744
+===> Average Loss: 0.0749
+===> Iters(189900/200000): Loss: 0.0767
+===> Average Loss: 0.0751
+===> Iters(190000/200000): Loss: 0.0741
+===> Average Loss: 0.0752
+Checkpoint saved to ././Congestion//model_iters_190000.pth
+===> So far taining takes: 510(minutes) and 36(seconds)
+===> Expected Time: 537(minutes) and 28(seconds)
+===> Iters(190100/200000): Loss: 0.0707
+===> Average Loss: 0.0747
+===> Iters(190200/200000): Loss: 0.0763
+===> Average Loss: 0.0746
+===> Iters(190300/200000): Loss: 0.0742
+===> Average Loss: 0.0746
+===> Iters(190400/200000): Loss: 0.0774
+===> Average Loss: 0.0747
+===> Iters(190500/200000): Loss: 0.0730
+===> Average Loss: 0.0746
+===> Iters(190600/200000): Loss: 0.0764
+===> Average Loss: 0.0749
+===> Iters(190700/200000): Loss: 0.0732
+===> Average Loss: 0.0747
+===> Iters(190800/200000): Loss: 0.0704
+===> Average Loss: 0.0743
+===> Iters(190900/200000): Loss: 0.0788
+===> Average Loss: 0.0745
+===> Iters(191000/200000): Loss: 0.0783
+===> Average Loss: 0.0749
+===> So far taining takes: 513(minutes) and 21(seconds)
+===> Expected Time: 537(minutes) and 33(seconds)
+===> Iters(191100/200000): Loss: 0.0751
+===> Average Loss: 0.0753
+===> Iters(191200/200000): Loss: 0.0756
+===> Average Loss: 0.0752
+===> Iters(191300/200000): Loss: 0.0725
+===> Average Loss: 0.0751
+===> Iters(191400/200000): Loss: 0.0731
+===> Average Loss: 0.0746
+===> Iters(191500/200000): Loss: 0.0743
+===> Average Loss: 0.0748
+===> Iters(191600/200000): Loss: 0.0748
+===> Average Loss: 0.0746
+===> Iters(191700/200000): Loss: 0.0727
+===> Average Loss: 0.0746
+===> Iters(191800/200000): Loss: 0.0756
+===> Average Loss: 0.0751
+===> Iters(191900/200000): Loss: 0.0791
+===> Average Loss: 0.0751
+===> Iters(192000/200000): Loss: 0.0726
+===> Average Loss: 0.0745
+===> So far taining takes: 516(minutes) and 0(seconds)
+===> Expected Time: 537(minutes) and 30(seconds)
+===> Iters(192100/200000): Loss: 0.0743
+===> Average Loss: 0.0745
+===> Iters(192200/200000): Loss: 0.0746
+===> Average Loss: 0.0744
+===> Iters(192300/200000): Loss: 0.0749
+===> Average Loss: 0.0746
+===> Iters(192400/200000): Loss: 0.0736
+===> Average Loss: 0.0746
+===> Iters(192500/200000): Loss: 0.0785
+===> Average Loss: 0.0751
+===> Iters(192600/200000): Loss: 0.0740
+===> Average Loss: 0.0750
+===> Iters(192700/200000): Loss: 0.0740
+===> Average Loss: 0.0751
+===> Iters(192800/200000): Loss: 0.0747
+===> Average Loss: 0.0750
+===> Iters(192900/200000): Loss: 0.0720
+===> Average Loss: 0.0743
+===> Iters(193000/200000): Loss: 0.0746
+===> Average Loss: 0.0745
+===> So far taining takes: 518(minutes) and 40(seconds)
+===> Expected Time: 537(minutes) and 28(seconds)
+===> Iters(193100/200000): Loss: 0.0763
+===> Average Loss: 0.0747
+===> Iters(193200/200000): Loss: 0.0754
+===> Average Loss: 0.0748
+===> Iters(193300/200000): Loss: 0.0754
+===> Average Loss: 0.0748
+===> Iters(193400/200000): Loss: 0.0746
+===> Average Loss: 0.0749
+===> Iters(193500/200000): Loss: 0.0751
+===> Average Loss: 0.0746
+===> Iters(193600/200000): Loss: 0.0727
+===> Average Loss: 0.0745
+===> Iters(193700/200000): Loss: 0.0751
+===> Average Loss: 0.0746
+===> Iters(193800/200000): Loss: 0.0754
+===> Average Loss: 0.0747
+===> Iters(193900/200000): Loss: 0.0733
+===> Average Loss: 0.0748
+===> Iters(194000/200000): Loss: 0.0755
+===> Average Loss: 0.0749
+===> So far taining takes: 521(minutes) and 19(seconds)
+===> Expected Time: 537(minutes) and 26(seconds)
+===> Iters(194100/200000): Loss: 0.0755
+===> Average Loss: 0.0748
+===> Iters(194200/200000): Loss: 0.0725
+===> Average Loss: 0.0745
+===> Iters(194300/200000): Loss: 0.0759
+===> Average Loss: 0.0746
+===> Iters(194400/200000): Loss: 0.0743
+===> Average Loss: 0.0745
+===> Iters(194500/200000): Loss: 0.0752
+===> Average Loss: 0.0745
+===> Iters(194600/200000): Loss: 0.0755
+===> Average Loss: 0.0748
+===> Iters(194700/200000): Loss: 0.0765
+===> Average Loss: 0.0750
+===> Iters(194800/200000): Loss: 0.0708
+===> Average Loss: 0.0745
+===> Iters(194900/200000): Loss: 0.0766
+===> Average Loss: 0.0748
+===> Iters(195000/200000): Loss: 0.0749
+===> Average Loss: 0.0748
+===> So far taining takes: 524(minutes) and 4(seconds)
+===> Expected Time: 537(minutes) and 30(seconds)
+===> Iters(195100/200000): Loss: 0.0732
+===> Average Loss: 0.0745
+===> Iters(195200/200000): Loss: 0.0760
+===> Average Loss: 0.0749
+===> Iters(195300/200000): Loss: 0.0757
+===> Average Loss: 0.0749
+===> Iters(195400/200000): Loss: 0.0727
+===> Average Loss: 0.0747
+===> Iters(195500/200000): Loss: 0.0745
+===> Average Loss: 0.0746
+===> Iters(195600/200000): Loss: 0.0743
+===> Average Loss: 0.0745
+===> Iters(195700/200000): Loss: 0.0741
+===> Average Loss: 0.0743
+===> Iters(195800/200000): Loss: 0.0760
+===> Average Loss: 0.0748
+===> Iters(195900/200000): Loss: 0.0753
+===> Average Loss: 0.0747
+===> Iters(196000/200000): Loss: 0.0736
+===> Average Loss: 0.0745
+===> So far taining takes: 526(minutes) and 43(seconds)
+===> Expected Time: 537(minutes) and 28(seconds)
+===> Iters(196100/200000): Loss: 0.0727
+===> Average Loss: 0.0745
+===> Iters(196200/200000): Loss: 0.0756
+===> Average Loss: 0.0745
+===> Iters(196300/200000): Loss: 0.0776
+===> Average Loss: 0.0746
+===> Iters(196400/200000): Loss: 0.0746
+===> Average Loss: 0.0748
+===> Iters(196500/200000): Loss: 0.0738
+===> Average Loss: 0.0748
+===> Iters(196600/200000): Loss: 0.0739
+===> Average Loss: 0.0747
+===> Iters(196700/200000): Loss: 0.0760
+===> Average Loss: 0.0749
+===> Iters(196800/200000): Loss: 0.0762
+===> Average Loss: 0.0749
+===> Iters(196900/200000): Loss: 0.0764
+===> Average Loss: 0.0750
+===> Iters(197000/200000): Loss: 0.0726
+===> Average Loss: 0.0749
+===> So far taining takes: 529(minutes) and 23(seconds)
+===> Expected Time: 537(minutes) and 26(seconds)
+===> Iters(197100/200000): Loss: 0.0740
+===> Average Loss: 0.0751
+===> Iters(197200/200000): Loss: 0.0761
+===> Average Loss: 0.0751
+===> Iters(197300/200000): Loss: 0.0759
+===> Average Loss: 0.0749
+===> Iters(197400/200000): Loss: 0.0739
+===> Average Loss: 0.0749
+===> Iters(197500/200000): Loss: 0.0752
+===> Average Loss: 0.0750
+===> Iters(197600/200000): Loss: 0.0726
+===> Average Loss: 0.0749
+===> Iters(197700/200000): Loss: 0.0756
+===> Average Loss: 0.0748
+===> Iters(197800/200000): Loss: 0.0732
+===> Average Loss: 0.0745
+===> Iters(197900/200000): Loss: 0.0756
+===> Average Loss: 0.0745
+===> Iters(198000/200000): Loss: 0.0737
+===> Average Loss: 0.0746
+===> So far taining takes: 532(minutes) and 2(seconds)
+===> Expected Time: 537(minutes) and 25(seconds)
+===> Iters(198100/200000): Loss: 0.0749
+===> Average Loss: 0.0747
+===> Iters(198200/200000): Loss: 0.0745
+===> Average Loss: 0.0745
+===> Iters(198300/200000): Loss: 0.0754
+===> Average Loss: 0.0745
+===> Iters(198400/200000): Loss: 0.0736
+===> Average Loss: 0.0744
+===> Iters(198500/200000): Loss: 0.0774
+===> Average Loss: 0.0746
+===> Iters(198600/200000): Loss: 0.0735
+===> Average Loss: 0.0747
+===> Iters(198700/200000): Loss: 0.0750
+===> Average Loss: 0.0747
+===> Iters(198800/200000): Loss: 0.0754
+===> Average Loss: 0.0749
+===> Iters(198900/200000): Loss: 0.0734
+===> Average Loss: 0.0747
+===> Iters(199000/200000): Loss: 0.0731
+===> Average Loss: 0.0746
+===> So far taining takes: 534(minutes) and 47(seconds)
+===> Expected Time: 537(minutes) and 28(seconds)
+===> Iters(199100/200000): Loss: 0.0732
+===> Average Loss: 0.0744
+===> Iters(199200/200000): Loss: 0.0761
+===> Average Loss: 0.0746
+===> Iters(199300/200000): Loss: 0.0749
+===> Average Loss: 0.0746
+===> Iters(199400/200000): Loss: 0.0775
+===> Average Loss: 0.0750
+===> Iters(199500/200000): Loss: 0.0749
+===> Average Loss: 0.0747
+===> Iters(199600/200000): Loss: 0.0754
+===> Average Loss: 0.0749
+===> Iters(199700/200000): Loss: 0.0721
+===> Average Loss: 0.0746
+===> Iters(199800/200000): Loss: 0.0767
+===> Average Loss: 0.0747
+===> Iters(199900/200000): Loss: 0.0716
+===> Average Loss: 0.0746
+===> Iters(200000/200000): Loss: 0.0742
+===> Average Loss: 0.0747
+Checkpoint saved to ././Congestion//model_iters_200000.pth
+===> So far taining takes: 537(minutes) and 26(seconds)
+===> Expected Time: 537(minutes) and 26(seconds)
+Run Inference...
+Model: [model_iters_10000.pth] Inference...
+===> Loading datasets
+===> Building model
+===> Avg. NRMS: 0.0465
+===> Avg. SSIM: 0.7937
+Model: [model_iters_20000.pth] Inference...
+===> Loading datasets
+===> Building model
+===> Avg. NRMS: 0.0472
+===> Avg. SSIM: 0.7942
+Model: [model_iters_30000.pth] Inference...
+===> Loading datasets
+===> Building model
+===> Avg. NRMS: 0.0465
+===> Avg. SSIM: 0.7960
+Model: [model_iters_40000.pth] Inference...
+===> Loading datasets
+===> Building model
+===> Avg. NRMS: 0.0462
+===> Avg. SSIM: 0.7962
+Model: [model_iters_50000.pth] Inference...
+===> Loading datasets
+===> Building model
+===> Avg. NRMS: 0.0462
+===> Avg. SSIM: 0.7980
+Model: [model_iters_60000.pth] Inference...
+===> Loading datasets
+===> Building model
+===> Avg. NRMS: 0.0462
+===> Avg. SSIM: 0.7984
+Model: [model_iters_70000.pth] Inference...
+===> Loading datasets
+===> Building model
+===> Avg. NRMS: 0.0466
+===> Avg. SSIM: 0.7978
+Model: [model_iters_80000.pth] Inference...
+===> Loading datasets
+===> Building model
+===> Avg. NRMS: 0.0464
+===> Avg. SSIM: 0.7981
+Model: [model_iters_90000.pth] Inference...
+===> Loading datasets
+===> Building model
+===> Avg. NRMS: 0.0466
+===> Avg. SSIM: 0.7973
+Model: [model_iters_100000.pth] Inference...
+===> Loading datasets
+===> Building model
+===> Avg. NRMS: 0.0464
+===> Avg. SSIM: 0.7984
+Model: [model_iters_110000.pth] Inference...
+===> Loading datasets
+===> Building model
+===> Avg. NRMS: 0.0464
+===> Avg. SSIM: 0.7986
+Model: [model_iters_120000.pth] Inference...
+===> Loading datasets
+===> Building model
+===> Avg. NRMS: 0.0465
+===> Avg. SSIM: 0.7984
+Model: [model_iters_130000.pth] Inference...
+===> Loading datasets
+===> Building model
+===> Avg. NRMS: 0.0466
+===> Avg. SSIM: 0.7978
+Model: [model_iters_140000.pth] Inference...
+===> Loading datasets
+===> Building model
+===> Avg. NRMS: 0.0467
+===> Avg. SSIM: 0.7977
+Model: [model_iters_150000.pth] Inference...
+===> Loading datasets
+===> Building model
+===> Avg. NRMS: 0.0466
+===> Avg. SSIM: 0.7977
+Model: [model_iters_160000.pth] Inference...
+===> Loading datasets
+===> Building model
+===> Avg. NRMS: 0.0467
+===> Avg. SSIM: 0.7975
+Model: [model_iters_170000.pth] Inference...
+===> Loading datasets
+===> Building model
+===> Avg. NRMS: 0.0467
+===> Avg. SSIM: 0.7979
+Model: [model_iters_180000.pth] Inference...
+===> Loading datasets
+===> Building model
+===> Avg. NRMS: 0.0467
+===> Avg. SSIM: 0.7977
+Model: [model_iters_190000.pth] Inference...
+===> Loading datasets
+===> Building model
+===> Avg. NRMS: 0.0467
+===> Avg. SSIM: 0.7976
+Model: [model_iters_200000.pth] Inference...
+===> Loading datasets
+===> Building model
+===> Avg. NRMS: 0.0467
+===> Avg. SSIM: 0.7975
+This message will be displayed back to the screen.
