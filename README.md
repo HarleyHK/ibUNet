@@ -22,8 +22,7 @@ Then, run the preprocessing script to generate the training set for correspondin
 
 (2) Set the two dataset paths for our two tasks:
 As shown in our Windows version code, we can configure the two task dataset paths in utils/configs.py to:
-"C:/Circuit_Net/congestion_DataSet/"
-"C:/Circuit_Net/DRC_DataSet/"
+"C:/Circuit_Net/congestion_DataSet/" and "C:/Circuit_Net/DRC_DataSet/"
 
 (3) Batch run the code for reproducing the experimental results.
 call the main function in the file: Run_Train_and_Inference.py with parameters: "--task Cong_or_DDR --xxx xxx"
