@@ -1,5 +1,4 @@
-# ibUNet
-
+The repository for the ibUNet project: A Lightweight Inception Boosted U-Net Neural Network for Routability Prediction
 
 The following information regarding the ibUNet project's repository, which is used to reproduce the experimental results presented in the paper titled "A Lightweight Inception Boosted U-Net Neural Network for Routability Prediction" submitted to the conference ISEDA2024 (https://www.eda2.com/iseda/index.html).
 
@@ -21,4 +20,3 @@ We would also like to express our gratitude for the published dataset CircuitNet
 (4) Attached two files: Congestion_LogFile.txt and DRC_LogFile.txt are the results we generated.
 
 ============================================================================================
-
